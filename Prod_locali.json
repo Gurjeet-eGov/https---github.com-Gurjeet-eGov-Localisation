@@ -1,0 +1,116 @@
+[
+    {
+        "code": "PQM_QUALITYTESTLAB_TESTING_IN_HOUSE_LAB",
+        "message": "",
+        "module": "rainmaker-tqm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PLANT_TST-004",
+        "message": "",
+        "module": "rainmaker-tqm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TQM_MONITOR",
+        "message": "Treatment quality",
+        "module": "rainmaker-tqm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_WORKFLOW_TIMELINE",
+        "message": "Timeline",
+        "module": "rainmaker-tqm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PROCESS_DEWATS_TECHNOLOGY",
+        "message": "DEWATS TECHNOLOGY",
+        "module": "rainmaker-tqm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PLANT_TST_004",
+        "message": "TST-004",
+        "module": "rainmaker-tqm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_SOURCETYPE_DESCRIPTION",
+        "message": "Description",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_QUALITYCRITERIA_TDS",
+        "message": "TDS",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_QUALITYCRITERIA_TSS",
+        "message": "TSS",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_QUALITYCRITERIA_COD",
+        "message": "COD",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_QUALITYCRITERIA_BOD",
+        "message": "BOD",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_QUALITYCRITERIA_PH",
+        "message": "PH",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_SOURCETYPE_LAB_ADHOC",
+        "message": "LAB Adhoc",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_SOURCETYPE_LAB_SCHEDULED",
+        "message": "LAB Scheduled",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_MATERIAL_DRY_SLUDGE_COMPOSTING",
+        "message": "Dry sludge ready for co-composting",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_MATERIAL_THICKENED_SLUDGE",
+        "message": "Thickened Sludge",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_MATERIAL_EFFLUENT_TREATED",
+        "message": "Treated Effluent",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_MATERIAL_EFFLUENT_INTERIM",
+        "message": "Effluent (interim)",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_MATERIAL_RAW_SLUDGE",
+        "message": "Raw Sludge from Septic Tanks",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    }
+]

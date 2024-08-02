@@ -1,0 +1,557 @@
+{
+    "tenantId": "pg.citya",
+    "uuid": "13641f10-2945-4ca4-ac5b-886b8401a034",
+    "businessService": "PAY_LATER_SERVICE",
+    "business": "fsm",
+    "businessServiceSla": 172800000,
+    "states": [
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "157d771a-2447-49eb-88c9-ed8cb822bed9",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": null,
+        "applicationStatus": null,
+        "docUploadRequired": false,
+        "isStartState": true,
+        "isTerminateState": false,
+        "isStateUpdatable": true,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "27868d81-cae9-4d35-a089-202ed9a4cd03",
+            "tenantId": "pg.citya",
+            "currentState": "157d771a-2447-49eb-88c9-ed8cb822bed9",
+            "action": "APPLY",
+            "nextState": "dcb1c5e0-0be3-4586-be25-fae5af87d1ad",
+            "roles": [
+              "FSM_CREATOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "85b397da-70e7-4b84-a5ce-6996dbc82180",
+            "tenantId": "pg.citya",
+            "currentState": "157d771a-2447-49eb-88c9-ed8cb822bed9",
+            "action": "CREATE",
+            "nextState": "18415b6e-9a58-43ee-8435-aab5d9455962",
+            "roles": [
+              "CITIZEN"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "18415b6e-9a58-43ee-8435-aab5d9455962",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "CREATED",
+        "applicationStatus": "CREATED",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": false,
+        "isStateUpdatable": true,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "d43232ef-d2cc-4642-aa0c-8f93b2135efa",
+            "tenantId": "pg.citya",
+            "currentState": "18415b6e-9a58-43ee-8435-aab5d9455962",
+            "action": "SUBMIT",
+            "nextState": "dcb1c5e0-0be3-4586-be25-fae5af87d1ad",
+            "roles": [
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "cc25c61b-1d0f-435d-bbfa-62fb0b723dc7",
+            "tenantId": "pg.citya",
+            "currentState": "18415b6e-9a58-43ee-8435-aab5d9455962",
+            "action": "REJECT",
+            "nextState": "dc2d79f9-6e01-451c-b7d1-ea191a99dbef",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "dcb1c5e0-0be3-4586-be25-fae5af87d1ad",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "ASSING_DSO",
+        "applicationStatus": "ASSING_DSO",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": false,
+        "isStateUpdatable": true,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "9aff9284-d117-42a5-875a-444f83e4717d",
+            "tenantId": "pg.citya",
+            "currentState": "dcb1c5e0-0be3-4586-be25-fae5af87d1ad",
+            "action": "ASSIGN",
+            "nextState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "roles": [
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "3685cc20-5e82-4f6e-b913-44a55d2a6427",
+            "tenantId": "pg.citya",
+            "currentState": "dcb1c5e0-0be3-4586-be25-fae5af87d1ad",
+            "action": "CANCEL",
+            "nextState": "350a17b2-a5fe-4bfd-8f4a-c219b317a270",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "418887f7-fc51-4f61-8933-d2b6d789373f",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "PENDING_DSO_APPROVAL",
+        "applicationStatus": "PENDING_DSO_APPROVAL",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": false,
+        "isStateUpdatable": true,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "cfed806a-fbe6-4580-8480-771741b2e889",
+            "tenantId": "pg.citya",
+            "currentState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "action": "CANCEL",
+            "nextState": "350a17b2-a5fe-4bfd-8f4a-c219b317a270",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "20353bd9-92b3-43e2-855b-0e309969e79d",
+            "tenantId": "pg.citya",
+            "currentState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "action": "REASSING",
+            "nextState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "roles": [
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "321c2893-f456-4623-a671-b2cd170d7163",
+            "tenantId": "pg.citya",
+            "currentState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "action": "DSO_ACCEPT",
+            "nextState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "roles": [
+              "FSM_DSO",
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "7e0425a9-a48e-41d2-b778-98fbddaa2f69",
+            "tenantId": "pg.citya",
+            "currentState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "action": "DSO_REJECT",
+            "nextState": "f8d8399b-5f1b-43fe-ba20-0435c489b37d",
+            "roles": [
+              "FSM_DSO",
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "f8d8399b-5f1b-43fe-ba20-0435c489b37d",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "DSO_REJECTED",
+        "applicationStatus": "DSO_REJECTED",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": false,
+        "isStateUpdatable": true,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "ab6e22ce-9d09-404d-be6f-aefcdbebab72",
+            "tenantId": "pg.citya",
+            "currentState": "f8d8399b-5f1b-43fe-ba20-0435c489b37d",
+            "action": "SENDBACK",
+            "nextState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "0c820b69-ed50-45dd-bb1c-bce7c367e197",
+            "tenantId": "pg.citya",
+            "currentState": "f8d8399b-5f1b-43fe-ba20-0435c489b37d",
+            "action": "CANCEL",
+            "nextState": "350a17b2-a5fe-4bfd-8f4a-c219b317a270",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "11102169-bfa4-433a-881a-b488c0cd6275",
+            "tenantId": "pg.citya",
+            "currentState": "f8d8399b-5f1b-43fe-ba20-0435c489b37d",
+            "action": "REASSING",
+            "nextState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "roles": [
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "DSO_INPROGRESS",
+        "applicationStatus": "DSO_INPROGRESS",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": false,
+        "isStateUpdatable": true,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "69c94e8b-0aca-4ac1-aeea-0f11ef448162",
+            "tenantId": "pg.citya",
+            "currentState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "action": "SENDBACK",
+            "nextState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "89512d7d-efd9-463d-a732-c116b1b4c4aa",
+            "tenantId": "pg.citya",
+            "currentState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "action": "CANCEL",
+            "nextState": "350a17b2-a5fe-4bfd-8f4a-c219b317a270",
+            "roles": [
+              "FSM_ADMIN"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "85582802-7c6b-4538-ac4c-a64038132ebd",
+            "tenantId": "pg.citya",
+            "currentState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "action": "COMPLETED",
+            "nextState": "5b8846c4-800b-4846-bd98-6b58be612d2b",
+            "roles": [
+              "FSM_DSO",
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "b7886eb7-c95d-4adb-b41e-5217d0590b84",
+            "tenantId": "pg.citya",
+            "currentState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "action": "PAY",
+            "nextState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "roles": [
+              "CITIZEN",
+              "FSM_COLLECTOR"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "6fc32c60-26ec-4bee-ac4d-d122cd89c597",
+            "tenantId": "pg.citya",
+            "currentState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "action": "UPDATE",
+            "nextState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "roles": [
+              "FSM_DSO",
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          },
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "a4eb8211-f5b3-4eb2-bd3e-17f8f11c35c2",
+            "tenantId": "pg.citya",
+            "currentState": "a8401dd3-ebd2-4d98-a7cd-fe8d9a20f2e2",
+            "action": "REASSING",
+            "nextState": "418887f7-fc51-4f61-8933-d2b6d789373f",
+            "roles": [
+              "FSM_EDITOR_EMP"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "5b8846c4-800b-4846-bd98-6b58be612d2b",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "CITIZEN_FEEDBACK_PENDING",
+        "applicationStatus": "CITIZEN_FEEDBACK_PENDING",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": false,
+        "isStateUpdatable": false,
+        "actions": [
+          {
+            "auditDetails": {
+              "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+              "createdTime": 1685100097097,
+              "lastModifiedTime": 1685100097097
+            },
+            "uuid": "0d121e34-005c-450e-90de-4a41646d1fbf",
+            "tenantId": "pg.citya",
+            "currentState": "5b8846c4-800b-4846-bd98-6b58be612d2b",
+            "action": "RATE",
+            "nextState": "c64aff45-5618-48b9-81f2-efda2b00c026",
+            "roles": [
+              "CITIZEN"
+            ],
+            "active": true
+          }
+        ]
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "c64aff45-5618-48b9-81f2-efda2b00c026",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "COMPLETED",
+        "applicationStatus": "COMPLETED",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": true,
+        "isStateUpdatable": false,
+        "actions": null
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "dc2d79f9-6e01-451c-b7d1-ea191a99dbef",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "REJECTED",
+        "applicationStatus": "REJECTED",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": true,
+        "isStateUpdatable": false,
+        "actions": null
+      },
+      {
+        "auditDetails": {
+          "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+          "createdTime": 1685100097097,
+          "lastModifiedTime": 1685100097097
+        },
+        "uuid": "350a17b2-a5fe-4bfd-8f4a-c219b317a270",
+        "tenantId": "pg.citya",
+        "businessServiceId": "13641f10-2945-4ca4-ac5b-886b8401a034",
+        "sla": null,
+        "state": "CANCELED",
+        "applicationStatus": "CANCELED",
+        "docUploadRequired": false,
+        "isStartState": false,
+        "isTerminateState": true,
+        "isStateUpdatable": false,
+        "actions": null
+      }
+    ],
+    "auditDetails": {
+      "createdBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+      "lastModifiedBy": "0e01e2f7-c4e6-4d1b-9513-a3db669a21b0",
+      "createdTime": 1685100097097,
+      "lastModifiedTime": 1685100097097
+    }
+  }
