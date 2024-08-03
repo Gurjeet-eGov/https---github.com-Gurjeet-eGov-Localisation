@@ -3,7 +3,7 @@ from dataclasses import dataclass
 from typing import List,Optional
 
 @dataclass
-class Localization:
+class LocalizationList:
     code: str
     message: str
     module: str
