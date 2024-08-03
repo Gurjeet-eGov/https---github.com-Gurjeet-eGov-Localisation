@@ -2,7 +2,7 @@ import os
 import json
 import utils
 from pathlib import Path
-from payload import LocalizationList
+from Payload.LocalisationUpsert import *
 
 class Localisation:
 

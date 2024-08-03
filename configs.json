@@ -1,0 +1,32 @@
+{
+    "Environment": {
+      "host": "https://egov-sandbox.niua.org",
+      "localhost": "http://localhost:8082/",
+      "stateCode": "pg",
+      "cityCode": "citya",
+      "auth_header": {
+        "authorization": "Basic ZWdvdi11c2VyLWNsaWVudDo="
+      }
+    },
+    "Citizen": {
+        "username": "8080808000",
+        "password": "123456",
+        "type": "CITIZEN"
+    },
+    "alternateCitizen": {
+        "username": "8080808001",
+        "password": "123456",
+        "type": "CITIZEN"
+    },
+    "citizenArchitect": {
+        "username": "8080808000",
+        "password": "123456",
+        "type": "CITIZEN"
+    },
+    "Superuser": {
+        "username": "MDMSAD2",
+        "password": "upyogTest@123",
+        "type": "EMPLOYEE"
+    }
+    
+}

@@ -1,0 +1,11 @@
+{
+    "Login": {
+        "oauth": "/user/oauth/token"
+    },
+    "Localisation": {
+        "upsert": "/localization/messages/v1/_upsert",
+        "delete": "/localization/messages/v1/_delete",
+        "search": "/localization/messages/v1/_search",
+        "searchv2": "/localization/messages/v2/_search"
+    }
+}

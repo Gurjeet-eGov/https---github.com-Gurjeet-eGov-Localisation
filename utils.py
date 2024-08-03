@@ -1,5 +1,5 @@
 import re
-
+import json
 
 def formatCode(prefix, code):
     # returns sanitised text
@@ -7,6 +7,17 @@ def formatCode(prefix, code):
     prefix=re.sub(r'[^a-zA-Z0-9]', '_', prefix)
     localised_code=prefix+localised_code
     return localised_code.upper()
+
+
+def get_json(path):
+    """ 
+    Takes JSON file from path and converts on Dict obj
+    args: path(str)
+    returns: Dictionary Obj
+    dependancy: import json 
+    """
+    with open(path) as payload_file:
+        return json.load(payload_file)
 
 
 def extract_properties_keys(obj):
