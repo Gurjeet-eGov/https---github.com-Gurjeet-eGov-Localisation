@@ -21,8 +21,10 @@ def get_json(path):
 
 
 def extract_properties_keys(obj):
-        keys_set = set()  # Use a set to track unique keys
-        
+    keys_set = set()  # Use a set to track unique keys
+    array_type_keys_set = set()  # Use a separate set to track keys with 'type' as "array"
+
+    def recursive_extract(obj):
         if isinstance(obj, dict):
             # If 'properties' key is found, process it
             if 'properties' in obj:
@@ -31,12 +33,17 @@ def extract_properties_keys(obj):
                 # Recursively check each nested 'properties'
                 for key, value in obj['properties'].items():
                     if isinstance(value, dict):
+                        # Check if 'type' key is present and its value is "array"
+                        if 'type' in value and value['type'] == "array":
+                            array_type_keys_set.add(key)
                         # Recursively search nested properties
-                        keys_set.update(extract_properties_keys(value))
+                        recursive_extract(value)
                         
             # Recursively check for 'properties' in nested dictionaries
             for key, value in obj.items():
                 if isinstance(value, dict):
-                    keys_set.update(extract_properties_keys(value))
+                    recursive_extract(value)
 
-        return list(keys_set)  # Convert the set back to a list before returning
+    recursive_extract(obj)
+
+    return list(keys_set), list(array_type_keys_set)  # Convert sets back to lists before returning

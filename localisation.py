@@ -49,6 +49,8 @@ class Localisation:
 
     def generateLocalisations(self, module, locale):
         
+        sorted_set=set()
+        ArrayKeysList=[]
         MasterKeysList=[]
         ModuleName: str
         MasterName: str
@@ -84,14 +86,27 @@ class Localisation:
             code=utils.formatCode(prefix=SchemaPrefix, code=SubPrefix)
             self.generateLocalisationArray(code=code, message=MasterName, module=module, locale=locale)
 
-
-
             # Get list of fields within a schema def            
             with open(i) as File:
                 jsonData=json.load(File)
-                MasterKeysList=utils.extract_properties_keys(jsonData)
+                MasterKeysList, ArrayKeysList=utils.extract_properties_keys(jsonData)
 
-            # Create schema fields localisations
+            SubPrefix=ModuleName+'_'+MasterName
+            # Create schema fields localisations (PROPERTYTAX_DOCUMENTS_CODE)
             for key in MasterKeysList:
+                key=key.capitalize()
                 code=utils.formatCode(prefix=SubPrefix+'_', code=key)
-                self.generateLocalisationArray(code=code, message=key, module=module, locale=locale)    
+                self.generateLocalisationArray(code=code, message=key, module=module, locale=locale)
+            
+            # Removes duplicates from array keys 
+            for key in ArrayKeysList:
+                sorted_set.add(key)
+        
+        ArrayKeysList=list(sorted_set)
+        ArrayPrefix=ModuleName+'_'+ModuleName
+
+        # Create schema fields localisations (PROPERTYTAX_DOCUMENTS_CODE)
+        for key in ArrayKeysList:
+            key=key.capitalize()
+            code=utils.formatCode(prefix=ArrayPrefix+'_', code=key)
+            self.generateLocalisationArray(code=code, message=key, module=module, locale=locale)

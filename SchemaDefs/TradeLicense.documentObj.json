@@ -1,0 +1,46 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "allowedDocs",
+        "tradeType"
+    ],
+    "x-unique": [
+        "tradeType"
+    ],
+    "properties": {
+        "tradeType": {
+            "type": "string"
+        },
+        "allowedDocs": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "documentType",
+                    "applicationType",
+                    "required"
+                ],
+                "properties": {
+                    "required": {
+                        "type": "boolean"
+                    },
+                    "documentType": {
+                        "type": "string"
+                    },
+                    "applicationType": {
+                        "type": "array",
+                        "items": {
+                            "enum": [
+                                "NEW",
+                                "RENEWAL"
+                            ],
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

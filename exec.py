@@ -19,3 +19,5 @@ print(LocalisationResponse.status_code)
 
 with open('response.json', 'w') as file:
     file.write(json.dumps(LocalisationResponse.json()))
+
+# print(json.dumps(Localisations))

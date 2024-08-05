@@ -1,0 +1,31 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "tradeType",
+        "accessory",
+        "financialYear",
+        "active"
+    ],
+    "x-unique": [
+        "tradeType",
+        "financialYear"
+    ],
+    "properties": {
+        "active": {
+            "type": "boolean",
+            "default": true
+        },
+        "accessory": {
+            "type": "string"
+        },
+        "tradeType": {
+            "type": "string"
+        },
+        "financialYear": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}$"
+        }
+    }
+}
