@@ -1,0 +1,157 @@
+[
+    {
+        "id": 128,
+        "url": "/ifms-adapter/pi/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 130,
+        "url": "/ifms-adapter/funds/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 131,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/search-payment-instruction"
+    },
+    {
+        "id": 171,
+        "url": "/mukta-ifix-adapter/v1/pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 172,
+        "url": "/mukta-ifix-adapter/v1/pi/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 173,
+        "url": "/mukta-ifix-adapter/v1/disburse/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 174,
+        "url": "/wms/mukta-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 71,
+        "url": "/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 72,
+        "url": "/individual/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 203,
+        "url": "/wms/report/payment-tracker/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 204,
+        "url": "/wms/report/payment-tracker/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 205,
+        "url": "/egov-pdf/download/paymentTracker/payment-tracker",
+        "nav_url": ""
+    },
+    {
+        "id": 206,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/payment-tracker"
+    },
+    {
+        "id": 207,
+        "url": "/wms/report/payment_tracker",
+        "nav_url": ""
+    },
+    {
+        "id": 211,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/payment-tracker"
+    },
+    {
+        "id": 212,
+        "url": "/mukta-services/bankaccount/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 213,
+        "url": "/mukta-services/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 93,
+        "url": "/bankaccount-service/bankaccount/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 94,
+        "url": "/bankaccount-service/bankaccount/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 101,
+        "url": "/org-services/organisation/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 111,
+        "url": "/wms/expense/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 114,
+        "url": "/egov-pdf/bill/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 115,
+        "url": "/egov-pdf/bill/_generate",
+        "nav_url": ""
+    },
+    {
+        "id": 116,
+        "url": "/expense/payment/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 118,
+        "url": "/expense/payment/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 119,
+        "url": "/expense/payment/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 120,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/search-bill?status=APPROVED"
+    },
+    {
+        "id": 121,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/download-bill"
+    },
+    {
+        "id": 125,
+        "url": "/expense/bill/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 126,
+        "url": "/wms/ifms-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 127,
+        "url": "/ifms-adapter/pi/v1/_search",
+        "nav_url": ""
+    }
+]

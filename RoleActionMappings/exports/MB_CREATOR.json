@@ -1,0 +1,67 @@
+[
+    {
+        "id": 132,
+        "url": "/measurement-service/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 133,
+        "url": "/measurement-service/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 134,
+        "url": "/measurement-service/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 135,
+        "url": "/wms/measurement-service/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 136,
+        "url": "/mukta-services/measurement/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 139,
+        "url": "url",
+        "nav_url": "/works-ui/employee/contracts/search-contract?status=ACCEPTED"
+    },
+    {
+        "id": 140,
+        "url": "url",
+        "nav_url": "/works-ui/employee/measurement/inbox"
+    },
+    {
+        "id": 141,
+        "url": "url",
+        "nav_url": "/works-ui/employee/measurement/search"
+    },
+    {
+        "id": 175,
+        "url": "",
+        "nav_url": ""
+    },
+    {
+        "id": 176,
+        "url": "",
+        "nav_url": ""
+    },
+    {
+        "id": 186,
+        "url": "/statements/v1/utilization/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 188,
+        "url": "/egov-pdf/download/utilizationStatement/utilization-statement",
+        "nav_url": ""
+    },
+    {
+        "id": 189,
+        "url": "/statements/v1/utilization/_search",
+        "nav_url": ""
+    }
+]

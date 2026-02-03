@@ -1,0 +1,92 @@
+[
+    {
+        "id": 64,
+        "url": "url",
+        "nav_url": "/works-ui/employee/masters/create-organization"
+    },
+    {
+        "id": 98,
+        "url": "/wms/individual/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 100,
+        "url": "/org-services/organisation/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 101,
+        "url": "/org-services/organisation/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 102,
+        "url": "/wms/organisation/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 71,
+        "url": "/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 72,
+        "url": "/individual/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 105,
+        "url": "url",
+        "nav_url": "/works-ui/employee/masters/search-organization"
+    },
+    {
+        "id": 74,
+        "url": "/individual/v1/_delete",
+        "nav_url": ""
+    },
+    {
+        "id": 107,
+        "url": "/user/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 78,
+        "url": "url",
+        "nav_url": "/works-ui/employee/masters/search-wageseeker"
+    },
+    {
+        "id": 212,
+        "url": "/mukta-services/bankaccount/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 213,
+        "url": "/mukta-services/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 214,
+        "url": "/mukta-services/org-services/organisation/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 91,
+        "url": "/org-services/organisation/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 92,
+        "url": "/bankaccount-service/bankaccount/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 93,
+        "url": "/bankaccount-service/bankaccount/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 94,
+        "url": "/bankaccount-service/bankaccount/v1/_search",
+        "nav_url": ""
+    }
+]

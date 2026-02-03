@@ -1,0 +1,40 @@
+{
+    "SewerageConnection": {
+        "applicationStatus": "PENDING_APPROVAL_FOR_CONNECTION",
+        "plumberInfo": [
+            {
+                "name": null,
+                "licenseNo": null,
+                "mobileNumber": null
+            }
+        ],
+        "roadCuttingInfo": [
+            {
+                "roadType": "RD1",
+                "roadCuttingArea": 20,
+                "status": "ACTIVE"
+            }
+        ],
+        "connectionExecutionDate": 0,
+        "additionalDetails": {
+            "locality": "SUN02",
+            "ownerName": "Donald",
+            "detailsProvidedBy": "Self",
+            "appCreatedDate": 1764848030622
+        },
+        "processInstance": {
+            "businessService": "NewSW1",
+            "action": "APPROVE_FOR_CONNECTION",
+            "moduleName": "sw-services"
+        },
+        "noOfWaterClosets": 4,
+        "noOfToilets": 4,
+        "serviceType": "SEWERAGE",
+        "action": "APPROVE_FOR_CONNECTION",
+        "comment": "",
+        "assignee": [],
+        "assignes": [],
+        "wfDocuments": null
+    },
+    "RequestInfo": {}
+}

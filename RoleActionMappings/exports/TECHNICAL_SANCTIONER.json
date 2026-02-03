@@ -1,0 +1,47 @@
+[
+    {
+        "id": 103,
+        "url": "/egov-pdf/download/estimate/estimates",
+        "nav_url": ""
+    },
+    {
+        "id": 10,
+        "url": "/estimate/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 11,
+        "url": "/estimate/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 77,
+        "url": "/wms/estimate/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 16,
+        "url": "url",
+        "nav_url": "/works-ui/employee/estimate/search-estimate"
+    },
+    {
+        "id": 17,
+        "url": "url",
+        "nav_url": "/works-ui/employee/estimate/inbox"
+    },
+    {
+        "id": 184,
+        "url": "/statements/v1/analysis/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 185,
+        "url": "/statements/v1/analysis/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 187,
+        "url": "/egov-pdf/download/analysisStatement/analysis-statement",
+        "nav_url": ""
+    }
+]

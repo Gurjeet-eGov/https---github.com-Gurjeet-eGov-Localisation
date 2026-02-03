@@ -1,0 +1,42 @@
+[
+    {
+        "id": 10,
+        "url": "/estimate/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 15,
+        "url": "url",
+        "nav_url": "/works-ui/employee/project/create-project"
+    },
+    {
+        "id": 18,
+        "url": "url",
+        "nav_url": "/works-ui/employee/project/search-project"
+    },
+    {
+        "id": 51,
+        "url": "/project/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 52,
+        "url": "/project/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 53,
+        "url": "/project/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 215,
+        "url": "/filestore/v1/files",
+        "nav_url": ""
+    },
+    {
+        "id": 88,
+        "url": "/wms/project/_search",
+        "nav_url": ""
+    }
+]

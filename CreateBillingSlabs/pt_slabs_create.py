@@ -6,7 +6,7 @@ import os
 # Constants
 JSON_FILE = 'output_json/test_output_output.json'
 BATCH_SIZE = 1000
-ENDPOINT = 'http://localhost:8082/pt-calculator-v2/billingslab/mutation/_create'
+ENDPOINT = 'http://localhost:8083/pt-calculator-v2/billingslab/mutation/_create'
 
 # Static RequestInfo
 REQUEST_INFO = {

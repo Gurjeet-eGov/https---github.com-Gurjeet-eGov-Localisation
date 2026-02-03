@@ -1,0 +1,17 @@
+[
+    {
+        "id": 194,
+        "url": "url",
+        "nav_url": "/works-ui/employee/rateAnalysis/search-sor"
+    },
+    {
+        "id": 180,
+        "url": "/rate-analysis/v1/scheduler/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 181,
+        "url": "/rate-analysis/v1/scheduler/_search",
+        "nav_url": ""
+    }
+]

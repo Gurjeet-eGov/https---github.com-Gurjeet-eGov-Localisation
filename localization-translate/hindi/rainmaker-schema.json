@@ -1,0 +1,1538 @@
+[
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_DISPLAYNAME",
+        "message": "प्रदर्शित होने वाला नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_ENABLED",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_ID",
+        "message": "पहचान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_ORDERNUMBER",
+        "message": "क्रम संख्या",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_PARENTMODULE",
+        "message": "मूल मॉड्यूल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_PATH",
+        "message": "पथ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_SERVICECODE",
+        "message": "सेवा कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_URL",
+        "message": "यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_ACTIONCODE",
+        "message": "क्रिया संहिता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_ACTIONID",
+        "message": "कार्रवाई आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_ROLECODE",
+        "message": "भूमिका संहिता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_TENANTID",
+        "message": "किरायेदार आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_ID",
+        "message": "पहचान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_TENANTID",
+        "message": "किरायेदार आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DESIGNATION_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_BASEUOM",
+        "message": "बेस यूओएम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_CODE",
+        "message": "यूओएम कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_CONVERSIONFACTOR",
+        "message": "रूपांतरण कारक",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_FROMDATE",
+        "message": "की तिथि से",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_ID",
+        "message": "पहचान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_TENANTID",
+        "message": "किरायेदार आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_TODATE",
+        "message": "तारीख तक",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UOM_UOMCATEGORY",
+        "message": "यूओएम श्रेणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_DEPARTMENT_ARRAY",
+        "message": "विभाग",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_DEPARTMENT_COMPLETED",
+        "message": "पुरा होना।",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_DEPARTMENT_ID",
+        "message": "पहचान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_DEPARTMENT_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_DEPARTMENT_TITLE",
+        "message": "शीर्षक",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CREATED_FROM_DATE",
+        "message": "की तिथि से",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CREATED_TO_DATE",
+        "message": "तारीख तक",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_EMPLOYEESTATUS_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_EMPLOYEESTATUS_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_EMPLOYEETYPE_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_SPECALIZATION_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LOCALIZATION_CODE_WORKBENCH",
+        "message": "स्थानीयकरण कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MDMS_CODE_WORKBENCH",
+        "message": "एमडीएमएस कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_FROMDATE",
+        "message": "की तिथि से",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_ID",
+        "message": "सर्विस डिफ़ आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_KEYWORDS",
+        "message": "सर्विस डेफ़ कीवर्ड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_NAME",
+        "message": "सेवा परिभाषा नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_SERVICECODE",
+        "message": "सेवा संहिता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_SERVICEDEFSCATEGORY",
+        "message": "सेवा परिभाषा श्रेणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_SLAHOURS",
+        "message": "एसएलए घंटे",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SERVICEDEFS_TODATE",
+        "message": "तारीख तक",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_KEYWORDS",
+        "message": "कीवर्ड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_MENUPATH",
+        "message": "शिकायत प्रकार कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_ORDER",
+        "message": "आदेश",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_SERVICECODE",
+        "message": "शिकायत उप-प्रकार कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_SLAHOURS",
+        "message": "एसएलए घंटे",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST",
+        "message": "क्रिया परीक्षण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS",
+        "message": "भूमिका क्रिया",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_ACCESSCONTROL_ROLES_ROLES",
+        "message": "भूमिकाएँ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_COMMON_MASTERS_DEPARTMENT",
+        "message": "विभागों",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_COMMON_MASTERS_UOM",
+        "message": "सामान्य मास्टर्स यूओएम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_COMMON_MASTER_DEPARTMENT",
+        "message": "विभागों",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_PGR_SERVICEDEFS",
+        "message": "पीजीआर सर्विस डिफ्स",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_RAINMAKER_PGR_SERVICEDEFS",
+        "message": "शिकायत श्रेणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_TENANT_TENANTS",
+        "message": "किराएदार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_TRADE_ARRAYTYPES",
+        "message": "व्यापार सारणी प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_TRADE_DETAILS",
+        "message": "व्यापार विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_TRADE_VALIDATIONS",
+        "message": "व्यापार सत्यापन",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_WORKFLOW_SAMPLE",
+        "message": "वर्कफ़्लो नमूना",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICEDEFS.ROADBLOCKED",
+        "message": "सड़क अवरुद्ध",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_ADDRESS",
+        "message": "पता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_CAPTCHA",
+        "message": "कॅप्चा",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_CITY",
+        "message": "शहर",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_CITYA",
+        "message": "शहर",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_CONTACTNUMBER",
+        "message": "संपर्क संख्या",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DDRNAME",
+        "message": "डीडीआर नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DDRNAMETIP_TENANT_TENANTS_DDRNAME",
+        "message": "डीडीआर नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DISTRICTCODE",
+        "message": "जिला कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DISTRICTNAME",
+        "message": "जिले का नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DISTRICTTENANTCODE",
+        "message": "जिला किरायेदार कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_DOMAINURL",
+        "message": "डोमेन यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_EMAILID",
+        "message": "ईमेल आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_FACEBOOKURL",
+        "message": "फेसबुक यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_FACEBOOKURLTIP_TENANT_TENANTS_FACEBOOKURL",
+        "message": "फेसबुक यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_IMAGEID",
+        "message": "छवि आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_LATITUDE",
+        "message": "अक्षांश",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_LOCALNAME",
+        "message": "स्थानीय नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_LOGOID",
+        "message": "किरायेदार लॉगॉइड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_LONGITUDE",
+        "message": "देशान्तर",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_MON___FRI",
+        "message": "सोम-शुक्र",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_OFFICETIMINGS",
+        "message": "कार्यालय समय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_REGIONNAME",
+        "message": "क्षेत्र का नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_SHAPEFILELOCATION",
+        "message": "शेपफ़ाइल स्थान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_TWITTERURL",
+        "message": "ट्विटर यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_TYPE",
+        "message": "किरायेदार प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_ULBGRADE",
+        "message": "यूएलबी ग्रेड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_DISPLAYNAME",
+        "message": "प्रदर्शित होने वाला नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_ENABLED",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_ID",
+        "message": "पहचान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_ORDERNUMBER",
+        "message": "क्रम संख्या",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_PARENTMODULE",
+        "message": "मूल मॉड्यूल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_PATH",
+        "message": "पथ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_SERVICECODE",
+        "message": "सेवा कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST_URL",
+        "message": "यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_ACTIONCODE",
+        "message": "क्रिया संहिता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_ACTIONID",
+        "message": "कार्रवाई आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_ROLECODE",
+        "message": "भूमिका संहिता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS_TENANTID",
+        "message": "किरायेदार आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLES_ROLES_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLES_ROLES_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_ACCESSCONTROL_ROLES_ROLES_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_DESIGNATION_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सत्य पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_DESIGNATION_CODE",
+        "message": "आप जो पदनाम बना रहे हैं, उसके लिए अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_DESIGNATION_NAME",
+        "message": "पदनाम कोड की पहचान के लिए नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_GENDERTYPE_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सत्य पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_GENDERTYPE_CODE",
+        "message": "आपके द्वारा बनाए जा रहे लिंग प्रकार के लिए अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTER_DESIGNATION_DESCRIPTION",
+        "message": "पदनाम का संक्षिप्त विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_DEACTIVATIONREASON_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सही पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_DEACTIVATIONREASON_CODE",
+        "message": "निष्क्रियकरण कारण के लिए अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEEDEPARTMENT_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सही पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEEDEPARTMENT_CODE",
+        "message": "आप जिस विभाग का निर्माण कर रहे हैं, उसे अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEESTATUS_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सही पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEESTATUS_CODE",
+        "message": "आपके द्वारा बनाई जा रही रोजगार स्थिति के लिए अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEETYPE_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सही पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEETYPE_CODE",
+        "message": "आपके द्वारा बनाए जा रहे कर्मचारी प्रकार के लिए अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_SPECALIZATION_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सत्य पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_SPECALIZATION_CODE",
+        "message": "आप जो विशेषज्ञता बना रहे हैं, उसके लिए अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सही पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_DEPARTMENT",
+        "message": "इस उपप्रकार की शिकायतें किस विभाग को सौंपी जानी चाहिए",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_KEYWORDS",
+        "message": "वे कीवर्ड जिनके लिए यह शिकायत उप-प्रकार प्रकट होता है",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_MENUPATH",
+        "message": "संबंधित शिकायत प्रकार कोड दर्ज करें।मौजूदा कोड की सूची के लिए, कृपया शिकायत उपयोगकर्ता मैनुअल देखें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_NAME",
+        "message": "उस शिकायत उप-प्रकार का नाम दर्ज करें जिसे आप बनाना चाहते हैं।यह उप-प्रकार कोड से संबद्ध होगा",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_SERVICECODE",
+        "message": "शिकायत उप-प्रकार के लिए एक अद्वितीय कोड दर्ज करें जो बनाया जा रहा है",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_RAINMAKER_PGR_SERVICEDEFS_SLAHOURS",
+        "message": "इस शिकायत उप-प्रकार के लिए SLA दर्ज करें",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_ADDRESS",
+        "message": "पता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_CAPTCHA",
+        "message": "कॅप्चा",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_CITY",
+        "message": "शहर",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_CODE",
+        "message": "कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_CONTACTNUMBER",
+        "message": "संपर्क संख्या",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DDRNAME",
+        "message": "डीडीआर नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DDRNAMETIP_TENANT_TENANTS_DDRNAME",
+        "message": "डीडीआर नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DISTRICTCODE",
+        "message": "जिला कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DISTRICTNAME",
+        "message": "जिले का नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DISTRICTTENANTCODE",
+        "message": "जिला किरायेदार कोड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_DOMAINURL",
+        "message": "डोमेन यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_EMAILID",
+        "message": "ईमेल आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_FACEBOOKURL",
+        "message": "फेसबुक यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_FACEBOOKURLTIP_TENANT_TENANTS_FACEBOOKURL",
+        "message": "फेसबुक यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_IMAGEID",
+        "message": "छवि आईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_LATITUDE",
+        "message": "अक्षांश",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_LOCALNAME",
+        "message": "स्थानीय नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_LOGOID",
+        "message": "किरायेदार लॉगॉइड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_LONGITUDE",
+        "message": "देशान्तर",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_MON___FRI",
+        "message": "सोम-शुक्र",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_OFFICETIMINGS",
+        "message": "कार्यालय समय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_REGIONNAME",
+        "message": "क्षेत्र का नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_SHAPEFILELOCATION",
+        "message": "शेपफ़ाइल स्थान",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_TWITTERURL",
+        "message": "ट्विटर यूआरएल",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_TYPE",
+        "message": "किरायेदार प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TENANT_TENANTS_ULBGRADE",
+        "message": "यूएलबी ग्रेड",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_AGE",
+        "message": "आयु",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_ARRAYOFOBJECTS",
+        "message": "वस्तुओं की श्रृंखला",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_BOOLEANARRAY",
+        "message": "बूलियन सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_CIRCULARARRAY",
+        "message": "वृत्ताकार सारणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_DYNAMICARRAY",
+        "message": "गतिशील सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_JAGGEDARRAY",
+        "message": "दांतेदार सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_ONEDIMENSIONALARRAY",
+        "message": "एक आयामी सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_PARALLELARRAYAGES",
+        "message": "समानांतर सरणी आयु",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_PARALLELARRAYNAMES",
+        "message": "समानांतर सरणी नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_SPARSEARRAY",
+        "message": "विरल सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_STRINGARRAY",
+        "message": "स्ट्रिंग सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_ARRAYTYPES_TWODIMENSIONALARRAY",
+        "message": "दो आयामी सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_TRADE_ARRAYOFOBJECTS",
+        "message": "वस्तुओं की श्रृंखला",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_TRADE_JAGGEDARRAY",
+        "message": "दांतेदार सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_TRADE_TRADE_TWODIMENSIONALARRAY",
+        "message": "दो आयामी सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_AGE",
+        "message": "आयु",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_ARRAYOFOBJECTS",
+        "message": "वस्तुओं की श्रृंखला",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_BOOLEANARRAY",
+        "message": "बूलियन सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_CIRCULARARRAY",
+        "message": "वृत्ताकार सारणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_DYNAMICARRAY",
+        "message": "गतिशील सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_JAGGEDARRAY",
+        "message": "दांतेदार सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_ONEDIMENSIONALARRAY",
+        "message": "एक आयामी सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_PARALLELARRAYAGES",
+        "message": "समानांतर सरणी आयु",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_PARALLELARRAYNAMES",
+        "message": "समानांतर सरणी नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_SPARSEARRAY",
+        "message": "विरल सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_STRINGARRAY",
+        "message": "स्ट्रिंग सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_ARRAYTYPES_TWODIMENSIONALARRAY",
+        "message": "दो आयामी सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_ARRAYFIELD",
+        "message": "दस्तावेज़ उपलब्ध कराए गए",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_BOOLEANFIELD",
+        "message": "सत्य कथन",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_DATE",
+        "message": "आरंभ करने की तिथि",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_LASTNAME",
+        "message": "स्वामी का अंतिम नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_NAME",
+        "message": "मालिक का नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_OBJECTFIELD",
+        "message": "स्थान विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_PRIORITY",
+        "message": "व्यापार प्राथमिकता",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_PROPERTY1",
+        "message": "संपत्ति 1",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_PROPERTY2",
+        "message": "संपत्ति 2",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_DETAILS_PROPERTY3",
+        "message": "संपत्ति 3",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_TRADE_ARRAYFIELD",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_TRADE_ARRAYOFOBJECTS",
+        "message": "वस्तुओं की श्रृंखला",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_TRADE_JAGGEDARRAY",
+        "message": "दांतेदार सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_TRADE_TWODIMENSIONALARRAY",
+        "message": "दो आयामी सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_ARRAYFIELD",
+        "message": "सरणी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_BOOLEANFIELD",
+        "message": "सहमत",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_DATE",
+        "message": "तारीख",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_DROPDOWNFIELD",
+        "message": "को PERCENTAGE",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_LASTNAME",
+        "message": "उपनाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_NAME",
+        "message": "नाम",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_VALIDATIONS_OBJECTFIELD",
+        "message": "गुण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_COMMON_ALL",
+        "message": "सभी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_ACCESSCONTROL_ACTIONS_TEST_ACTIONS_TEST",
+        "message": "क्रिया परीक्षण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_ACCESSCONTROL_ROLEACTIONS_ROLEACTIONS",
+        "message": "भूमिका क्रियाएँ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_ACCESSCONTROL_ROLES_ROLES",
+        "message": "भूमिकाएँ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_COMMON_MASTERS_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_COMMON_MASTERS_UOM",
+        "message": "माप की इकाई",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_ACCESSCONTROL_ACTIONS_TEST",
+        "message": "अभिगम नियंत्रण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_ACCESSCONTROL_ROLEACTIONS",
+        "message": "अभिगम नियंत्रण भूमिका क्रियाएँ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_ACCESSCONTROL_ROLES",
+        "message": "अभिगम नियंत्रण भूमिकाएँ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_COMMON_MASTERS",
+        "message": "सामान्य मास्टर्स",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_PGR",
+        "message": "शिकायतों",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_RAINMAKER_PGR",
+        "message": "लोक शिकायत निवारण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_TENANT",
+        "message": "किराएदार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_TRADE",
+        "message": "व्यापार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_PGR_SERVICEDEFS",
+        "message": "पीजीआर सर्विस डिफ्स",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_RAINMAKER_PGR_SERVICEDEFS",
+        "message": "सेवा परिभाषाएँ",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_RAINMAKER_PGR_UICONSTANTS",
+        "message": "यूआई स्थिरांक",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_TENANT_TENANTS",
+        "message": "किरायेदारों",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_TRADE_ARRAYTYPES",
+        "message": "सारणी प्रकार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_TRADE_DETAILS",
+        "message": "विवरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_TRADE_VALIDATIONS",
+        "message": "मान्यकरण",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKFLOW_SAMPLE_BUSINESS",
+        "message": "व्यापार",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKFLOW_SAMPLE_BUSINESSSERVICE",
+        "message": "व्यवसाय सेवा",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKFLOW_SAMPLE_BUSINESSSERVICESLA",
+        "message": "व्यवसाय सेवा एसएल.ए",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKFLOW_SAMPLE_STATES",
+        "message": "राज्य अमेरिका",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKFLOW_SAMPLE_TENANTID",
+        "message": "किरायेदारआईडी",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    }
+]

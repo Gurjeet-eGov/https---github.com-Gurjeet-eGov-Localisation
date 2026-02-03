@@ -1,0 +1,22 @@
+[
+    {
+        "id": 88,
+        "url": "/wms/project/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 18,
+        "url": "url",
+        "nav_url": "/works-ui/employee/project/search-project"
+    },
+    {
+        "id": 99,
+        "url": "/egov-pdf/download/project/project-details",
+        "nav_url": ""
+    },
+    {
+        "id": 52,
+        "url": "/project/v1/_search",
+        "nav_url": ""
+    }
+]

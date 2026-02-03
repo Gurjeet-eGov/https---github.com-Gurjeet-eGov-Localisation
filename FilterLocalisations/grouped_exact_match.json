@@ -1,18 +1,1 @@
-{
-    "rainmaker-fsm": [
-        {
-            "code": "ES_FSM_REGISTRY_NEW_RELATIONSHIP",
-            "message": "Relationship",
-            "module": "rainmaker-fsm",
-            "locale": "en_IN"
-        }
-    ],
-    "rainmaker-hr": [
-        {
-            "code": "HR_RELATIONSHIP_LABEL",
-            "message": "Relationship",
-            "module": "rainmaker-hr",
-            "locale": "en_IN"
-        }
-    ]
-}
+{}

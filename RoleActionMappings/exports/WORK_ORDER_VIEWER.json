@@ -1,0 +1,22 @@
+[
+    {
+        "id": 89,
+        "url": "/wms/contract/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 139,
+        "url": "url",
+        "nav_url": "/works-ui/employee/contracts/search-contract?status=ACCEPTED"
+    },
+    {
+        "id": 68,
+        "url": "/contract/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 110,
+        "url": "/egov-pdf/download/workOrder/work-order",
+        "nav_url": ""
+    }
+]

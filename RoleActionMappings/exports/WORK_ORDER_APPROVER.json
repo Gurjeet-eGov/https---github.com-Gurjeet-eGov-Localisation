@@ -1,0 +1,32 @@
+[
+    {
+        "id": 67,
+        "url": "/contract/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 68,
+        "url": "/contract/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 110,
+        "url": "/egov-pdf/download/workOrder/work-order",
+        "nav_url": ""
+    },
+    {
+        "id": 89,
+        "url": "/wms/contract/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 58,
+        "url": "url",
+        "nav_url": "/works-ui/employee/contracts/inbox"
+    },
+    {
+        "id": 61,
+        "url": "url",
+        "nav_url": "/works-ui/employee/contracts/search-contract"
+    }
+]

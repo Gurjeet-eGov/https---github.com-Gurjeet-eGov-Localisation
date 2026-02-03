@@ -1,0 +1,1898 @@
+[
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_ADMIN",
+        "message": "व्यवस्थापक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_ASSIGNER",
+        "message": "शिकायत समनुदेशक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_COMPLAINTS_ADMIN",
+        "message": "शिकायत प्रशासन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_RESOLVER",
+        "message": "शिकायत समाधानकर्ता",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_CONFIGURE_MASTER",
+        "message": "कॉन्फ़िगर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_CREATE_COMPLAINT",
+        "message": "नई शिकायत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_CREATE_COMPLAINTS",
+        "message": "नई शिकायत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DSS_DASHBOARD_LINK_PGR",
+        "message": "डैशबोर्ड",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_EMPLOYEE_MANAGEMENT",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_HOME",
+        "message": "घर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_HRMS",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_HRMSINBOX",
+        "message": "कर्मचारी खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_HRMS_CREATE_EMPLOYEE",
+        "message": "कर्मचारी बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_HRMS_INBOX",
+        "message": "कर्मचारी खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_PERSONALIZATION",
+        "message": "अनुकूलन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_UPLOAD_BOUNDARY",
+        "message": "सीमा अपलोड करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_PENDINGATLME",
+        "message": "एलएमई पर लंबित",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_PENDINGFORREASSIGNMENT",
+        "message": "पुनर्नियुक्ति हेतु लंबित",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_REJECTED",
+        "message": "अस्वीकार कर दिया",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CONTINUE_LANDING",
+        "message": "जारी रखना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_OTP_LABEL",
+        "message": "ओटीपी दर्ज करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_SIGN_UP",
+        "message": "अपना सैंडबॉक्स बनाएं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_SIGN_UP_BUTTON",
+        "message": "साइन अप करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_SUBMIT",
+        "message": "पुष्टि करना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_SIGNUP_ACCOUNT_NAME",
+        "message": "उपयोगकर्ता नाम",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_SIGNUP_EMAILID",
+        "message": "कार्य ईमेल आईडी",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_OTP_EMAIL",
+        "message": "कृपया ईमेल आईडी के साथ साझा किया गया ओटीपी दर्ज करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Configure_master",
+        "message": "कॉन्फ़िगर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Create_Complaints",
+        "message": "नई शिकायत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DASHBOARD_LINK_PGR",
+        "message": "डैशबोर्ड",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_BY_CLICKING",
+        "message": "क्लिक करके, मैं स्वीकार करता हूं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PRIVACY_POLICY",
+        "message": "गोपनीयता नीति",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "GUIDE_TO_SETUP",
+        "message": "मार्गदर्शक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMSInbox",
+        "message": "कर्मचारी खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_CARD_HEADER",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_Create_Employee",
+        "message": "कर्मचारी बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_CONFIGURE_EMPLOYEE_MANAGEMENT_DESCRIPTION",
+        "message": "मानव संसाधन प्रबंधन को वास्तविक परिस्थितियों में अनुकरण करने के लिए विभाग, पदनाम, कर्मचारी प्रकार आदि बदलें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_CONFIGURE_MASTER",
+        "message": "कॉन्फ़िगर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_CONFIGURE_MASTER_DESCRIPTION",
+        "message": "मानव संसाधन प्रबंधन को वास्तविक परिस्थितियों में अनुकरण करने के लिए विभाग, पदनाम, कर्मचारी प्रकार आदि बदलें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HOW_IT_WORKS_HRMS",
+        "message": "यह काम किस प्रकार करता है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HOW_IT_WORKS_PGR",
+        "message": "यह काम किस प्रकार करता है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HRMSINBOX",
+        "message": "कर्मचारी खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HRMSINBOX_DESCRIPTION",
+        "message": "आपके द्वारा बनाए गए कर्मचारी को खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HRMS_CREATE_EMPLOYEE",
+        "message": "कर्मचारी बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HRMS_CREATE_EMPLOYEE_DESCRIPTION",
+        "message": "उत्पादों का उपयोग करने, इच्छानुसार भूमिकाएँ और अधिकार क्षेत्र निर्दिष्ट करने के लिए एक कर्मचारी बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_HRMS_INFO_LINK",
+        "message": "उपयोगकर्ता मैनुअल पढ़ें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_LINK_PGR_INFO_LINK",
+        "message": "उपयोगकर्ता मैनुअल पढ़ें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HR_ACTIVATE_EMPLOYEE_HEAD",
+        "message": "कर्मचारी को सक्रिय करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INVALID_LOGIN_CREDENTIALS",
+        "message": "कृपया वैध ओटीपी दर्ज करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_CARD_DESC_HRMS",
+        "message": "एक एप्लिकेशन जो विभिन्न उपयोगकर्ता दृष्टिकोणों से DIGIT उत्पादों का पता लगाने के लिए उपयोगकर्ता निर्माण और भूमिका असाइनमेंट को सक्षम बनाता है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_CARD_DESC_PGR",
+        "message": "एक सामान्य प्रयोजन उत्पाद जो समस्या फाइलिंग, ट्रैकिंग, असाइनमेंट और समाधान की अनुमति देता है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OTP_RESNED_SUCCESFULL",
+        "message": "ओटीपी सफलतापूर्वक भेजा गया",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CARD_HEADER",
+        "message": "शिकायतों",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_COMPLAINTSINBOX",
+        "message": "शिकायतें इनबॉक्स",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_COMPLAINTSINBOX_DESCRIPTION",
+        "message": "दर्ज की गई शिकायतों की सूची देखें और उन्हें असाइन करने या अस्वीकार करने जैसी कार्रवाई करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_CONFIGURE_COMPLAINTS_DESCRIPTION",
+        "message": "वैयक्तिकृत उपयोगकर्ता अनुभव प्रदान करने के लिए शिकायत प्रकार, विभाग, सीमाएँ आदि को अनुकूलित करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_CONFIGURE_MASTER",
+        "message": "कॉन्फ़िगर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_CONFIGURE_MASTER_DESCRIPTION",
+        "message": "वैयक्तिकृत उपयोगकर्ता अनुभव प्रदान करने के लिए शिकायत प्रकार, विभाग, सीमाएँ आदि को अनुकूलित करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_CREATE_COMPLAINTS",
+        "message": "नई शिकायत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_CREATE_COMPLAINTS_DESCRIPTION",
+        "message": "शिकायत उत्पाद का प्रत्यक्ष अनुभव करें और शिकायत दर्ज करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_DSS_DASHBOARD_LINK_PGR",
+        "message": "डैशबोर्ड",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_HOW_IT_WORKS_PGR",
+        "message": "यह काम किस प्रकार करता है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_LINK_PGR_INFO_LINK",
+        "message": "उपयोगकर्ता मैनुअल पढ़ें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "QUICK_SETUP",
+        "message": "त्वरित शुरुआत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_BASED_LANDING_HEADER",
+        "message": "अपना शिकायत अनुभव चुनें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ANOTHER_ROLE_PARAGRAPH_1",
+        "message": "जानें कि शिकायत निवारण प्रक्रिया के दौरान एक नागरिक शिकायत उत्पाद के साथ कैसे इंटरैक्ट करता है।तुम कर सकते हो:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ANOTHER_ROLE_STEP_1",
+        "message": "एक शिकायत दर्ज़ करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ANOTHER_ROLE_STEP_2",
+        "message": "शिकायतों की सूची देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ANOTHER_ROLE_STEP_3",
+        "message": "एक बार शिकायत का समाधान हो जाने पर उसे रेटिंग दें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ANOTHER_ROLE_STEP_4",
+        "message": "उस शिकायत को दोबारा खोलें जिसका समाधान असंतोषजनक है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_CITIZEN",
+        "message": "नागरिक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_CITIZEN_BUTTON",
+        "message": "नागरिक के रूप में अन्वेषण करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "अपने मोबाइल नंबर से नागरिक पोर्टल पर लॉग इन करें और शिकायत दर्ज करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_GOV_ADMIN",
+        "message": "सरकारी प्रशासक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_GOV_ADMIN_BUTTON",
+        "message": "प्रशासक के रूप में आगे बढ़ें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "अनुभव करें कि सरकारें सार्वजनिक सेवा वितरण में बदलाव के लिए शिकायतों का उपयोग कैसे करती हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ROLE_SECTION_ONE",
+        "message": "शिकायतों के लिए एकाधिक अनुभव क्यों पेश किए जाते हैं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ROLE_SECTION_THREE",
+        "message": "एक सरकारी प्रशासक के रूप में शिकायतों का अनुभव करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_ROLE_SECTION_TWO",
+        "message": "एक नागरिक के रूप में शिकायतों का अनुभव करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_SELECT_ROLE_PARAGRAPH_1",
+        "message": "शिकायत उत्पाद दो पक्षों को एक साथ लाता है - नागरिक (शिकायत दर्जकर्ता), और सरकार (शिकायत समाधानकर्ता और निर्णय निर्माता)।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_SELECT_ROLE_PARAGRAPH_2",
+        "message": "नागरिकों और सरकार के समक्ष प्रस्तुत इंटरफ़ेस, साथ ही प्रत्येक पक्ष द्वारा की जा सकने वाली कार्रवाइयां, बहुत भिन्न हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_STEP_1",
+        "message": "उदाहरण के लिए, एक नागरिक शिकायत दर्ज करेगा (उदाहरण के लिए, टूटी हुई स्ट्रीट लाइटें, पानी नहीं, आदि)।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_STEP_2",
+        "message": "एक सरकारी कर्मचारी प्राप्त शिकायत को अंतिम छोर के कर्मचारी/ठेकेदार को सौंपेगा, जो शिकायत को हल करने के लिए आवश्यक कदम उठाएगा (उदाहरण के लिए, स्ट्रीट लाइट या पानी के पाइप को ठीक करना)।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_THREE_PARAGRAPH_1",
+        "message": "जानें कि सरकार शिकायतों को संभालने और सार्वजनिक सेवा वितरण में सुधार के लिए शिकायतों का उपयोग कैसे करती है।तुम कर सकते हो:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_THREE_ROLE_STEP_1",
+        "message": "शिकायत दर्ज करें, असाइन करें, अस्वीकार करें और समाधान करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_THREE_ROLE_STEP_2",
+        "message": "डैशबोर्ड देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_THREE_ROLE_STEP_3",
+        "message": "डिफ़ॉल्ट व्यवहार को संशोधित करने के लिए शिकायतें कॉन्फ़िगर करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_THREE_ROLE_STEP_4",
+        "message": "विशिष्ट अनुमतियों वाले सरकारी कर्मचारियों को जोड़ें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SAMDBOX_URL_SUB",
+        "message": "आपका खाता सफलतापूर्वक बन गया है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_APPLICATION_MANAGEMENT_HOMECARD_LABEL",
+        "message": "अनुप्रयोग प्रबंधन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CAMPAIGNS_DESCRIPTION",
+        "message": "अभियान - अभियान की प्रभावशीलता बढ़ाने के लिए एक अभियान निर्माण और प्रबंधन उपकरण।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CARD_HEADER",
+        "message": "संगठन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CLICK_CONTINUE",
+        "message": "आगे बढ़ें और एक अनुभव चुनने के लिए 'जारी रखें' पर क्लिक करें और अपनी सैंडबॉक्स यात्रा शुरू करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_COMPLAINTS_DESCRIPTION",
+        "message": "शिकायतें - शिकायतें दर्ज करने, असाइन करने, ट्रैक करने और समाधान करने के लिए उपयोग किया जाने वाला उत्पाद।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_1",
+        "message": " ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_2",
+        "message": "आप अपने सैंडबॉक्स खाते में जिस भूमिका से लॉगिन करते हैं वह यह निर्धारित करती है कि आप क्या कार्रवाई कर सकते हैं।सैंडबॉक्स के लिए आप जिस ईमेल पते से साइन अप करते हैं उसे हमेशा एक सुपरयूजर भूमिका सौंपी जाती है, जिसका अर्थ है कि आपके पास सैंडबॉक्स से जुड़ी सभी कार्रवाइयां करने की अनुमति है।सभी उपलब्ध भूमिकाओं की विस्तृत सूची अनुमतियों के साथ नीचे दी गई है:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_3",
+        "message": "किसी दी गई भूमिका के साथ सैंडबॉक्स में लॉगिन करने के लिए, निम्नलिखित चरणों का पालन करें:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_4",
+        "message": "शिकायतों और कर्मचारी प्रबंधन को पहले से ही डिफ़ॉल्ट कॉन्फ़िगरेशन के साथ सेटअप किया गया है, ताकि आप तुरंत उनका उपयोग शुरू कर सकें।केवल सुपरयूज़र भूमिका वाला उपयोगकर्ता ही डिफ़ॉल्ट कॉन्फ़िगरेशन को अनुकूलित कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_5",
+        "message": "शिकायतें एक सामान्य प्रयोजन उत्पाद है जो समस्या दाखिल करने, ट्रैकिंग, असाइनमेंट और समाधान की अनुमति देता है।आप शिकायत कार्ड से निम्नलिखित कार्रवाई कर सकते हैं:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_5_DESC_6",
+        "message": "एक डैशबोर्ड दर्ज की गई शिकायतों की संख्या, समाधान, समाधान में लगने वाले औसत समय, रेटिंग और बहुत कुछ के बारे में दृश्य जानकारी देता है।आपको यह समझने के लिए कि एक शिकायत व्यवस्थापक डेटा-संचालित निर्णय लेने के लिए इसका उपयोग कैसे कर सकता है, डैशबोर्ड को नमूना डेटा से पहले ही भर दिया गया है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_6",
+        "message": "शिकायत उत्पाद के लिए भूमिका-क्रिया मानचित्रण नीचे दिया गया है:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_7",
+        "message": "कर्मचारी प्रबंधन (ईएम) एक सैंडबॉक्स उपयोगकर्ता को वास्तविक दुनिया के परिदृश्य के समान, विभिन्न भूमिकाओं से डिजिटल उत्पादों के साथ बातचीत करने की अनुमति देता है।चूँकि DIGIT उत्पादों के उपयोगकर्ता आम तौर पर नागरिक और सरकारी कर्मचारी होते हैं, इसलिए कर्मचारी प्रबंधन शब्द गढ़ा गया था।सुपरयूज़र और एडमिन भूमिकाएँ EM तक पहुँच सकती हैं।नीचे वे कार्य हैं जो EM कार्ड से किए जा सकते हैं:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONTENT_8",
+        "message": "सैंडबॉक्स और उत्पादों में लोगो या बैनर छवि बदलने के लिए, बायां मेनू खोलें और वैयक्तिकरण पर क्लिक करें।आपके पास उपयोग किए गए लोगो और बैनर छवि को अपडेट करने का विकल्प होगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_DESCRIPTION_1",
+        "message": "शिकायतें - एक सामान्य प्रयोजन उत्पाद जो समस्या फाइलिंग, ट्रैकिंग, असाइनमेंट और समाधान की अनुमति देता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_DESCRIPTION_2",
+        "message": "कर्मचारी प्रबंधन - सैंडबॉक्स उपयोगकर्ता को वास्तविक जीवन के उत्पाद उपयोग की नकल करने के लिए कर्मचारी बनाने और उन्हें भूमिकाएं और अधिकार क्षेत्र आवंटित करने में सक्षम बनाता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_DESCRIPTION_3",
+        "message": "इन एप्लिकेशन को सेट अप करने और उनका उपयोग शुरू करने के लिए शिकायत और कर्मचारी प्रबंधन कार्ड पर कॉन्फिगर लिंक पर क्लिक करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_ENTER_OTP",
+        "message": "ओटीपी दर्ज करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_DESCRIPTION_1",
+        "message": "विवरण और स्थान प्रदान करके शिकायत दर्ज करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_DESCRIPTION_2",
+        "message": "दर्ज की गई शिकायतों की सूची देखें, और शिकायत स्थान या स्थिति के आधार पर फ़िल्टर करें।शिकायतों की सूची से, कोई किसी कर्मचारी को शिकायत सौंप सकता है, शिकायत को अस्वीकार कर सकता है और सौंपी गई शिकायत को समाधान के रूप में चिह्नित कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_DESCRIPTION_3",
+        "message": "एक डैशबोर्ड दर्ज की गई शिकायतों की संख्या, समाधान, समाधान में लगने वाले औसत समय, रेटिंग और बहुत कुछ के बारे में दृश्य जानकारी देता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_DESCRIPTION_4",
+        "message": "आप \"शिकायत दाखिल करने\" की प्रक्रिया का अनुभव करने के लिए नागरिक पोर्टल लिंक का उपयोग कर सकते हैं।यह वह प्रवाह है जिसका सामना एक नागरिक शिकायत दर्ज करते समय, शिकायत के प्रकार प्रदान करते समय, स्थान का पता लगाने और समाधान प्रक्रिया की रेटिंग करते समय करेगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_1",
+        "message": "नई शिकायत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_1:",
+        "message": "नई शिकायत:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_2",
+        "message": "इनबॉक्स",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_2:",
+        "message": "इनबॉक्स:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_3",
+        "message": "डैशबोर्ड",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_3:",
+        "message": "डैशबोर्ड:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_4",
+        "message": "नागरिक पोर्टल",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_10_LABEL_4:",
+        "message": "नागरिक पोर्टल:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_14_LABEL_1",
+        "message": "वीडियो गाइड देखने के लिए क्लिक करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_1_DESCRIPTION_1",
+        "message": "सिटीजन पोर्टल पर लॉग इन करने के लिए आपको मोबाइल नंबर दर्ज करना होगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_1_DESCRIPTION_2",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करने के लिए आपको सरकारी कर्मचारी का ईमेल या आईडी चाहिए।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_1_LABEL_1",
+        "message": "नागरिक पोर्टल <नागरिक पोर्टल से हाइपरलिंक>",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_1_LABEL_2",
+        "message": "कर्मचारी पोर्टल <कर्मचारी पोर्टल से हाइपरलिंक>",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_2_DESCRIPTION_1",
+        "message": "एक शिकायत दर्ज़ करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_2_DESCRIPTION_2",
+        "message": "शिकायतों की सूची देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_2_DESCRIPTION_3",
+        "message": "एक बार शिकायत का समाधान हो जाने पर उसे रेटिंग दें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_2_DESCRIPTION_4",
+        "message": "उस शिकायत को दोबारा खोलें जिसका समाधान असंतोषजनक है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_3_DESCRIPTION_1",
+        "message": "शिकायत दर्ज करें, असाइन करें, अस्वीकार करें और समाधान करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_3_DESCRIPTION_2",
+        "message": "डैशबोर्ड देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_3_DESCRIPTION_3",
+        "message": "डिफ़ॉल्ट व्यवहार को संशोधित करने के लिए शिकायतें कॉन्फ़िगर करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_3_DESCRIPTION_4",
+        "message": "यह पता लगाने के लिए कि रोज़मर्रा की जिंदगी में शिकायतों के साथ विभिन्न अभिनेता कैसे बातचीत करते हैं, अलग-अलग अनुमतियों वाले सरकारी \"कर्मचारियों\" को जोड़ें।उदाहरण के लिए, एक कर्मचारी को किसी शिकायत को असाइन/अस्वीकार करने के लिए विशेष रूप से जोड़ा जा सकता है, जबकि दूसरे को विशेष रूप से इसे हल करने के लिए जोड़ा जा सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_4_DESCRIPTION_1",
+        "message": "\"कर्मचारी\" शब्दावली का उपयोग तब से किया जा रहा है क्योंकि शिकायतों के वास्तविक जीवन में तैनाती में, विभिन्न सरकारी कर्मचारी विकेंद्रीकृत संचालन को सुविधाजनक बनाने के लिए अद्वितीय तरीकों से उत्पाद के साथ बातचीत करते हैं।उदाहरण के लिए, एक शिकायत रूटिंग अधिकारी पूरी तरह से शिकायतें सौंपने का प्रभारी होगा, जबकि एक अंतिम मील कर्मचारी पूरी तरह से उन्हें हल करने का प्रभारी होगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_4_DESCRIPTION_2",
+        "message": "सैंडबॉक्स में सरकारी कर्मचारियों को कर्मचारी प्रबंधन में बनाया जा सकता है।एक कर्मचारी के रूप में शिकायतों का पता लगाने के लिए, संबंधित कर्मचारी की आईडी का उपयोग करके कर्मचारी पोर्टल पर लॉग इन करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_DESCRIPTION_1",
+        "message": "सभी शिकायत कार्रवाइयां + कर्मचारी प्रबंधन (कॉन्फ़िगरेशन के अलावा)",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_DESCRIPTION_2",
+        "message": "सभी शिकायत कार्रवाइयां",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_DESCRIPTION_3",
+        "message": "एक शिकायत सौंपें, एक शिकायत पुनः सौंपें, एक शिकायत अस्वीकार करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_DESCRIPTION_4",
+        "message": "एक शिकायत का समाधान करें, एक शिकायत को अस्वीकार करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_DESCRIPTION_5",
+        "message": "इनबॉक्स देखें (शिकायतों की सूची देखें)",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_1",
+        "message": "व्यवस्थापक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_1:",
+        "message": "व्यवस्थापक:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_2",
+        "message": "शिकायतें-प्रशासन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_2:",
+        "message": "शिकायतें-प्रशासन:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_3",
+        "message": "असाइनर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_3:",
+        "message": "निदेशकर्ता:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_4",
+        "message": "रिज़ॉल्वर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_4:",
+        "message": "समाधानकर्ता:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_5_LABEL_5",
+        "message": "कर्मचारी",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_7_DESCRIPTION_1",
+        "message": "पूर्व-निर्मित कर्मचारी के रूप में लॉगिन करने के लिए, कर्मचारी पोर्टल पर जाएँ और ईमेल पता फ़ील्ड में संबंधित कर्मचारी आईडी दर्ज करें।आपको अपना सैंडबॉक्स खाता बनाने के लिए उपयोग किए गए ईमेल पर ओटीपी प्राप्त होगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_7_DESCRIPTION_2",
+        "message": "कर्मचारी प्रबंधन के माध्यम से बनाए गए कर्मचारी के रूप में लॉग इन करने के लिए, कर्मचारी पोर्टल पर जाएँ और वह ईमेल पता दर्ज करें जिसे आपने निर्माण के समय कर्मचारी को सौंपा था।आपको इस ईमेल पते पर ओटीपी प्राप्त होगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_8_DESCRIPTION_1",
+        "message": "संबंधित कार्ड पर कॉन्फिगर लिंक पर क्लिक करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_8_DESCRIPTION_2",
+        "message": "जब तक आप एडिट मास्टर्स पेज पर नहीं पहुंच जाते तब तक \"संपादित करें\" पर क्लिक करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_8_DESCRIPTION_3",
+        "message": "मास्टर डेटा (या कॉन्फ़िगरेशन डेटा) शिकायत और कर्मचारी प्रबंधन में ड्रॉपडाउन में दिखाई देने वाले विकल्पों को निर्धारित करता है।उदाहरण के लिए, संभावित शिकायत प्रकारों की सूची मास्टर डेटा द्वारा निर्धारित की जाती है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_8_DESCRIPTION_4",
+        "message": "आप व्यक्तिगत मास्टर (कॉन्फ़िगरेशन) डेटा देख सकते हैं, और अपनी आवश्यकताओं को पूरा करने के लिए प्रविष्टियाँ जोड़, संपादित या निष्क्रिय कर सकते हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_9_DESCRIPTION_1",
+        "message": "एक सैंडबॉक्स उपयोगकर्ता नीचे दिए गए अनिवार्य फ़ील्ड निर्दिष्ट करके एक कर्मचारी बना सकता है: नाम, ईमेल पता, भूमिका, सीमा (अधिकार क्षेत्र), असाइनमेंट विवरण।बनाया गया कर्मचारी आपके खाते के अद्वितीय यूआरएल के साथ सैंडबॉक्स तक पहुंच सकता है, और दिए गए ईमेल पते से लॉगिन कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_9_DESCRIPTION_2",
+        "message": "सैंडबॉक्स उपयोगकर्ता कर्मचारियों की सूची ब्राउज़ कर सकता है, और आवश्यकतानुसार विवरण संपादित कर सकता है।एक सक्रिय कर्मचारी को निष्क्रिय के रूप में भी चिह्नित किया जा सकता है।आपको भूमिकाएँ शीघ्रता से तलाशने की अनुमति देने के लिए कुछ कर्मचारी पहले से ही बनाए गए हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_9_LABEL_1",
+        "message": "कर्मचारी बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_9_LABEL_1:",
+        "message": "कर्मचारी बनाएँ:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_9_LABEL_2",
+        "message": "कर्मचारियों की सूची खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_9_LABEL_2:",
+        "message": "कर्मचारियों की सूची खोजें:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_FOUR",
+        "message": "अधिकतम निष्क्रियता अवधि 120 दिन है, जिसके बाद आपको चेतावनी दी जाएगी और 30 दिनों के बाद आपका सैंडबॉक्स खाता हटा दिया जाएगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_ONE",
+        "message": "आप बाहरी साझेदार की ईमेल आईडी से एक कर्मचारी बना सकते हैं और आवश्यकतानुसार भूमिका सौंप सकते हैं।पार्टनर अब आपके सैंडबॉक्स में लॉग इन कर सकता है और निर्दिष्ट भूमिका के आधार पर उत्पादों के साथ इंटरैक्ट कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_THREE",
+        "message": "उत्पादों के कॉन्फ़िगरेशन और सैंडबॉक्स सेटिंग्स को केवल एक सुपरयूज़र द्वारा ही संशोधित किया जा सकता है।जब आप एक सैंडबॉक्स खाता बनाते हैं, तो आपको डिफ़ॉल्ट रूप से सुपरयूज़र भूमिका सौंपी जाती है।हम दृढ़तापूर्वक अनुशंसा करते हैं कि अन्य सुपरयूज़र्स को न जोड़ें जब तक कि वे आपके संगठन से संबंधित न हों।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_ANS_TWO",
+        "message": "नियमित ब्राउज़र विंडो में अधिकतम एक भूमिका लॉग इन हो सकती है, और सभी गुप्त विंडो में एक भूमिका लॉग इन हो सकती है।इसलिए, आप एक ही ब्राउज़र इंस्टेंस से एक साथ दो भूमिकाओं तक पहुंच सकते हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_1",
+        "message": "नागरिक और कर्मचारी पोर्टल के लिंक नीचे दिए गए हैं:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_10",
+        "message": "शिकायतें एक सामान्य प्रयोजन उत्पाद है जो समस्या दाखिल करने, ट्रैकिंग, असाइनमेंट और समाधान की अनुमति देता है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_11",
+        "message": "सैंडबॉक्स और डिजिटल उत्पादों में लोगो या बैनर छवि बदलने के लिए, बायां मेनू खोलें और वैयक्तिकरण पर क्लिक करें।आपके पास उपयोग किए गए लोगो और बैनर छवि को अपडेट करने का विकल्प होगा।ऐसी स्थिति में जब कोई लोगो प्रदान नहीं किया जाता है, तो डिफ़ॉल्ट DIGIT लोगो का उपयोग किया जाता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_12",
+        "message": "आप बाहरी भागीदार की ईमेल आईडी से एक \"सरकारी कर्मचारी\" बना सकते हैं और आवश्यकतानुसार भूमिका सौंप सकते हैं।पार्टनर अब आपके सैंडबॉक्स में लॉग इन कर सकता है और निर्दिष्ट भूमिका के आधार पर उत्पादों के साथ इंटरैक्ट कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_13",
+        "message": "अधिकतम निष्क्रियता अवधि 120 दिन है, जिसके बाद आपको चेतावनी दी जाएगी और 30 दिनों के बाद आपका सैंडबॉक्स खाता हटा दिया जाएगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_2",
+        "message": "नागरिक अनुभव दर्शाता है कि लोक शिकायत निवारण प्रक्रिया के दौरान एक नागरिक शिकायत उत्पाद के साथ कैसे इंटरैक्ट करता है।इस अनुभव को नागरिक पोर्टल के माध्यम से प्राप्त किया जा सकता है।तुम कर सकते हो:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_3",
+        "message": "सरकारी प्रशासक का अनुभव आपको शिकायतों को दर्ज करने, असाइन करने, अस्वीकार करने और हल करने के साथ-साथ शिकायत उत्पाद के व्यवहार को कॉन्फ़िगर करने की सुविधा देता है।आप कर्मचारी प्रबंधन के माध्यम से अलग-अलग भूमिकाओं और अनुमतियों के साथ \"सरकारी कर्मचारियों\" को जोड़ सकते हैं, और कर्मचारी पोर्टल के माध्यम से \"सरकारी कर्मचारी\" के रूप में शिकायतों का पता लगा सकते हैं।एक सरकारी प्रशासक के रूप में, आप यह कर सकते हैं:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_4",
+        "message": "सरकारी \"कर्मचारियों\" को शिकायत उत्पाद के साथ बातचीत करने के लिए विभिन्न भूमिकाएँ आवंटित की जा सकती हैं।अपनी भूमिका के आधार पर, प्रत्येक कर्मचारी कुछ कार्य कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_5",
+        "message": "जब आप एक सैंडबॉक्स खाता बनाते हैं, तो डिफ़ॉल्ट रूप से आपको सौंपी गई सुपरयूज़र भूमिका को सैंडबॉक्स में सभी क्रियाएं करने की अनुमति होती है।सरकारों द्वारा शिकायतों का उपयोग कैसे किया जाता है, इसके बारे में अधिक यथार्थवादी दृष्टिकोण प्राप्त करने के लिए, आप सरकारी \"कर्मचारी\" बना सकते हैं, जिनमें से प्रत्येक शिकायतों और कर्मचारी प्रबंधन से संबंधित कार्यों का एक सबसेट निष्पादित कर सकता है।संबंधित कार्यों के साथ सरकारी कर्मचारी की भूमिकाएँ नीचे सूचीबद्ध हैं:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_6",
+        "message": "सैंडबॉक्स में आपके लिए डिफ़ॉल्ट रूप से दो सरकारी कर्मचारी पहले ही बनाए जा चुके हैं।एक कर्मचारी के पास समनुदेशक की भूमिका होती है और दूसरे के पास समाधानकर्ता की भूमिका होती है।आप उनकी कर्मचारी आईडी के लिए \"कर्मचारियों को खोजें\" पर क्लिक कर सकते हैं और इनका उपयोग करके कर्मचारी पोर्टल पर लॉगिन कर सकते हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_7",
+        "message": "सैंडबॉक्स पर सरकारी कर्मचारियों की दो श्रेणियां हैं - वे जो कर्मचारी प्रबंधन में आपके द्वारा बनाई गई थीं, और वे जो डिफ़ॉल्ट रूप से पहले से बनाई गई थीं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_8",
+        "message": "शिकायतें और कर्मचारी प्रबंधन पहले से ही डिफ़ॉल्ट कॉन्फ़िगरेशन के साथ सेटअप किया जा चुका है, इसलिए आप तुरंत उनका उपयोग शुरू कर सकते हैं।उनके डिफ़ॉल्ट कॉन्फ़िगरेशन को मैन्युअल रूप से संपादित करने के लिए, आप निम्न चरणों का पालन कर सकते हैं:",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_CONTENT_9",
+        "message": "कर्मचारी प्रबंधन (ईएम) एक सैंडबॉक्स उपयोगकर्ता को वास्तविक दुनिया के परिदृश्य के समान, विभिन्न भूमिकाओं से डिजिटल उत्पादों के साथ बातचीत करने की अनुमति देता है।चूँकि DIGIT उत्पादों के उपयोगकर्ता आम तौर पर नागरिक और सरकारी कर्मचारी होते हैं, कर्मचारी प्रबंधन शब्द प्रयोग में है।जब आपने सैंडबॉक्स के लिए साइन अप किया था तो व्यवस्थापक सरकारी कर्मचारी भूमिका आपको डिफ़ॉल्ट रूप से सौंपी गई सुपरयूज़र भूमिका के अलावा, कर्मचारी प्रबंधन तक पहुंच प्रदान करती है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_1",
+        "message": "मैं नागरिक और कर्मचारी पोर्टल तक कैसे पहुँच सकता हूँ?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_10",
+        "message": "शिकायत उत्पाद क्या है?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_11",
+        "message": "मैं सैंडबॉक्स/डिजिट उत्पादों का स्वरूप कैसे बदलूं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_12",
+        "message": "मैं बाहरी साझेदारों को उत्पादों तक पहुंचने की अनुमति कैसे दूं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_13",
+        "message": "मेरा सैंडबॉक्स खाता कितने समय तक निष्क्रिय रहेगा?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_14",
+        "message": "वीडियो वॉकथ्रू तक पहुंचें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_2",
+        "message": "नागरिक अनुभव क्या है?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_3",
+        "message": "सरकारी प्रशासक का अनुभव क्या है?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_4",
+        "message": "सरकारी कर्मचारी क्या हैं और एक कर्मचारी के रूप में मैं शिकायतों का पता कैसे लगा सकता हूँ?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_5",
+        "message": "मेरे लिए शिकायतें तलाशने के लिए कौन सी सरकारी कर्मचारी भूमिकाएँ उपलब्ध हैं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_6",
+        "message": "सैंडबॉक्स में मेरे लिए पूर्व-निर्मित सरकारी कर्मचारी क्या हैं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_7",
+        "message": "मैं कर्मचारी पोर्टल पर कैसे लॉगिन करूं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_8",
+        "message": "मैं शिकायतें और कर्मचारी प्रबंधन कैसे कॉन्फ़िगर करूं?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_9",
+        "message": "कर्मचारी प्रबंधन क्या है?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_FOUR",
+        "message": "मेरा सैंडबॉक्स खाता कितने समय तक सक्रिय रहेगा?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_ONE",
+        "message": "मैं बाहरी साझेदारों को DIGIT उत्पादों तक पहुँचने की अनुमति कैसे दूँ?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_THREE",
+        "message": "मेरे सैंडबॉक्स में सेटिंग्स/कॉन्फ़िगरेशन को बदलने की अनुमति किसके पास है?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_FAQ_QUES_TWO",
+        "message": "मैं एक साथ अनेक भूमिकाओं का उपयोग कैसे करूँ?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1",
+        "message": "शुरू हो जाओ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_1",
+        "message": "शिकायत दर्ज करने के लिए शिकायत कार्ड में नई शिकायत पर क्लिक करें, अपनी पसंद का शिकायत प्रकार और उपप्रकार चुनें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_2",
+        "message": "अब शिकायत कार्ड पर इनबॉक्स पर जाएं, \"सभी को सौंपा गया\" चुनें और आपके द्वारा बनाई गई शिकायत का चयन करें।कार्रवाई करें और शिकायत सौंपें पर क्लिक करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_3",
+        "message": "शिकायत निर्दिष्ट करने के बाद होम स्क्रीन में कर्मचारी प्रबंधन कार्ड में कर्मचारी खोजें पर क्लिक करें।कुछ कर्मचारी डिफ़ॉल्ट रूप से आपके लिए बनाए गए हैं।कर्मचारी आईडी की प्रतिलिपि बनाएँ जो \"रिज़ॉल्वर\" से शुरू होती है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_4",
+        "message": "गुप्त विंडो में अपने सैंडबॉक्स खाते में लॉगिन करें।ईमेल पता फ़ील्ड में कर्मचारी की आईडी दर्ज करें।आपको अपनी सैंडबॉक्स ईमेल आईडी पर एक ओटीपी प्राप्त होगा।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_5",
+        "message": "कर्मचारी के रूप में लॉग इन करने के बाद, इनबॉक्स पर जाएं, \"सभी को सौंपा गया\" चुनें और कार्रवाई करें पर क्लिक करें।इस बार शिकायत को समाधान के रूप में चिह्नित करें।लॉग आउट।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_6",
+        "message": "अब अपने मुख्य सैंडबॉक्स खाते में वापस जाकर इनबॉक्स दोबारा खोलें।आप देखेंगे कि शिकायत की स्थिति समाधान में बदल गई है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_1_DESC_7",
+        "message": "अब कंप्लेंट कार्ड में डैशबोर्ड पर क्लिक करें।आप शिकायतों के सारांश आँकड़े देख सकते हैं - स्थिति, समाधान समय आदि के आधार पर। यह डैशबोर्ड नमूना शिकायतों के डेटा से भरा हुआ है।अब दिनांक सीमा फ़ील्ड पर क्लिक करें और \"आज\" चुनें।आप देख सकते हैं कि डैशबोर्ड में आपके द्वारा दर्ज की गई शिकायत का विवरण और स्थिति शामिल है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2",
+        "message": "भूमिकाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_1",
+        "message": "सैंडबॉक्स और डिजिट उत्पादों से जुड़ी सभी कार्रवाइयां",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_2",
+        "message": "शिकायतों और कर्मचारी प्रबंधन से जुड़ी सभी कार्रवाइयां",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_3",
+        "message": "शिकायतों से जुड़ी सभी कार्रवाइयां",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_4",
+        "message": "शिकायत दर्ज करें, शिकायत का मूल्यांकन करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_5",
+        "message": "शिकायत दर्ज करें, शिकायत दोबारा खोलें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_6",
+        "message": "शिकायत सौंपें, शिकायत अस्वीकार करें, शिकायत दोबारा खोलें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_DESC_7",
+        "message": "शिकायत का समाधान करें, शिकायत को अस्वीकार करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_1",
+        "message": "सुपर उपयोगकर्ता",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_2",
+        "message": "व्यवस्थापक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_3",
+        "message": "शिकायत प्रशासन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_4",
+        "message": "नागरिक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_5",
+        "message": "कर्मचारी",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_6",
+        "message": "असाइनर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_2_LABEL_7",
+        "message": "रिज़ॉल्वर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_3",
+        "message": "भूमिकाएँ बदलना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_3_DESC_1",
+        "message": "कर्मचारी प्रबंधन में दी गई भूमिका के साथ एक 'कर्मचारी' बनाएं या 'डिफ़ॉल्ट कर्मचारियों' की सूची में से चुनें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_3_DESC_2",
+        "message": "एक नई गुप्त विंडो में अपने सैंडबॉक्स URL पर जाएँ।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_3_DESC_3",
+        "message": "उस ईमेल आईडी से लॉगिन करें जिसका उपयोग आपने 'कर्मचारी' बनाते समय या डिफ़ॉल्ट कर्मचारी की कर्मचारी आईडी से किया था।डिफ़ॉल्ट कर्मचारी के मामले में, आपका सैंडबॉक्स खाता बनाने के लिए उपयोग की जाने वाली ईमेल आईडी पर ओटीपी प्राप्त होता है।कर्मचारी प्रबंधन के साथ बनाए गए कर्मचारी के मामले में, ओटीपी प्रदान की गई ईमेल आईडी पर प्राप्त होता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_3_DESC_4",
+        "message": "सैंडबॉक्स को दी गई भूमिका वाले कर्मचारी के नजरिए से देखें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_4",
+        "message": "विन्यास",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_4_DESC_1",
+        "message": "संबंधित कार्ड पर कॉन्फिगर लिंक पर क्लिक करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_4_DESC_2",
+        "message": "जब तक आप एडिट मास्टर्स पेज पर नहीं पहुंच जाते तब तक 'एडिट' पर क्लिक करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_4_DESC_3",
+        "message": "आप व्यक्तिगत मास्टर (कॉन्फ़िगरेशन) डेटा देख सकते हैं, और अपनी आवश्यकताओं को पूरा करने के लिए प्रविष्टियाँ जोड़, संपादित या निष्क्रिय कर सकते हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5",
+        "message": "शिकायतों का अवलोकन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_DESC_1",
+        "message": "विवरण और स्थान प्रदान करके शिकायत दर्ज करें।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_DESC_2",
+        "message": "दर्ज की गई शिकायतों की सूची देखें, और शिकायत स्थान या स्थिति के आधार पर फ़िल्टर करें।शिकायतों की सूची से, कोई व्यक्ति किसी शिकायत को असाइन/अस्वीकार कर सकता है या पहले से ही सौंपी गई शिकायत का समाधान कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_DESC_3",
+        "message": "एक डैशबोर्ड दर्ज की गई शिकायतों की संख्या, समाधान, समाधान में लगने वाले औसत समय, रेटिंग और बहुत कुछ के बारे में दृश्य जानकारी देता है।आपको यह समझने के लिए कि एक शिकायत व्यवस्थापक डेटा-संचालित निर्णय लेने के लिए इसका उपयोग कैसे कर सकता है, डैशबोर्ड को नमूना डेटा से पहले ही भर दिया गया है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_LABEL_1",
+        "message": "नई शिकायत",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_LABEL_2",
+        "message": "इनबॉक्स",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_LABEL_3",
+        "message": "डैशबोर्ड",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_5_LABEL_6",
+        "message": "डैशबोर्ड",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6",
+        "message": "शिकायतें भूमिका-क्रिया मानचित्रण",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_DESC_1",
+        "message": "नागरिक, सुपरयूजर, एडमिन, शिकायत-एडमिन, कर्मचारी",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_DESC_2",
+        "message": "सुपरयूजर, एडमिन, शिकायत-एडमिन, असाइनर",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_DESC_3",
+        "message": "सुपरयूजर, एडमिन, शिकायत-एडमिन, अनुमोदनकर्ता",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_DESC_4",
+        "message": "नागरिक",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_DESC_5",
+        "message": "सुपरयूजर, एडमिन, शिकायत-एडमिन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_LABEL_1",
+        "message": "एक शिकायत दर्ज़ करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_LABEL_2",
+        "message": "किसी शिकायत को असाइन/अस्वीकार करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_LABEL_3",
+        "message": "एक शिकायत का समाधान करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_LABEL_4",
+        "message": "शिकायत का मूल्यांकन करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_6_LABEL_5",
+        "message": "डैशबोर्ड देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_7",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_7_DESC_1",
+        "message": "एक सैंडबॉक्स उपयोगकर्ता निम्नलिखित अनिवार्य फ़ील्ड निर्दिष्ट करके एक कर्मचारी बना सकता है: नाम, ईमेल पता, भूमिका, क्षेत्राधिकार और असाइनमेंट विवरण।बनाया गया कर्मचारी आपके खाते के अद्वितीय यूआरएल के साथ सैंडबॉक्स तक पहुंच सकता है, और दिए गए ईमेल पते से लॉगिन कर सकता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_7_DESC_2",
+        "message": "The Sandbox user can browse through the list of employees, and edit details as needed. An active employee can also be marked as deactivated. Some default employees with Assigner and Resolver roles have already been created to allow you to explore roles quickly.",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_7_LABEL_1",
+        "message": "कर्मचारी बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_7_LABEL_2",
+        "message": "कर्मचारियों की सूची खोजें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_8",
+        "message": "अनुकूलन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_8_DESC_1",
+        "message": "ऐसी स्थिति में जब कोई लोगो या बैनर छवि प्रदान नहीं की जाती है, तो ये DIGIT लोगो के लिए डिफ़ॉल्ट हो जाते हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_9",
+        "message": "पूछे जाने वाले प्रश्न",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_ALL_SETUP_DONE",
+        "message": "सारा सेटअप हो गया",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_CONFIGURING_COMPLAINTS",
+        "message": "उत्पादों को कॉन्फ़िगर करना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_CONFIGURING_EMPLOYEE_MANAGEMENT",
+        "message": "कर्मचारी प्रबंधन को कॉन्फ़िगर किया जा रहा है...",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_CREATING_DASHBOARD",
+        "message": "डैशबोर्ड बनाया जा रहा है...",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_DEFAULT_MASTER_DATA",
+        "message": "डिफ़ॉल्ट मास्टर डेटा सेट करना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_LOADING_CONFIGURATION_INTERFACE",
+        "message": "कॉन्फ़िगरेशन इंटरफ़ेस लोड हो रहा है...",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_SETTING_UP_CITIZEN_PORTAL",
+        "message": "सिटीजन पोर्टल की स्थापना...",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_SETTING_UP_EMPLOYEE_PORTAL",
+        "message": "कर्मचारी पोर्टल स्थापित किया जा रहा है...",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_GUIDE_SETUP_ACCOUNT",
+        "message": "अपना सैंडबॉक्स खाता सेट करना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_HEADER",
+        "message": "बधाई हो !",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_HEADING",
+        "message": "सैंडबॉक्स - डिजिटल के लिए आपका प्रवेश द्वार",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_INTRODUCTION_TEXT",
+        "message": "सैंडबॉक्स आपको DIGIT उत्पादों को कॉन्फ़िगर करने, तलाशने और उपयोग करने के लिए एक स्व-सेवा वातावरण प्रदान करता है।उत्पाद पूर्व-कॉन्फ़िगरेशन के साथ, अब आप तुरंत DIGIT उत्पादों का उपयोग शुरू कर सकते हैं।आप डिफ़ॉल्ट उत्पाद व्यवहार को संशोधित करने के लिए एक सहज GUI के माध्यम से DIGIT उत्पादों को स्वयं भी कॉन्फ़िगर कर सकते हैं।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_INTRODUCTION_TITLE",
+        "message": "परिचय",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_TENANT_CREATE",
+        "message": "संगठन निर्माण",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_TENANT_CREATE_DESCRIPTION",
+        "message": "अपने साझेदारों को DIGIT उत्पाद दिखाने के लिए सैंडबॉक्स में संगठन बनाएं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_TENANT_SEARCH",
+        "message": "संगठन खोज",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_TENANT_SEARCH_DESCRIPTION",
+        "message": "बनाए गए संगठनों की सूची देखें, और इच्छानुसार संशोधन करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_UPLOAD_CONF",
+        "message": "अनुकूलन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_UPLOAD_CONFIG",
+        "message": "वैयक्तिकरण",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_UPLOAD_CONFIG_DESCRIPTIO",
+        "message": "अपने उत्पादों में प्रदर्शित करने के लिए लोगो और बैनर छवि को अपडेट करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_LINK_UPLOAD_CONFIG_DESCRIPTION",
+        "message": "अपने उत्पादों में प्रदर्शित करने के लिए लोगो और बैनर छवि को अपडेट करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_OTP_VERIFICATION",
+        "message": "ओटीपी सत्यापन",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_DESCRIPTION",
+        "message": "सैंडबॉक्स V1 में शिकायतें शामिल हैं, एक उत्पाद जिसका उपयोग पारदर्शिता और पता लगाने की क्षमता प्रदान करते हुए शिकायतों को दर्ज करने, असाइन करने, ट्रैक करने और हल करने के लिए किया जाता है।सार्वजनिक शिकायत निवारण के उद्देश्य से दुनिया भर में कई सरकारों द्वारा अपनाया गया, शिकायतों को बड़े पैमाने पर बनाया गया है, जो विभिन्न हितधारकों को उत्पाद का उपयोग करने की अनुमति देने के लिए कई उपयोगकर्ता भूमिकाएँ प्रदान करता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_STEP_1",
+        "message": "शिकायत दर्ज करें और उसे ट्रैक करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_STEP_2",
+        "message": "शिकायतें असाइन करें, अस्वीकार करें और समाधान करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_STEP_3",
+        "message": "सारांश आँकड़ों के साथ एक इंटरैक्टिव डैशबोर्ड देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_STEP_4",
+        "message": "शिकायत समाधान प्रक्रिया को रेटिंग दें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_TEXT",
+        "message": "सैंडबॉक्स V1 में शिकायतें शामिल हैं, एक उत्पाद जिसका उपयोग मुद्दों को दर्ज करने, असाइन करने, ट्रैक करने और हल करने, पारदर्शिता और पता लगाने की क्षमता प्रदान करने के लिए किया जाता है।सार्वजनिक शिकायत निवारण के उद्देश्य से दुनिया भर में कई सरकारों द्वारा अपनाया गया, शिकायतों को बड़े पैमाने पर बनाया गया है, जो विभिन्न हितधारकों को उत्पाद का उपयोग करने की अनुमति देने के लिए कई उपयोगकर्ता भूमिकाएँ प्रदान करता है।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS_TITLE",
+        "message": "उत्पादों",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_RESEND_OTP_ERROR",
+        "message": "ओटीपी भेजते समय त्रुटि",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_TITLE",
+        "message": "आप क्या कर सकते हैं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SIGNUP_ACCOUNT_NAME_TOOLTIP",
+        "message": "उपयोगकर्ता नाम का उपयोग आपके सैंडबॉक्स खाते की विशिष्ट पहचान के लिए किया जाता है।कृपया ऐसा नाम प्रदान करें जिसमें केवल अक्षर और रिक्त स्थान हों।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SIGNUP_CustomException",
+        "message": "सर्वर साइड से त्रुटि कृपया पुनः प्रयास करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_CREATE",
+        "message": "किरायेदार बनाएँ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_CREATE_HOMECARD_LABEL",
+        "message": "संगठन निर्माण",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_SEARCH",
+        "message": "किरायेदार की खोज",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_SEARCH_HOMECARD_LABEL",
+        "message": "संगठन खोज",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_URL",
+        "message": "सैंडबॉक्स यूआरएल",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_URL_FOOT",
+        "message": "आपके सैंडबॉक्स यूआरएल को संदर्भ के लिए आपकी मेल आईडी भेज दी गई है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_URL_SUB",
+        "message": "आपका खाता सफलतापूर्वक बन गया है",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_STEP_1",
+        "message": "शिकायत उत्पाद का उपयोग करके शिकायतें दर्ज करें, असाइन करें, ट्रैक करें और समाधान करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_STEP_2",
+        "message": "एक इंटरैक्टिव डैशबोर्ड के माध्यम से ग्राफ़िक रूप से आँकड़े देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_STEP_3",
+        "message": "कर्मचारी प्रबंधन का उपयोग करके विभिन्न भूमिकाओं से शिकायत उत्पाद का अनुभव करने के लिए उपयोगकर्ता बनाएं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_STEP_4",
+        "message": "डिफ़ॉल्ट व्यवहार को संशोधित करने के लिए शिकायतों को मैन्युअल रूप से कॉन्फ़िगर करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_STEP_5",
+        "message": "नागरिक पोर्टल का उपयोग यह पता लगाने के लिए करें कि नागरिक शिकायत निवारण के लिए शिकायतों का उपयोग कैसे करते हैं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_STEP_6",
+        "message": "DIGIT उत्पादों में दिखाई देने वाले लोगो और लॉगिन पृष्ठ पर दिखाई देने वाली बैनर छवि को अनुकूलित करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_USER_CAPABILITIES_TITLE",
+        "message": "आप क्या कर सकते हैं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_FORGOTORGANIZATION_TOOLTIP",
+        "message": "कृपया अपना इनबॉक्स जांचें, आपके परिचय-पत्र स्वागत ईमेल में आपके साथ साझा किए गए थे।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SIGN_IN",
+        "message": "जारी रखना",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "USER_CAPABILITIES_STEP_1",
+        "message": "शिकायत उत्पाद का उपयोग करके फ़ाइल करें, असाइन करें, ट्रैक करें और समस्याओं का समाधान करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "USER_CAPABILITIES_STEP_2",
+        "message": "एक इंटरैक्टिव डैशबोर्ड के माध्यम से शिकायतों के आंकड़ों को ग्राफ़िक रूप से देखें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "USER_CAPABILITIES_STEP_3",
+        "message": "कर्मचारी प्रबंधन का उपयोग करके विभिन्न भूमिकाओं से शिकायत उत्पाद का अनुभव करने के लिए उपयोगकर्ता बनाएं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "USER_CAPABILITIES_STEP_4",
+        "message": "डिफ़ॉल्ट व्यवहार को अनुकूलित करने के लिए शिकायतों को मैन्युअल रूप से कॉन्फ़िगर करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "USER_CAPABILITIES_STEP_5",
+        "message": "नागरिक इंटरफ़ेस देखें और जानें कि नागरिक शिकायत निवारण के लिए शिकायतों का उपयोग कैसे करते हैं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "USER_CAPABILITIES_STEP_6",
+        "message": "DIGIT उत्पादों में दिखाई देने वाले लोगो और लॉगिन पृष्ठ पर दिखाई देने वाली बैनर छवि को अनुकूलित करें",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WELCOME_TO_SANDBOX",
+        "message": "शुरू हो जाओ",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WRONG_TENANT_SIGN_UP",
+        "message": "असामान्य यूआरएल",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WRONG_TENANT_SIGN_UP_BUTTON",
+        "message": "खाता बनाएं",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WRONG_TENANT_SIGN_UP_MESSAGE",
+        "message": "आपके द्वारा दर्ज किया गया यूआरएल मान्य नहीं है.कृपया लिंक की जाँच करें या एक नया खाता बनाएँ।",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "en_IN",
+        "message": "अंग्रेज़ी",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "hi_IN",
+        "message": "हिन्दी",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    },
+    {
+        "code": "question q",
+        "message": "मैं नागरिक और कर्मचारी पोर्टल तक कैसे पहुँच सकता हूँ?",
+        "module": "digit-ui",
+        "locale": "en_IN"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "code": " DSS_PGR_COMPLETION_RATE",
+        "message": "पूर्णता दर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_ACCOUNTS_BRANCH",
+        "message": "लेखा शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_BUILDING_&_ROADS",
+        "message": "भवन एवं सड़कें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_BUILDING_BRANCH",
+        "message": "भवन शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_HEALTH_&_SANITATION",
+        "message": "स्वास्थ्य एवं स्वच्छता",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_HORTICULTURE",
+        "message": "बागवानी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_IVR",
+        "message": "आईवीआर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MOBILE",
+        "message": "गतिमान",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OPERATION_&_MAINTENANCE",
+        "message": "संचालन एवं रखरखाव",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OTHERS",
+        "message": "अन्य प्रकार",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_PENDINGFORASSIGNMENT",
+        "message": "असाइनमेंट के लिए लंबित",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_PENDINGFORREASSIGNMENT",
+        "message": "पुनर्नियुक्ति हेतु लंबित",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_RESOLVED",
+        "message": "हल किया",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_STREET_LIGHTS",
+        "message": "स्ट्रीट लाइट",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_TAX_BRANCH",
+        "message": "कर शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_WEB",
+        "message": "वेब",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_WHATSAPP",
+        "message": "Whatsapp",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_WORKS_BRANCH",
+        "message": "कार्य शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_null",
+        "message": "कोई नहीं",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_SEARCH",
+        "message": "खोज",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DDR_PG_CITYA",
+        "message": "शहर ए",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DDR_PG_CITYB",
+        "message": "शहर बी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DDR_PG_CITYC",
+        "message": "सिटी सी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DDR_PG_CITYD",
+        "message": "शहर डी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DDR_PG_CITYE",
+        "message": "शहर ई",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_CMN_TABLE_INFO",
+        "message": "स्थिति के आधार पर शिकायतों का वर्गीकरण",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_Dashboard_Link_PGR",
+        "message": "डैशबोर्ड देखें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_EVENTDURATIONGRAPH",
+        "message": "घटना अवधि ग्राफ़",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_EVENT_DURATION_GRAPH",
+        "message": "घटना अवधि ग्राफ़",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_FILTERS_APPLIED",
+        "message": "फ़िल्टर लागू",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_FILTER_CLEAR",
+        "message": "फ़िल्टर साफ़ करें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_COMPLAINT_CATEGORY",
+        "message": "शिकायत श्रेणी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_COMPLETION_RATE",
+        "message": "संकल्प दर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_COMPLAINTS",
+        "message": "शिकायतें खोलें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_REOPENED_COMPLAINTS",
+        "message": "शिकायतें पुनः खोली गईं",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_ACHIEVED",
+        "message": "एसएलए हासिल किया",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_S_N",
+        "message": "सीरीयल नम्बर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_S_N_",
+        "message": "सीरीयल नम्बर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_ULB",
+        "message": "चयनित प्रभाग",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_NO_DATA",
+        "message": "डाटा प्राप्त नहीं हुआ",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGRCITIZENONDATERANGE",
+        "message": "महीना",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGRCTIZENODATERANGE",
+        "message": "महीना",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_CITIZENS",
+        "message": "अद्वितीय नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_CHANNEL",
+        "message": "चैनल द्वारा शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
+        "message": "विभाग द्वारा शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_STATUS",
+        "message": "स्थिति के अनुसार शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLETION_RATE",
+        "message": "पूर्णता दर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_DASHBOARD",
+        "message": "शिकायत डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_STATUS_BY_TENANT",
+        "message": "विभाग द्वारा स्थिति",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_TOP_COMPLAINTS",
+        "message": "शीर्ष शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PREVIOUS_YEAR",
+        "message": "पिछला वित्त वर्ष",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_SLA_ACHIEVED",
+        "message": "एसएलए हासिल किया",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_ACCOUNTS_BRANCH",
+        "message": "लेखा शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_BUILDING_&_ROADS",
+        "message": "भवन एवं सड़कें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_BUILDING_BRANCH",
+        "message": "भवन शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_ACCOUNTS_BRANCH",
+        "message": "लेखा शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_BUILDING_&_ROADS",
+        "message": "भवन एवं सड़कें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_BUILDING_BRANCH",
+        "message": "भवन शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_HEALTH_&_SANITATION",
+        "message": "स्वास्थ्य एवं स्वच्छता",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_HORTICULTURE",
+        "message": "बागवानी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_OPERATION_&_MAINTENANCE",
+        "message": "संचालन एवं रखरखाव",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_STREET_LIGHTS",
+        "message": "स्ट्रीट लाइट",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_TAX_BRANCH",
+        "message": "कर शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DSS_TB_WORKS_BRANCH",
+        "message": "कार्य शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_HEALTH_&_SANITATION",
+        "message": "स्वास्थ्य एवं स्वच्छता",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_HORTICULTURE",
+        "message": "बागवानी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_OPERATION_&_MAINTENANCE",
+        "message": "संचालन एवं रखरखाव",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TAX_BRANCH",
+        "message": "कर शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_WORKS_BRANCH",
+        "message": "कार्य शाखा",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_THIS_MONTH",
+        "message": "इस महीने",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_THIS_QUARTER",
+        "message": "यह तिमाही",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_THIS_WEEK",
+        "message": "इस सप्ताह",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_THIS_YEAR",
+        "message": "चालू वित्तीय वर्ष",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TODAY",
+        "message": "आज",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TOTAL_COMPLAINTS_BY_SOURCE",
+        "message": "स्रोत के अनुसार कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TOTAL_COMPLAINTS_STATUS",
+        "message": "स्थिति के अनुसार कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS",
+        "message": "संचयी बंद शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_YESTERDAY",
+        "message": "कल",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_DOWNLOAD_IMAGE",
+        "message": "छवि डाउनलोड करें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_PGR",
+        "message": "डीएसएस",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_ALL_DDR_SELECTED",
+        "message": "सभी डीडीआर चयनित",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_ALL_ULB_SELECTED",
+        "message": "सभी प्रभाग चयनित",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_CR",
+        "message": "करोड़",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_DDR",
+        "message": "डीडीआर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_DDR_SELECTED",
+        "message": "प्रभाग चयनित",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_DENOMINATION",
+        "message": "मज़हब",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_DOWNLOAD",
+        "message": "डाउनलोड करना",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_LAC",
+        "message": "लाख",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_SHARE",
+        "message": "शेयर करना",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_SHARE_IMAGE",
+        "message": "चित्र साझा करें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_ULB",
+        "message": "विभाजन",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_UNIT",
+        "message": "इकाइयों",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_LANDING_PAGE",
+        "message": "अवतरण",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LOCALITY_MISSING_ERROR",
+        "message": "कृपया इलाका चुनें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REOPENED_COMPLAINTS",
+        "message": "शिकायतें पुनः खोली गईं",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_EVENT_DURATION_GRAPH",
+        "message": "घटना अवधि ग्राफ़",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLAINT_CATEGORY",
+        "message": "शिकायत श्रेणी",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLETION_RATE",
+        "message": "पूर्णता दर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_OPEN_COMPLAINTS",
+        "message": "शिकायतें खोलें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REOPENED_COMPLAINTS",
+        "message": "शिकायतें पुनः खोली गईं",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SLA_ACHIEVED",
+        "message": "एसएलए हासिल किया",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_OVERVIEW",
+        "message": "सिंहावलोकन",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_CITIZENS",
+        "message": "अद्वितीय नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_CLOSED_COMPLAINTS",
+        "message": "बंद किया हुआ",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_COMPLAINTS_BY_CHANNEL",
+        "message": "चैनल द्वारा शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
+        "message": "विभाग द्वारा शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_COMPLAINTS_BY_STATUS",
+        "message": "स्थिति के अनुसार शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_COMPLETION_RATE",
+        "message": "दर",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_SLA_ACHIEVED",
+        "message": "एस.एल.ए",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_STATUS_BY_TENANT",
+        "message": "विभाग द्वारा स्थिति",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_TOP_COMPLAINTS",
+        "message": "शीर्ष शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_TOTAL_COMPLAINTS",
+        "message": "कुल",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_SLA_ACHIEVED",
+        "message": "चयनित समयावधि में एसएलए हासिल किया गया",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_COMPLAINTS_BY_SOURCE",
+        "message": "स्रोत के अनुसार कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_COMPLAINTS_STATUS",
+        "message": "स्थिति के अनुसार कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS",
+        "message": "कुल संचयी समापन शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    }
+]

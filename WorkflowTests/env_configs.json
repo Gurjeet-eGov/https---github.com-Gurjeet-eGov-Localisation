@@ -1,9 +1,9 @@
 {
-    "BASE_URL" : "https://ips-demo.digit.org",
+    "BASE_URL" : "https://staging.digit.org",
     "LOCAL_HOST" : "http://localhost:8082",
     "ENDPOINTS_PATH" : "endpoints.json",
     "CREDENTIALS_PATH" : "credentials.json",
-    "STATE" : "ke",
-    "CITY" : "ke.kisumu",
+    "STATE" : "pg",
+    "CITY" : "pg.citya",
     "AUTHORIZATION": "Basic ZWdvdi11c2VyLWNsaWVudDo="
 }

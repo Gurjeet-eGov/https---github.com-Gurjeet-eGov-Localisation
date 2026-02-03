@@ -1,0 +1,42 @@
+[
+    {
+        "id": 162,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=common-masters&masterName=UOM"
+    },
+    {
+        "id": 142,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Type"
+    },
+    {
+        "id": 145,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SubType"
+    },
+    {
+        "id": 177,
+        "url": "/rate-analysis/v1/_calculate",
+        "nav_url": ""
+    },
+    {
+        "id": 148,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Variant"
+    },
+    {
+        "id": 151,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SOR"
+    },
+    {
+        "id": 154,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Overhead"
+    },
+    {
+        "id": 157,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Rates"
+    }
+]

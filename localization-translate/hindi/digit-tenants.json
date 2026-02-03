@@ -1,0 +1,2186 @@
+[
+    {
+        "code": "ADMIN_SUN01",
+        "message": "हेरिटेज स्क्वायर",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADMIN_SUN02",
+        "message": "सदाबहार पार्क",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADMIN_SUN03",
+        "message": "मेपलवुड",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADMIN_SUN04",
+        "message": "सेंट्रल प्लाज़ा",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADMIN_SUN05",
+        "message": "इनोवेशन पार्क",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADMIN_SUN06",
+        "message": "वित्तीय जिले",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_CITIZEN_FEATURE1",
+        "message": "मौजूदा जन्म/मृत्यु पंजीकरण खोजें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_CITIZEN_FEATURE2",
+        "message": "प्रमाणपत्र के लिए ऑनलाइन भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_CITIZEN_FEATURE3",
+        "message": "प्रमाणपत्र और भुगतान रसीद डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_CITIZEN_FEATURE4",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_EMPLOYEE_FEATURE1",
+        "message": "Register births/deaths based on hospital records",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_EMPLOYEE_FEATURE2",
+        "message": "विरासती रिकॉर्ड जोड़ें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_EMPLOYEE_FEATURE3",
+        "message": "मौजूदा जन्म/मृत्यु रिकॉर्ड खोजें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_EMPLOYEE_FEATURE4",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_PRODUCT_DESCRIPTION",
+        "message": "नागरिकों को जन्म और मृत्यु प्रमाण पत्र आसानी से डिजिटल रूप से आवेदन करने और डाउनलोड करने में मदद करने के लिए एक स्व-सेवा सुविधा।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_PRODUCT_DETAILS_HEADER",
+        "message": "जन्म एवं मृत्यु प्रमाण पत्र जारी करना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और जन्म/मृत्यु प्रमाण पत्र डाउनलोड करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और जन्म/मृत्यु दर्ज करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION1_PARA1",
+        "message": "जन्म और amp;मृत्यु प्रमाणपत्र जारी करना एक एंड-टू-एंड उत्पाद है जो &lt;strong&gt;सरकारी कर्मचारियों को जन्म/मृत्यु का पंजीकरण&lt;/strong&gt; करने में सक्षम बनाता है।अस्पताल के रिकॉर्ड और &lt;strong&gt;नागरिकों को प्रमाणपत्र डाउनलोड करने के लिए&lt;/strong&gt; के आधार पर।यह समाधान &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और प्रमाणपत्रों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ निर्दिष्ट करने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;पंजीकृत जन्म या मृत्यु प्रमाण पत्र खोज और डाउनलोड कर सकते हैं और उसके लिए भुगतान कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;अस्पताल डेटा के आधार पर जन्म/मृत्यु पंजीकरण पंजीकृत और संपादित कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION1_TITLE",
+        "message": "जन्म एवं मृत्यु प्रमाणपत्र जारी करने के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION2_HL2",
+        "message": "जन्म या मृत्यु प्रमाण पत्र",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION2_PARA1",
+        "message": "यह समाधान नागरिकों को क्यूआर कोड-सक्षम जन्म और मृत्यु प्रमाणपत्रों तक पहुंचने, डाउनलोड करने और प्रिंट करने, ऑनलाइन भुगतान करने और पिछले आवेदनों को पुनः प्राप्त करने में सक्षम बनाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION2_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो अस्पताल के रिकॉर्ड के आधार पर सरकारी कर्मचारियों द्वारा पंजीकरण प्रस्तुत करने के साथ शुरू होता है।अधिकारी विरासत रिकॉर्ड को संपादित कर सकते हैं और फ़िल्टरिंग और समीक्षा के माध्यम से अनुप्रयोगों का प्रबंधन कर सकते हैं।इसके बाद नागरिक एक सुव्यवस्थित, भूमिका-आधारित प्रक्रिया के माध्यम से भुगतान कर सकते हैं और अपने प्रमाणपत्र और रसीदें ऑनलाइन डाउनलोड कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BND_SECTION3_TITLE",
+        "message": "जन्म एवं मृत्यु प्रमाणपत्र जारी करने का अनुभव",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CMN_NOOPTION",
+        "message": "कोई विकल्प नहीं",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_EXPLORE",
+        "message": "अन्वेषण करना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_SIGN_UP",
+        "message": "साइन अप करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_CITIZEN_FEATURE3",
+        "message": "नागरिक सीधे वित्त मॉड्यूल के साथ बातचीत नहीं करते हैं, लेकिन नगरपालिका वित्तीय प्रबंधन में बेहतर पारदर्शिता, दक्षता और जवाबदेही से लाभान्वित होते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE1",
+        "message": "सामान्य खाता बही प्रविष्टियों की पोस्टिंग",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE2",
+        "message": "खरीदारी, कार्य और वेतन के लिए बिल प्रसंस्करण",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE3",
+        "message": "व्यय प्रकार के अनुसार भुगतान प्रसंस्करण",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE4",
+        "message": "DIGIT मॉड्यूल या तृतीय-पक्ष ऐप्स से रसीदों का प्रसंस्करण",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE5",
+        "message": "कॉन्फ़िगर करने योग्य सेवा-वार और बैंक खाता मैपिंग",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE6",
+        "message": "संग्रहण के माध्यम से संग्रहण प्रेषण",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारियों के लिए सुविधाएँ:",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_PRODUCT_DESCRIPTION",
+        "message": "एक मजबूत, कॉन्फ़िगर करने योग्य वेब-आधारित वित्त समाधान जो शहरी स्थानीय निकायों को सभी नगरपालिका वित्तीय लेनदेन, बजट, परिसंपत्ति प्रबंधन और वैधानिक अनुपालन को कुशलतापूर्वक प्रबंधित करने का अधिकार देता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_PRODUCT_DETAILS_HEADER",
+        "message": "वित्त",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "बजट और भुगतान से लेकर परिसंपत्ति प्रबंधन और अनुपालन तक नगरपालिका वित्त के सभी पहलुओं का प्रबंधन, निगरानी और रिपोर्ट करने के लिए एक वित्त अधिकारी, प्रशासक या लेखा परीक्षक के रूप में लॉगिन करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION1_PARA1",
+        "message": "वित्त एक संपूर्ण उत्पाद है जो &lt;strong&gt;स्थानीय सरकारों को सभी वित्तीय गतिविधियों को कुशलतापूर्वक प्रबंधित करने के लिए सशक्त बनाता है&lt;/strong&gt;जिसमें नगरपालिका वित्तीय लेनदेन, बजट, परिसंपत्ति प्रबंधन और स्थानीय नियमों के आधार पर वैधानिक अनुपालन शामिल है।यह समाधान &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और वित्तीय समाधानों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ सौंपने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में एक प्रकार का उपयोगकर्ता होता है: सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;पूर्वनिर्धारित नियमों के आधार पर दस्तावेज़ों को सत्यापित कर सकता है, फ़ील्ड निरीक्षण लॉग कर सकता है और आवेदनों को स्वीकृत करना, अस्वीकार करना या वापस भेजना जैसी कार्रवाई कर सकता है।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION1_TITLE",
+        "message": "वित्त के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION2_HL2",
+        "message": "वित्त",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION2_PARA1",
+        "message": "यह समाधान इसके लिए है:\n\nनगरपालिका वित्त अधिकारी और लेखाकार: सभी वित्तीय लेनदेन को रिकॉर्ड करना, ट्रैक करना और रिपोर्ट करना और वैधानिक अनुपालन बनाए रखना।\n\nविभाग प्रमुख और प्रशासक: बजट, व्यय और परिसंपत्ति प्रबंधन की निगरानी करना।\n\nलेखा परीक्षक और नियामक निकाय: निरीक्षण और अनुपालन के लिए सटीक, वास्तविक समय के वित्तीय डेटा और रिपोर्ट तक पहुंच प्राप्त करना।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION2_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो बजट के निर्माण या अपलोड के साथ शुरू होता है, इसके बाद राजस्व और व्यय लेनदेन की रिकॉर्डिंग होती है।बिलों और भुगतानों को व्यय प्रकारों के अनुसार संसाधित किया जाता है, प्राप्तियों को DIGIT मॉड्यूल और तृतीय-पक्ष एप्लिकेशन दोनों से प्रबंधित किया जाता है।परिसंपत्ति निर्माण, मूल्यह्रास और निपटान को ट्रैक किया जाता है, और सभी लेनदेन को कॉन्फ़िगर करने योग्य डैशबोर्ड के माध्यम से समेटा और रिपोर्ट किया जाता है।प्रशासक मास्टर डेटा सेट कर सकते हैं, वर्कफ़्लो कॉन्फ़िगर कर सकते हैं और बजटीय नियंत्रण लागू कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION3_PARA1",
+        "message": "दैनिक लेनदेन का प्रबंधन करने वाले नगरपालिका वित्त अधिकारी के रूप में, बजट और वर्कफ़्लो को कॉन्फ़िगर करने वाले प्रशासक के रूप में, या अनुपालन और रिपोर्ट की समीक्षा करने वाले लेखा परीक्षक के रूप में वित्त मॉड्यूल का अनुभव करें।सैंडबॉक्स वातावरण वास्तविक दुनिया के वित्तीय संचालन को अनुकरण करने के लिए मास्टर डेटा, वर्कफ़्लो और उपयोगकर्ता भूमिकाओं की पूर्ण कॉन्फ़िगरेशन की अनुमति देता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FINANCE_SECTION3_TITLE",
+        "message": "अनुभव वित्त",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_CITIZEN_FEATURE1",
+        "message": "फायर एनओसी के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_CITIZEN_FEATURE2",
+        "message": "आवेदन स्वीकृत होने के बाद ऑनलाइन भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_CITIZEN_FEATURE3",
+        "message": "प्रमाणपत्र और भुगतान रसीद डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_CITIZEN_FEATURE4",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_CITIZEN_FEATURE5",
+        "message": "नकली ऑनलाइन भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_EMPLOYEE_FEATURE1",
+        "message": "किसी नागरिक की ओर से फायर एनओसी के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_EMPLOYEE_FEATURE2",
+        "message": "दस्तावेज़ सत्यापित करें, फ़ील्ड सत्यापन करें और आवेदन स्वीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_EMPLOYEE_FEATURE3",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_EMPLOYEE_FEATURE4",
+        "message": "पर कार्रवाई करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_EMPLOYEE_FEATURE5",
+        "message": "रिपोर्ट और डैशबोर्ड तक पहुंचें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_PRODUCT_DESCRIPTION",
+        "message": "नागरिकों को अग्नि सुरक्षा अनापत्ति प्रमाणपत्र (एनओसी) के लिए आवेदन करने में मदद करने के लिए एक स्व-सेवा सुविधा।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_PRODUCT_DETAILS_HEADER",
+        "message": "अग्नि सुरक्षा प्रमाणपत्र (एनओसी)",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION1_PARA1",
+        "message": "स्थानीय व्यापार लाइसेंस जारी करने की प्रणाली एक एंड-टू-एंड उत्पाद है जो &lt;strong&gt;नागरिकों को फायर एनओसी के लिए आवेदन करने में सक्षम बनाता है&lt;/strong&gt;और &lt;strong&gt;सरकारें फायर एनओसी जारी करेंगी&lt;/strong&gt;स्थानीय नियमों पर आधारित.यह समाधान &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और प्रमाणपत्रों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ निर्दिष्ट करने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;आवश्यक दस्तावेज जमा करके और शुल्क का भुगतान करके फायर एनओसी के लिए आवेदन कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;पूर्वनिर्धारित नियमों के आधार पर आवेदनों की समीक्षा और अनुमोदन कर सकता है।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION1_TITLE",
+        "message": "अग्नि सुरक्षा प्रमाणपत्र (एनओसी) के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION2_HL2",
+        "message": "फायर एनओसी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION2_PARA1",
+        "message": "टीबीडी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION2_PARA2",
+        "message": "टीबीडी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRENOC_SECTION3_TITLE",
+        "message": "अनुभव अग्नि सुरक्षा प्रमाणपत्र (एनओसी)",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE1",
+        "message": "मल कीचड़ के संग्रहण का अनुरोध करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE2",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE3",
+        "message": "सेवा के लिए पसंदीदा तिथि और समय निर्धारित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE4",
+        "message": "वास्तविक समय में अनुरोध स्थिति ट्रैक करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE5",
+        "message": "प्रत्येक चरण पर एसएमएस/ऐप सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE6",
+        "message": "डिजिटल भुगतान करें (जहां सक्षम हो)",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE7",
+        "message": "सेवा पूर्ण होने के बाद प्रतिक्रिया दें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_EMPLOYEE_FEATURE1",
+        "message": "संबंधित सरकारी कर्मचारियों को संग्रहण अनुरोध सौंपें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_EMPLOYEE_FEATURE2",
+        "message": "भुगतान संग्रह रिकॉर्ड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_EMPLOYEE_FEATURE3",
+        "message": "तदर्थ परीक्षण बनाएँ और परिणाम अद्यतन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_EMPLOYEE_FEATURE4",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_EMPLOYEE_FEATURE5",
+        "message": "योजना और नीतिगत निर्णयों के रुझानों का विश्लेषण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_EMPLOYEE_FEATURE_HEADER",
+        "message": "प्रशासक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_PRODUCT_DESCRIPTION",
+        "message": "शहरों के लिए मल कीचड़ संग्रहण, उपचार और ट्रैकिंग के एंड-टू-एंड डिजिटल प्रबंधन को सक्षम करने के लिए एक स्व-सेवा सुविधा।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_PRODUCT_DETAILS_HEADER",
+        "message": "मल कीचड़ प्रबंधन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_ROLE_LANDING_CITIZEN_DESCRIPTION_PLANT_OPERATOR",
+        "message": "प्लांट संचालक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "प्रशासक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION1_PARA1",
+        "message": "&lt;p&gt;मल कीचड़ प्रबंधन मल कीचड़ संग्रह, उपचार और परीक्षण के अंत-से-अंत डिजिटल प्रबंधन की अनुमति देता है।यह &lt;strong&gt;नागरिकों को संग्रहण अनुरोध बढ़ाने&lt;/strong&gt; में सक्षम बनाता है।और &lt;strong&gt;सरकारी कर्मचारी संग्रह अनुरोधों का प्रबंधन करेंगे और गुणवत्ता का परीक्षण करेंगे&lt;/strong&gt;उपचारित मल कीचड़ का.यह समाधान पूरी तरह से कॉन्फ़िगर करने योग्य है और संग्रह अनुरोधों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;/p&gt;&lt;p&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ निर्दिष्ट करने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में तीन प्रकार के उपयोगकर्ता होते हैं: नागरिक, प्लांट ऑपरेटर और प्रशासक।&lt;/p&gt;",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;मल कीचड़ के लिए संग्रह अनुरोध उठा सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;प्रशासक&lt;/strong&gt;संग्रह अनुरोधों पर कार्रवाई कर सकता है और तदर्थ परीक्षण आयोजित कर सकता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION1_ROLE_3",
+        "message": "&lt;strong&gt;प्लांट ऑपरेटर&lt;/strong&gt;उन वाहनों को लॉग कर सकता है जिन्होंने मल कीचड़ एकत्र किया है और निर्धारित परीक्षणों के लिए परिणाम जोड़ सकते हैं।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION1_TITLE",
+        "message": "मल कीचड़ प्रबंधन के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION2_HL2",
+        "message": "एफएसएम",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION2_PARA1",
+        "message": "यह समाधान इसके लिए डिज़ाइन किया गया है:\n\nनागरिक: सेप्टिक टैंकों के लिए कीचड़ हटाने की सेवाओं का अनुरोध करें और मोबाइल या वेब के माध्यम से सेवा की स्थिति पर नज़र रखें।\n\nकीचड़ हटाने वाले ऑपरेटर/सेवा प्रदाता: सेवा अनुरोध प्राप्त करें, शेड्यूल करें और प्रबंधित करें, सेवा की स्थिति अपडेट करें और डिजिटल रिकॉर्ड बनाए रखें।\n\nशहरी स्थानीय निकाय के अधिकारी: सेवा वितरण की निगरानी करते हैं, अनुपालन की निगरानी करते हैं, कार्य सौंपते हैं, और कॉन्फ़िगर करने योग्य वर्कफ़्लो और डैशबोर्ड के माध्यम से नियामक और परिचालन रिपोर्ट तैयार करते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION2_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो तब शुरू होता है जब कोई नागरिक या ऑपरेटर कीचड़ हटाने का अनुरोध करता है, जिसे उपयुक्त सेवा प्रदाता को भेज दिया जाता है।ऑपरेटर प्रत्येक चरण पर स्थिति को अपडेट करते हुए सेवा को शेड्यूल करता है और पूरा करता है।अधिकारी प्रगति की निगरानी करते हैं, अनुपालन की पुष्टि करते हैं, और यदि समस्याएँ आती हैं तो हस्तक्षेप कर सकते हैं।नागरिक सूचनाएं प्राप्त करते हैं और सेवा के बाद फीडबैक प्रदान कर सकते हैं।प्रशासक स्थानीय आवश्यकताओं के अनुसार सेवा पैरामीटर, मूल्य निर्धारण और वर्कफ़्लो को कॉन्फ़िगर कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SECTION3_TITLE",
+        "message": "मल कीचड़ प्रबंधन का अनुभव लें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_STAKEHOLDER_FEATURE1",
+        "message": "संग्रह अनुरोधों के लिए वाहन लॉग अपडेट करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_STAKEHOLDER_FEATURE2",
+        "message": "निर्धारित परीक्षणों के परिणाम अद्यतन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_STAKEHOLDER_FEATURE3",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_STAKEHOLDER_FEATURE_HEADER",
+        "message": "प्लांट संचालक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_CITIZEN_FEATURE1",
+        "message": "नए भुगतान अनुरोधों के लिए सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_CITIZEN_FEATURE2",
+        "message": "भुगतान अनुरोध के लिए ऑनलाइन भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_CITIZEN_FEATURE3",
+        "message": "सभी भुगतान अनुरोध देखें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_EMPLOYEE_FEATURE1",
+        "message": "नया विविध भुगतान अनुरोध जनरेट करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_EMPLOYEE_FEATURE2",
+        "message": "ऑफ़लाइन भुगतान रिकॉर्ड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_EMPLOYEE_FEATURE3",
+        "message": "मौजूदा भुगतान अनुरोध रद्द करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_EMPLOYEE_FEATURE4",
+        "message": "मौजूदा भुगतान अनुरोध को अपडेट करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_EMPLOYEE_FEATURE5",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_PRODUCT_DESCRIPTION",
+        "message": "एक मोबाइल रसीद प्रसंस्करण प्रणाली जो स्थानीय सरकारों को सभी विविध राजस्व एकत्र करने में सक्षम बनाने के लिए वित्त के साथ मजबूती से एकीकृत है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_PRODUCT_DETAILS_HEADER",
+        "message": "मांग आधारित राजस्व संग्रह",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और भुगतान की समीक्षा करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और भुगतान प्राप्त करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION1_PARA1",
+        "message": "एमकलेक्ट एक मोबाइल-आधारित ऐप है जो &lt;strong&gt;सरकारों को विविध राजस्व एकत्र करने&lt;/strong&gt; में सक्षम बनाता है।और &lt;strong&gt;नागरिकों को भुगतान करना&lt;/strong&gt;स्थानीय नियमों के आधार पर वास्तविक समय में।यह समाधान &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और विविध राजस्व संग्रहों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ सौंपने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;लंबित संग्रहण अनुरोधों को खोज और भुगतान कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;नए संग्रह अनुरोध उत्पन्न कर सकते हैं और भुगतान रिपोर्ट की समीक्षा कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION1_TITLE",
+        "message": "मांग-आधारित राजस्व संग्रह के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION2_HL1",
+        "message": "इकट्ठा करना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION2_HL2",
+        "message": "विविध राजस्व",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION2_PARA1",
+        "message": "यह समाधान नागरिकों से वास्तविक समय पर शुल्क और शुल्क एकत्र करने में सक्षम बनाता है जबकि अधिकारियों को भुगतान को कुशलतापूर्वक रिकॉर्ड करने, समाधान करने और रिपोर्ट करने में मदद करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION2_PARA2",
+        "message": "नागरिक डिजिटल या ऑफ़लाइन भुगतान कर सकते हैं, जिसमें प्रमुख विवरण स्वतः कैप्चर किए जाएंगे।रसीदें तुरंत उत्पन्न होती हैं, और अधिकारी वास्तविक समय में ट्रैक, समाधान और रिपोर्ट कर सकते हैं।सिस्टम कई विभागों का समर्थन करता है और जवाबदेह, सुव्यवस्थित राजस्व संग्रह सुनिश्चित करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, प्रत्येक उपयोगकर्ता के लिए उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT_SECTION3_TITLE",
+        "message": "मांग-आधारित राजस्व संग्रह का अनुभव करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_CITIZEN_FEATURE1",
+        "message": "हितधारकों द्वारा अपलोड की गई भवन योजनाओं के लिए सहमति प्रदान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_CITIZEN_FEATURE2",
+        "message": "फीस का भुगतान ऑनलाइन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_CITIZEN_FEATURE3",
+        "message": "परमिट और प्रमाणपत्र और भुगतान रसीदें डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_CITIZEN_FEATURE4",
+        "message": "ईमेल और एसएमएस के माध्यम से सूचित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_CITIZEN_FEATURE5",
+        "message": "परमिट और रसीदें एक्सेस करें और डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_EMPLOYEE_FEATURE1",
+        "message": "एसएलए के आधार पर एप्लिकेशन और हितधारक पंजीकरण को ट्रैक करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_EMPLOYEE_FEATURE2",
+        "message": "दस्तावेज़ों की समीक्षा करें, फ़ील्ड निरीक्षण रिपोर्ट जोड़ें और आवेदन स्वीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_EMPLOYEE_FEATURE3",
+        "message": "परमिट आवेदन के समानांतर प्रमाणपत्र स्वीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_EMPLOYEE_FEATURE4",
+        "message": "भुगतान संग्रह रिकॉर्ड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_EMPLOYEE_FEATURE5",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_PRODUCT_DESCRIPTION",
+        "message": "किसी भी स्थानीय सरकार से भवन निर्माण की अनुमति लेने के लिए आर्किटेक्ट, इंजीनियरों और पर्यवेक्षकों जैसे पेशेवरों के लिए एक मोबाइल और वेब-आधारित उत्पाद।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_PRODUCT_DETAILS_HEADER",
+        "message": "भवन निर्माण परमिट प्रणाली",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और कनेक्शन के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और लागू परमिट पर कार्रवाई करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION1_PARA1",
+        "message": "&lt;p&gt;बिल्डिंग कंस्ट्रक्शन परमिट सिस्टम एक एंड-टू-एंड उत्पाद है जो &lt;strong&gt;हितधारकों&lt;/strong&gt;(जैसे आर्किटेक्ट, टाउन प्लानर) &lt;strong&gt;परमिट/प्रमाणपत्र के लिए आवेदन करने के लिए&lt;/strong&gt;किसी नागरिक की परियोजनाओं के लिए, &lt;strong&gt;नागरिकों को सहमति देनी होगी&lt;/strong&gt;&परमिट/प्रमाणपत्र जारी करने के लिए हितधारकों और &lt;strong&gt;सरकारों द्वारा किए गए आवेदनों को मंजूरी&lt;/strong&gt;स्थानीय नियमों के आधार पर यह समाधान पूरी तरह से कॉन्फ़िगर करने योग्य है और इसे परमिट और प्रमाणपत्रों की एक विस्तृत श्रृंखला का समर्थन करने के लिए बढ़ाया जा सकता है।&lt;/p&gt;&lt;p&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ सौंपने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में तीन प्रकार के उपयोगकर्ता होते हैं: हितधारक, नागरिक और सरकारी कर्मचारी।&lt;/p&gt;",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION1_ROLE_1",
+        "message": "&lt;strong&gt;हितधारक&lt;/strong&gt;पंजीकरण कर सकते हैं, बिल्डिंग प्लान अपलोड करके नागरिक के लिए आवेदन कर सकते हैं और नागरिक की प्रतिक्रिया के आधार पर संपादन कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION1_ROLE_2",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;किसी हितधारक द्वारा किए गए आवेदनों को देख सकते हैं और सहमति दे सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION1_ROLE_3",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;पूर्वनिर्धारित नियमों के आधार पर परमिट या प्रमाणपत्र आवेदनों को मंजूरी दे सकता है, फ़ील्ड निरीक्षण रिपोर्ट लॉग कर सकता है और भुगतान संग्रह रिकॉर्ड कर सकता है।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION1_TITLE",
+        "message": "भवन निर्माण परमिट प्रणाली के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION2_HL2",
+        "message": "भवन निर्माण की अनुमति",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION2_PARA1",
+        "message": "यह समाधान नागरिकों को भवन निर्माण परमिट के लिए आवेदन करने की अनुमति देता है और अधिकारियों को भवन नियमों के आधार पर योजनाओं का सत्यापन, निरीक्षण और अनुमोदन करने में मदद करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION2_PARA2",
+        "message": "बिल्डिंग परमिट के अनुदान का अनुभव करने के लिए डिफ़ॉल्ट वर्कफ़्लो सेटअप किया गया है।इसकी शुरुआत किसी नागरिक या वास्तुकार द्वारा आवेदन जमा करने से होती है, उसके बाद दस्तावेज़ और ड्राइंग अपलोड होते हैं।कॉन्फ़िगर किए गए नियमों के आधार पर, सरकारी अधिकारी स्पष्टीकरण को स्वीकृत, अस्वीकार या अनुरोध कर सकते हैं।यह प्रक्रिया परमिट आदेश और अंततः अधिभोग प्रमाणपत्र जारी करने के साथ समाप्त होती है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_SECTION3_TITLE",
+        "message": "भवन निर्माण परमिट प्रणाली का अनुभव लें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_STAKEHOLDER_FEATURE1",
+        "message": "एक हितधारक (वास्तुकार, बिल्डर, टाउन प्लानर आदि) के रूप में पंजीकरण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_STAKEHOLDER_FEATURE2",
+        "message": "डीएक्सएफ प्रारूप में बिल्डिंग प्लान अपलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_STAKEHOLDER_FEATURE3",
+        "message": "स्थानीय नियमों और विनियमों के आधार पर अपलोड किए गए भवन योजनाओं का स्वत: सत्यापन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_STAKEHOLDER_FEATURE4",
+        "message": "परमिट/प्रमाणपत्र और भुगतान रसीदें डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_STAKEHOLDER_FEATURE5",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_STAKEHOLDER_FEATURE_HEADER",
+        "message": "हितधारक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ADMIN_FEATURE1",
+        "message": "शिकायत प्रकार, श्रेणियां और एसएलए बनाएं और प्रबंधित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ADMIN_FEATURE2",
+        "message": "अनसुलझे शिकायतों के लिए एस्केलेशन नियम निर्धारित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ADMIN_FEATURE3",
+        "message": "डिफ़ॉल्ट या विभाग विशिष्ट वर्कफ़्लो प्रबंधित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ADMIN_FEATURE4",
+        "message": "बहुभाषी समर्थन के लिए स्थानीयकरण प्रबंधित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ADMIN_FEATURE_HEADER",
+        "message": "प्रशासन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE1",
+        "message": "एक संक्षिप्त फॉर्म भरकर और चित्र संलग्न करके शिकायतें दर्ज करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE2",
+        "message": "समाधान तक शिकायत को ट्रैक करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE3",
+        "message": "समाधान के बाद प्रतिक्रिया दें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE4",
+        "message": "असंतोष की स्थिति में शिकायतें दोबारा खोलें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE5",
+        "message": "ईमेल और एसएमएस के माध्यम से सूचनाएं अपडेट प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE6",
+        "message": "समाधान न होने पर शिकायतें दोबारा खोलें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE7",
+        "message": "समाधान के बाद प्रतिक्रिया दें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_EMPLOYEE_FEATURE1",
+        "message": "किसी नागरिक की ओर से शिकायत दर्ज करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_EMPLOYEE_FEATURE2",
+        "message": "शिकायतों को संबंधित विभाग को सौंपें/पुनः सौंपें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_EMPLOYEE_FEATURE3",
+        "message": "नए उपयोगकर्ता बनाएँ और प्रत्येक उपयोगकर्ता को भूमिकाएँ सौंपें।क्रेडेंशियल्स का उपयोग करके किसी भी उपयोगकर्ता के रूप में लॉगिन करें और एक्सप्लोर करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_EMPLOYEE_FEATURE4",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_EMPLOYEE_FEATURE5",
+        "message": "डैशबोर्ड के माध्यम से केसलोड, समाधान दर और संतुष्टि की निगरानी करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_PRODUCT_DESCRIPTION",
+        "message": "एक स्व-सेवा वेब और मोबाइल आधारित, उपयोग में आसान और कॉन्फ़िगर करने योग्य उत्पाद जो नागरिकों के लिए नागरिक शिकायतों के प्रभावी समाधान के लिए त्वरित समाधान प्रदान करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_PRODUCT_DETAILS_HEADER",
+        "message": "नागरिक शिकायत समाधान प्रणाली",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और शिकायत दर्ज करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और शिकायतों का समाधान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION1_PARA1",
+        "message": "नागरिक शिकायत प्रबंधन प्रणाली एक संपूर्ण उत्पाद है जो नागरिकों को &lt;strong&gt;शिकायतें उठाने&lt;/strong&gt; में सक्षम बनाता है;और &lt;strong&gt;सरकारों को शिकायतें सौंपने और समाधान करने का दायित्व&lt;/strong&gt;स्थानीय नियमों पर आधारित.यह समाधान &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और शिकायतों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ निर्दिष्ट करने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;शिकायत दर्ज कर सकते हैं, उसके समाधान को ट्रैक कर सकते हैं और संतुष्ट नहीं होने पर शिकायत को फिर से खोल सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;विभाग और अधिकार क्षेत्र के आधार पर शिकायतें देख सकते हैं और संबंधित विभागों को सौंप सकते हैं।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION1_TITLE",
+        "message": "नागरिक शिकायत प्रबंधन प्रणाली के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION2_HL1",
+        "message": "लकड़ी का लट्ठा",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION2_HL2",
+        "message": "शिकायतों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION2_PARA1",
+        "message": "यह समाधान नागरिकों को मोबाइल या वेब के माध्यम से नागरिक मुद्दों के बारे में शिकायतें आसानी से उठाने में सक्षम बनाता है, जबकि सरकारी अधिकारियों को विभाग-विशिष्ट वर्कफ़्लो और वास्तविक समय डैशबोर्ड के माध्यम से शिकायतों को त्वरित रूप से रूट करने, ट्रैक करने और हल करने में मदद करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION2_PARA2",
+        "message": "नागरिक शिकायतें ऑनलाइन जमा करते हैं, जो स्वतः ही सही विभाग को सौंप दी जाती हैं।अधिकारी प्रत्येक चरण पर नागरिकों को सूचित करके स्थिति अपडेट कर सकते हैं, जानकारी का अनुरोध कर सकते हैं या उनका समाधान कर सकते हैं।व्यवस्थापक शिकायत प्रकार और वर्कफ़्लो कॉन्फ़िगर कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, नागरिक शिकायत प्रबंधन प्रणाली एक कॉन्फ़िगर करने योग्य उत्पाद है।यह उदाहरण निजी है और सैंडबॉक्स उपयोगकर्ताओं के बीच साझा नहीं किया गया है।'एक्सप्लोर एज़ गवर्नमेंट एम्प्लॉई' पर क्लिक करने पर, आप एक सुपर-यूज़र के रूप में लॉग इन हो जाएंगे।'सरकारी कर्मचारी प्रबंधन' अनुभाग में क्रेडेंशियल का उपयोग करके, आप परिभाषित उपयोगकर्ताओं में से एक के रूप में लॉगिन कर सकते हैं और निर्दिष्ट भूमिकाएँ निभा सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION3_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो तब शुरू होता है जब कोई नागरिक ऑनलाइन शिकायत दर्ज कराता है।यह स्वचालित रूप से सही विभाग को सौंपा जाता है।अधिकारी स्थिति को अपडेट कर सकते हैं, अधिक विवरण का अनुरोध कर सकते हैं या इसका समाधान कर सकते हैं।नागरिकों को हर कदम पर अपडेट मिलता है।प्रशासक शिकायतों के लिए आधार डेटा कॉन्फ़िगर कर सकते हैं और डिफ़ॉल्ट वर्कफ़्लो सेटअप कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR_SECTION3_TITLE",
+        "message": "नागरिक शिकायत प्रबंधन प्रणाली का अनुभव लें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE1",
+        "message": "एक आवेदन भरकर संपत्ति का पंजीकरण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE2",
+        "message": "संपत्ति का पूर्ण स्व-मूल्यांकन करें और स्वतः-परिकलित संपत्ति कर बिल तैयार करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE3",
+        "message": "संपत्ति के पंजीकरण के बाद संपत्ति कर का भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE4",
+        "message": "स्वामित्व स्थानांतरित करके संपत्ति के स्वामित्व को संशोधित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE5",
+        "message": "संपत्ति पंजीकरण और संपत्ति कर भुगतान रसीदें डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE6",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE7",
+        "message": "ईमेल और एसएमएस के माध्यम से सूचित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE1",
+        "message": "किसी नागरिक की ओर से संपत्ति पंजीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE2",
+        "message": "दस्तावेज़ों की समीक्षा करें, फ़ील्ड पर सत्यापन करें और आवेदन स्वीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE3",
+        "message": "स्वतः-गणना किए गए कर के आधार पर ऑफ़लाइन भुगतान संग्रह रिकॉर्ड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE4",
+        "message": "वर्तमान या पिछले वर्ष के लिए संपत्ति कर बिल बनाएं और छूट या जुर्माना जोड़ें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE5",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE6",
+        "message": "संग्रह डैशबोर्ड देखें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PRODUCT_DESCRIPTION",
+        "message": "नागरिकों और स्थानीय सरकारी कर्मचारियों के लिए एक स्व-सेवा सुविधा जो वास्तविक समय में आसान कर मूल्यांकन और भुगतान सेवाएं प्रदान करती है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PRODUCT_DETAILS_HEADER",
+        "message": "संपत्ति कर प्रणाली",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "अपने मोबाइल नंबर से नागरिक पोर्टल पर लॉग इन करें और संपत्ति कर का भुगतान करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और आवेदनों की समीक्षा करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION1_PARA1",
+        "message": "&lt;p&gt;संपत्ति कर प्रणाली एक संपूर्ण उत्पाद है जो &lt;strong&gt;नागरिकों को अपने संपत्ति कर का भुगतान करने में सक्षम बनाता है&lt;/strong&gt;और &lt;strong&gt;सरकारों के लिए कर संग्रह को स्वचालित करता है&lt;/strong&gt;स्थानीय नियमों पर आधारित.यह समाधान पूरी तरह से कॉन्फ़िगर करने योग्य है और इसे राजस्व संग्रह की एक विस्तृत श्रृंखला का समर्थन करने के लिए बढ़ाया जा सकता है।&lt;/p&gt;&lt;p&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ सौंपने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।&lt;/p&gt;",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;संपत्तियों को पंजीकृत कर सकते हैं, स्वामित्व हस्तांतरित कर सकते हैं और पंजीकृत संपत्तियों के लिए कर का भुगतान कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;नागरिकों की ओर से संपत्तियों का प्रबंधन कर सकता है और पूर्वनिर्धारित नियमों के आधार पर प्रत्येक आवेदन पर कार्रवाई कर सकता है।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION1_TITLE",
+        "message": "संपत्ति कर प्रणाली के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION2_HL1",
+        "message": "अपना भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION2_HL2",
+        "message": "संपत्ति कर",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION2_HL3",
+        "message": "जल्दी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION2_PARA1",
+        "message": "यह समाधान व्यवसायों को संपत्ति कर आकलन प्राप्त करने में सक्षम बनाता है जबकि सरकारों को आकलन, संग्रह और अनुपालन का प्रबंधन करने में मदद करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION2_PARA2",
+        "message": "संपत्ति मूल्यांकन और कराधान प्रक्रियाओं को अनुकरण करने के लिए डिफ़ॉल्ट वर्कफ़्लो कॉन्फ़िगर किए गए हैं।नागरिक अपनी संपत्तियों का स्व-मूल्यांकन कर सकते हैं या सहायता के लिए किसी काउंटर कर्मचारी को नियुक्त कर सकते हैं।सरकारी अधिकारी पूर्वनिर्धारित वर्कफ़्लो और लागू नगरपालिका नियमों के आधार पर मूल्यांकन की समीक्षा कर सकते हैं, संपत्ति विवरण को मान्य कर सकते हैं और अनुमोदन, संशोधन या अस्वीकृति सहित कार्रवाई कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SECTION3_TITLE",
+        "message": "संपत्ति कर प्रणाली का अनुभव लें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_CITIZEN",
+        "message": "एक नागरिक के रूप में अन्वेषण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और कनेक्शन के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_FSM_ADMIN",
+        "message": "एक प्रशासक के रूप में अन्वेषण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_GOV_ADMIN",
+        "message": "एक सरकार के रूप में अन्वेषण करें।कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और कनेक्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_PLANT_OPERATOR",
+        "message": "एक प्लांट ऑपरेटर के रूप में अन्वेषण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_LANDING_STAKEHOLDER",
+        "message": "एक हितधारक के रूप में अन्वेषण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_BUTTON_SUBTITLE",
+        "message": "सैंडबॉक्स यात्रा",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_BUTTON_TITLE",
+        "message": "अपने पर आरंभ करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_HEADER",
+        "message": "सैंडबॉक्स",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PGR_DESC",
+        "message": "उपयोगकर्ता शिकायतें दर्ज कर सकते हैं और उन्हें ट्रैक कर सकते हैं, जिन्हें उच्च प्राधिकारी द्वारा सौंपा और हल किया जा सकता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PGR_TITLE",
+        "message": "शिकायत प्रबंधन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCTS",
+        "message": "उत्पादों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCT_HEADER",
+        "message": "उत्पादों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_PRODUCT_HEADER_DESC",
+        "message": "उत्पादों का DIGIT सूट सार्वजनिक सेवा वितरण में मदद करता है।इसे विभिन्न देशों में क्षमता और जटिलता के विभिन्न स्तरों पर काम करने के लिए डिज़ाइन किया गया है।कृपया वह उत्पाद चुनें जिसे आप एक्सप्लोर करना चाहते हैं।हमारे कुछ उत्पाद अभी सैंडबॉक्स पर उपलब्ध हैं।हम बाकी को जल्द ही आपके पास लाने पर काम कर रहे हैं!",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION1_PARA1",
+        "message": "सैंडबॉक्स DIGIT उत्पादों का पता लगाने और उनका उपयोग करने के लिए एक स्व-सेवा वातावरण प्रदान करता है।पूर्व-कॉन्फ़िगर किए गए उत्पादों के साथ, आप तुरंत उनका उपयोग शुरू कर सकते हैं या एक सहज इंटरफ़ेस के माध्यम से अपने स्वयं के डेटा का उपयोग करने का अनुभव कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION1_TITLE",
+        "message": "डिजिटल के लिए आपका प्रवेश द्वार",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_FEATURE1",
+        "message": "यह समझने के लिए विभिन्न भूमिकाओं का अन्वेषण करें कि प्रत्येक उपयोगकर्ता प्लेटफ़ॉर्म के साथ कैसे इंटरैक्ट करता है",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_FEATURE2",
+        "message": "एक सहज, उपयोग में आसान इंटरफ़ेस के माध्यम से डेटा सेटिंग्स प्रबंधित और कॉन्फ़िगर करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_FEATURE3",
+        "message": "आँकड़े, उपयोग और उत्पाद प्रदर्शन को ट्रैक करने के लिए विस्तृत डैशबोर्ड तक पहुँचें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_FEATURE4",
+        "message": "लोगो और बैनर सहित अपनी खुद की ब्रांडिंग के साथ वैयक्तिकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_PARA1",
+        "message": "वास्तविक जीवन के उपयोग के मामलों का अनुकरण करते हुए, सभी DIGIT उत्पादों का शुरू से अंत तक अनुभव करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SECTION2_TITLE",
+        "message": "आप सैंडबॉक्स पर क्या कर सकते हैं?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TL_DESC",
+        "message": "उपयोगकर्ता लाइसेंस के लिए आवेदन कर सकते हैं और भुगतान कर सकते हैं जिसे ट्रैक, भुगतान, सत्यापित और नवीनीकृत किया जा सकता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TL_TITLE",
+        "message": "लाइसेंस प्रबंधन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_ALREADY_HAVE_ACCOUNT",
+        "message": "क्या आपके पास पहले से एक खाता मौजूद है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_DONT_HAVE_ACCOUNT",
+        "message": "Don’t have an account?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_FORGOTORGANIZATION_TOOLTIP",
+        "message": "उपयोगकर्ता नाम भूल गए?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_FORGOTORGANIZATION_TOOLTIP_TEXT",
+        "message": "कृपया पंजीकरण के दौरान भेजे गए क्रेडेंशियल्स के लिए अपना ईमेल जांचें।ईमेल का विषय सैंडबॉक्स में आपका स्वागत है",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_WALK_THROUHG_CITIZEN",
+        "message": "नागरिक",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_WALK_THROUHG_DESCRIPTION",
+        "message": "सैंडबॉक्स पर उत्पाद को नेविगेट और उपयोग करना सीखें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_WALK_THROUHG_EMPLOYEE",
+        "message": "सरकार.कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SB_WALK_THROUHG_HEADER",
+        "message": "सैंडबॉक्स पर पूर्वाभ्यास",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICEDEFS.AIRPOLUTIONISSUES",
+        "message": "वायु प्रदूषण मुद्दे",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICEDEFS.AIRPOLUTIONISSUESNEW",
+        "message": "वायु प्रदूषण मुद्देनए",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_CITIZEN_FEATURE1",
+        "message": "एक सर्वेक्षण भरें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_CITIZEN_FEATURE2",
+        "message": "ईमेल और एसएमएस के माध्यम से सर्वेक्षणों की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_EMPLOYEE_FEATURE1",
+        "message": "नए कस्टम सर्वेक्षण बनाएं",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_EMPLOYEE_FEATURE2",
+        "message": "चुनें कि किन शहरों के साथ सर्वेक्षण साझा करना है",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_EMPLOYEE_FEATURE3",
+        "message": "प्रत्येक सर्वेक्षण के लिए प्रतिक्रियाएँ डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_EMPLOYEE_FEATURE4",
+        "message": "प्रत्येक सर्वेक्षण के लिए प्रतिक्रियाओं का विश्लेषण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_PRODUCT_DESCRIPTION",
+        "message": "सेवा सुधार और नीतिगत निर्णयों की जानकारी देने के लिए नागरिक सर्वेक्षणों को डिजाइन, वितरित और विश्लेषण करने के लिए शासन में निर्णय निर्माताओं के लिए एक बहुभाषी स्व-सेवा सुविधा।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_PRODUCT_DETAILS_HEADER",
+        "message": "सर्वे",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और एक सर्वेक्षण भरें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और सर्वेक्षण बनाएं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION1_PARA1",
+        "message": "&lt;p&gt;सर्वेक्षण सरकारों के लिए नागरिकों के लिए सर्वेक्षण बनाने और वितरित करने के लिए एक बहुभाषी उपकरण है, और नागरिकों के लिए सेवा सुधार और नीतिगत निर्णयों को सूचित करने के लिए वितरित सर्वेक्षणों का जवाब देना है।यह समाधान पूरी तरह से कॉन्फ़िगर करने योग्य है और सर्वेक्षणों की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;/p&gt;&lt;p&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ सौंपने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।&lt;/p&gt;",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;सरकारों द्वारा उनके साथ साझा किए गए सर्वेक्षणों को ऑनलाइन खोज सकते हैं और उनका जवाब दे सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;कस्टम सर्वेक्षण बना सकते हैं, परिणामों को डिजिटल रूप से वितरित और विश्लेषण कर सकते हैं।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION1_TITLE",
+        "message": "सर्वेक्षण के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION2_HL2",
+        "message": "सर्वे",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION2_PARA1",
+        "message": "टीबीडी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION2_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो तब शुरू होता है जब कोई सरकारी अधिकारी पूर्व-निर्धारित टेम्पलेट्स का उपयोग करके या कस्टम प्रश्नों और लक्ष्य समूहों को कॉन्फ़िगर करके एक नया सर्वेक्षण शुरू करता है।सर्वेक्षण डिजिटल रूप से प्रकाशित किया जाता है और वेब या मोबाइल चैनलों के माध्यम से नागरिकों या आंतरिक हितधारकों को उपलब्ध कराया जाता है।उत्तरदाता उत्तर प्रस्तुत करते हैं, जो स्वचालित रूप से कैप्चर और संग्रहीत किए जाते हैं।अधिकारी वास्तविक समय में प्रतिक्रिया दरों की निगरानी कर सकते हैं, डैशबोर्ड के माध्यम से सबमिशन का विश्लेषण कर सकते हैं और रिपोर्ट डाउनलोड कर सकते हैं",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_SECTION3_TITLE",
+        "message": "अनुभव सर्वेक्षण",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_HARINEWORG",
+        "message": "हैरिनवॉर्ग",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE1",
+        "message": "व्यवसाय लाइसेंस के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE2",
+        "message": "व्यवसाय लाइसेंस के अनुमोदन के बाद लाइसेंस शुल्क का ऑनलाइन भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE3",
+        "message": "मौजूदा व्यवसाय लाइसेंस का नवीनीकरण करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE4",
+        "message": "लाइसेंस और भुगतान रसीद डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE5",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE6",
+        "message": "ईमेल और एसएमएस के माध्यम से सूचित करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_EMPLOYEE_FEATURE1",
+        "message": "सौंपे गए आवेदन देखें और कार्रवाई करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_EMPLOYEE_FEATURE2",
+        "message": "दस्तावेज़ों की समीक्षा करें, फ़ील्ड पर सत्यापन करें और आवेदन स्वीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_EMPLOYEE_FEATURE3",
+        "message": "स्वतः-गणना की गई फीस के आधार पर ऑफ़लाइन भुगतान संग्रह रिकॉर्ड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_EMPLOYEE_FEATURE4",
+        "message": "व्यवसाय लाइसेंस को मैन्युअल रूप से नवीनीकृत या समाप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_EMPLOYEE_FEATURE5",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_PRODUCT_DESCRIPTION",
+        "message": "उपयोगकर्ता लाइसेंस के लिए आवेदन कर सकते हैं और भुगतान कर सकते हैं जिसे ट्रैक, भुगतान, सत्यापित और नवीनीकृत किया जा सकता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_PRODUCT_DETAILS_HEADER",
+        "message": "स्थानीय व्यापार लाइसेंस जारी करने की प्रणाली",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और लाइसेंस के लिए आवेदन करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और आवेदनों पर कार्रवाई करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION1_PARA1",
+        "message": "स्थानीय व्यापार लाइसेंस जारी करने की प्रणाली DIGIT का उपयोग करके बनाया गया एक एंड-टू-एंड उत्पाद है जो &lt;strong&gt;नागरिकों (व्यवसाय मालिकों) को लाइसेंस के लिए आवेदन करने में सक्षम बनाता है&lt;/strong&gt;और &lt;strong&gt;सरकारी कर्मचारी अनुपालन सुनिश्चित करें&lt;/strong&gt;और स्थानीय नियमों के आधार पर लाइसेंस प्रमाणपत्र जारी करें।यह उत्पाद &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और इसे लाइसेंस, परमिट और प्रमाणपत्रों की एक विस्तृत श्रृंखला का समर्थन करने के लिए बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ निर्दिष्ट करने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION1_ROLE_1",
+        "message": "&lt;मजबूत&gt;नागरिक&lt;/strong&gt;व्यवसाय लाइसेंस के लिए ऑनलाइन आवेदन कर सकते हैं और भुगतान कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;नागरिकों की ओर से व्यवसाय लाइसेंस के लिए आवेदन कर सकते हैं, आवेदनों पर कार्रवाई कर सकते हैं और पूर्वनिर्धारित नियमों के आधार पर भुगतान एकत्र कर सकते हैं।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION1_TITLE",
+        "message": "स्थानीय व्यापार लाइसेंस जारी करने की प्रणाली के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION2_HL1",
+        "message": "अपना प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION2_HL2",
+        "message": "व्यापार लाइसेंस जारी किया गया",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION2_HL3",
+        "message": "आसानी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION2_PARA1",
+        "message": "यह समाधान व्यवसायों को नियमों और सुरक्षा दिशानिर्देशों का अनुपालन सुनिश्चित करने के लिए सरल प्रासंगिक वर्कफ़्लो और सरकारों के माध्यम से लाइसेंस प्राप्त करने में सक्षम बनाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION2_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो आपको यह अनुभव करने में मदद करता है कि व्यवसाय लाइसेंस कैसे संसाधित किए जाते हैं।नागरिक ऑनलाइन या सेवा काउंटर की मदद से आवेदन कर सकते हैं।सरकारी अधिकारी पूर्वनिर्धारित नियमों और अनुपालन जांचों के आधार पर आवेदनों की समीक्षा करते हैं, विवरणों को सत्यापित करते हैं, और कार्रवाई करते हैं - जैसे उन्हें मंजूरी देना, अस्वीकार करना या वापस भेजना।यह समाधान पूरी तरह से कॉन्फ़िगर करने योग्य है और इसे लाइसेंस, परमिट और प्रमाणपत्रों की एक विस्तृत श्रृंखला का समर्थन करने के लिए बढ़ाया जा सकता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, एक नागरिक के रूप में एक एप्लिकेशन बनाने से लेकर एक सरकारी कर्मचारी के रूप में इसे अनुमोदित करने तक, उत्पाद का अंत से अंत तक अनुभव किया जा सकता है।सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारियों की भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION3_PARA2",
+        "message": "DIGIT उत्पादों में भूमिका-आधारित पहुंच होती है जहां उपयोगकर्ता आवश्यकता के आधार पर उन्हें अलग-अलग भूमिकाएँ सौंप सकते हैं।ट्रेड लाइसेंस के लिए, दो प्रकार के उपयोगकर्ता होते हैं नागरिक (जो लाइसेंस के लिए आवेदन करता है) और कर्मचारी (जो लाइसेंस की प्रक्रिया करता है)।एक्सप्लोर पर क्लिक करने पर वांछित दृश्य के साथ एक नया टैब खुलेगा।यदि आप एक कर्मचारी के रूप में खोज करते हैं, तो डिफ़ॉल्ट रूप से, आपके पास एक सुपर-उपयोगकर्ता दृश्य होगा जिसमें सभी सुविधाओं और कार्यात्मकताओं तक पहुंच होगी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_SECTION3_TITLE",
+        "message": "सैंडबॉक्स पर स्थानीय व्यापार जारी करने की प्रणाली",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CITIZEN_FEATURE1",
+        "message": "नए पानी या सीवरेज कनेक्शन के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CITIZEN_FEATURE2",
+        "message": "किसी मौजूदा कनेक्शन को नवीनीकृत करें, रोकें या डिस्कनेक्ट करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CITIZEN_FEATURE3",
+        "message": "स्वतः-गणना किए गए बिल का ऑनलाइन भुगतान करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CITIZEN_FEATURE4",
+        "message": "कनेक्शन अनुमोदन और भुगतान की रसीदें डाउनलोड करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CITIZEN_FEATURE5",
+        "message": "ईमेल और एसएमएस के माध्यम से अपडेट की सूचनाएं प्राप्त करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CITIZEN_FEATURE_HEADER",
+        "message": "नागरिकों",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EMPLOYEE_FEATURE1",
+        "message": "किसी नागरिक की ओर से कनेक्शन के लिए आवेदन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EMPLOYEE_FEATURE2",
+        "message": "दस्तावेज़ों का सत्यापन करें, क्षेत्र दौरे के आधार पर आवेदन को अद्यतन करें और आवेदनों को स्वीकृत करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EMPLOYEE_FEATURE3",
+        "message": "उपयोग डेटा दर्ज करें और सक्रिय कनेक्शन के लिए बिल बनाएं",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EMPLOYEE_FEATURE4",
+        "message": "विवादित भुगतान के मामले में बिलों में संशोधन करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EMPLOYEE_FEATURE5",
+        "message": "डैशबोर्ड के माध्यम से प्रदर्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EMPLOYEE_FEATURE_HEADER",
+        "message": "सरकारी कर्मचारी",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PRODUCT_DESCRIPTION",
+        "message": "नागरिकों के लिए पानी और सीवरेज कनेक्शन अनुरोध, बिलिंग और भुगतान उत्पन्न करने के लिए एक स्वयं सेवा सुविधा",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PRODUCT_DETAILS_HEADER",
+        "message": "जल एवं सीवरेज कनेक्शन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ROLE_LANDING_CITIZEN_DESCRIPTION",
+        "message": "नागरिक पोर्टल पर लॉग इन करें और कनेक्शन के लिए आवेदन करें।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ROLE_LANDING_GOV_ADMIN_DESCRIPTION",
+        "message": "कर्मचारी पोर्टल पर लॉग इन करें और कनेक्शन की समीक्षा करें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION1_PARA1",
+        "message": "पानी और amp;सीवरेज कनेक्शन एक एंड-टू-एंड उत्पाद है जो &lt;strong&gt;नागरिकों को नए कनेक्शन के लिए आवेदन करने&lt;/strong&gt; में सक्षम बनाता है।और &lt;strong&gt;सरकारें कनेक्शनों को मंजूरी देंगी और राजस्व एकत्र करेंगी&lt;/strong&gt;स्थानीय नियमों पर आधारित.यह समाधान &lt;em&gt;पूरी तरह से कॉन्फ़िगर करने योग्य&lt;/em&gt;और उपयोगिताओं की एक विस्तृत श्रृंखला का समर्थन करने के लिए इसे बढ़ाया जा सकता है।&lt;br/&gt;&lt;br/&gt;DIGIT पर प्रत्येक उत्पाद प्रत्येक उपयोगकर्ता को विशिष्ट भूमिकाएँ निर्दिष्ट करने की अनुमति देता है।डिफ़ॉल्ट वर्कफ़्लो में दो प्रकार के उपयोगकर्ता होते हैं: नागरिक और सरकारी कर्मचारी।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION1_ROLE_1",
+        "message": "&lt;strong &gt;नागरिक &lt;/strong &gt;नए कनेक्शन के लिए आवेदन कर सकते हैं, मौजूदा कनेक्शन को रोक/डिस्कनेक्ट कर सकते हैं, बिल प्राप्त कर सकते हैं और भुगतान कर सकते हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION1_ROLE_2",
+        "message": "&lt;strong&gt;सरकारी कर्मचारी&lt;/strong&gt;किसी नागरिक की ओर से आवेदन कर सकता है, कनेक्शन आवेदनों को मंजूरी दे सकता है, और उपयोग रीडिंग जोड़ सकता है जिसके आधार पर बिल उत्पन्न होता है।ये क्रियाएं एक एकल उपयोगकर्ता या एकाधिक उपयोगकर्ताओं द्वारा की जा सकती हैं।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION1_TITLE",
+        "message": "जल एवं सीवरेज कनेक्शन के बारे में",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION2_HL1",
+        "message": "के लिए आवेदन देना",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION2_HL2",
+        "message": "पानी एवं सीवरेज कनेक्शन",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION2_HL3",
+        "message": "जल्दी से",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION2_PARA1",
+        "message": "यह समाधान नागरिकों को जल कनेक्शन के लिए आवेदन करने की अनुमति देता है और अधिकारियों को नियमों के अनुसार आवेदनों को सत्यापित, निरीक्षण और स्वीकृत करने में सक्षम बनाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION2_PARA2",
+        "message": "डिफ़ॉल्ट वर्कफ़्लो किसी नागरिक या सेवा प्रदाता द्वारा आवेदन जमा करने के साथ शुरू होता है, उसके बाद सत्यापन और फ़ील्ड निरीक्षण होता है।अधिकारी स्पष्टीकरण को स्वीकृत, अस्वीकार या अनुरोध कर सकते हैं।एक बार मंजूरी मिलने के बाद, कनेक्शन सक्रिय हो जाता है, और नागरिक बिलों का भुगतान डिजिटल रूप से कर सकते हैं।सिस्टम भूमिका-आधारित वर्कफ़्लो के माध्यम से डिस्कनेक्शन, रीकनेक्शन या स्वामित्व हस्तांतरण जैसे सेवा अपडेट का भी समर्थन करता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION2_TITLE",
+        "message": "यह किसके लिए है?",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION3_PARA1",
+        "message": "सैंडबॉक्स पर, सरकारी कर्मचारी को एक सुपर-यूज़र के रूप में स्थापित किया गया है, जिसमें सभी सरकारी कर्मचारी भूमिकाएँ उसे सौंपी गई हैं।प्रत्येक उपयोगकर्ता के लिए, उपयुक्त इंटरफ़ेस के साथ एक नया ब्राउज़र टैब खुलेगा।कृपया कोई भी संवेदनशील या निजी विवरण साझा न करें क्योंकि यह उदाहरण उपयोगकर्ताओं के बीच साझा किया जाता है।",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SECTION3_TITLE",
+        "message": "जल एवं सीवरेज कनेक्शन का अनुभव लें",
+        "module": "digit-tenants",
+        "locale": "en_IN"
+    }
+]

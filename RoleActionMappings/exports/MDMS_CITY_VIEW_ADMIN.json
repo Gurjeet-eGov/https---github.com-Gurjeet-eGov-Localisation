@@ -1,0 +1,22 @@
+[
+    {
+        "id": 192,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition"
+    },
+    {
+        "id": 209,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition"
+    },
+    {
+        "id": 177,
+        "url": "/rate-analysis/v1/_calculate",
+        "nav_url": ""
+    },
+    {
+        "id": 157,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Rates"
+    }
+]

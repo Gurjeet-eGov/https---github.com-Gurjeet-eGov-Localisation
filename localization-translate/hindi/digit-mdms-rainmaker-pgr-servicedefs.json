@@ -1,0 +1,62 @@
+[
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-MENUPATH-AIRPOLLUTIONS",
+        "message": "वायु प्रदूषण",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-MENUPATH-AIRPOLLUTIONS3",
+        "message": "वायु प्रदूषण 3",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-MENUPATH-AIRPOLLUTIONSISSUES",
+        "message": "वायु प्रदूषण के मुद्दे",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-MENUPATH-AIRPOLLUTIONSTWO",
+        "message": "वायु प्रदूषण दो",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-MENUPATH-AIRPOLUTIONISSUES",
+        "message": "वायु प्रदूषण मुद्दे",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-SERVICECODE-AIRPOLLUTIONSISSUES",
+        "message": "वायु प्रदूषण के मुद्दे",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-SERVICECODE-AIRPOLUTIONISSUESNEW",
+        "message": "वायु प्रदूषण मुद्देनए",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-SERVICECODE-DIRTYWATERSUPPLY",
+        "message": "गंदा पानी की आपूर्ति",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-SERVICECODE-GINORE",
+        "message": "गिनोर",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR-SERVICEDEFS-SERVICECODE-TEST",
+        "message": "परीक्षा",
+        "module": "digit-mdms-rainmaker-pgr-servicedefs",
+        "locale": "en_IN"
+    }
+]

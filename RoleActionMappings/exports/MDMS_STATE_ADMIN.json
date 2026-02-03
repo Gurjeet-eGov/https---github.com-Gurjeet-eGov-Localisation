@@ -1,0 +1,152 @@
+[
+    {
+        "id": 142,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Type"
+    },
+    {
+        "id": 143,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.Type",
+        "nav_url": ""
+    },
+    {
+        "id": 144,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.Type",
+        "nav_url": ""
+    },
+    {
+        "id": 145,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SubType"
+    },
+    {
+        "id": 146,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.SubType",
+        "nav_url": ""
+    },
+    {
+        "id": 147,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.SubType",
+        "nav_url": ""
+    },
+    {
+        "id": 148,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Variant"
+    },
+    {
+        "id": 149,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.Variant",
+        "nav_url": ""
+    },
+    {
+        "id": 150,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.Variant",
+        "nav_url": ""
+    },
+    {
+        "id": 151,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=SOR"
+    },
+    {
+        "id": 152,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.SOR",
+        "nav_url": ""
+    },
+    {
+        "id": 153,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.SOR",
+        "nav_url": ""
+    },
+    {
+        "id": 154,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Overhead"
+    },
+    {
+        "id": 155,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.Overhead",
+        "nav_url": ""
+    },
+    {
+        "id": 156,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.Overhead",
+        "nav_url": ""
+    },
+    {
+        "id": 162,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=common-masters&masterName=UOM"
+    },
+    {
+        "id": 163,
+        "url": "/mdms-v2/v2/_create/common-masters.UOM",
+        "nav_url": ""
+    },
+    {
+        "id": 164,
+        "url": "/mdms-v2/v2/_update/common-masters.UOM",
+        "nav_url": ""
+    },
+    {
+        "id": 177,
+        "url": "/rate-analysis/v1/_calculate",
+        "nav_url": ""
+    },
+    {
+        "id": 178,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.Composition",
+        "nav_url": ""
+    },
+    {
+        "id": 179,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.Composition",
+        "nav_url": ""
+    },
+    {
+        "id": 182,
+        "url": "/mdms-v2/v2/_create/WORKS.EstimateTemplate",
+        "nav_url": ""
+    },
+    {
+        "id": 183,
+        "url": "/mdms-v2/v2/_update/WORKS.EstimateTemplate",
+        "nav_url": ""
+    },
+    {
+        "id": 190,
+        "url": "/mdms-v2/v2/_create/WORKS.ProjectType",
+        "nav_url": ""
+    },
+    {
+        "id": 191,
+        "url": "/mdms-v2/v2/_update/WORKS.ProjectType",
+        "nav_url": ""
+    },
+    {
+        "id": 192,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition"
+    },
+    {
+        "id": 193,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate"
+    },
+    {
+        "id": 208,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=works&masterName=ProjectType"
+    },
+    {
+        "id": 209,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Composition"
+    },
+    {
+        "id": 210,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate"
+    }
+]

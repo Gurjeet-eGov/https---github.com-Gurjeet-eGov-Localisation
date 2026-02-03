@@ -7,5 +7,10 @@
     "User": {
         "login": "/user/oauth/token",
         "logout": "/user/_logout"
+    },
+    "sw-services": {
+        "search": "/sw-services/swc/_search",
+        "update": "/sw-services/swc/_update",
+        "create": "/sw-services/swc/_create"
     }
 }

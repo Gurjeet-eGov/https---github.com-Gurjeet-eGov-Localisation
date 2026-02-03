@@ -1,0 +1,17 @@
+[
+    {
+        "id": 174,
+        "url": "/wms/mukta-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 126,
+        "url": "/wms/ifms-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 7,
+        "url": "/localization/messages/v1/_upsert",
+        "nav_url": ""
+    }
+]

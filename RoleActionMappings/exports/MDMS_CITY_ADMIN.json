@@ -1,0 +1,27 @@
+[
+    {
+        "id": 208,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=works&masterName=ProjectType"
+    },
+    {
+        "id": 177,
+        "url": "/rate-analysis/v1/_calculate",
+        "nav_url": ""
+    },
+    {
+        "id": 157,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS-SOR&masterName=Rates"
+    },
+    {
+        "id": 158,
+        "url": "/mdms-v2/v2/_create/WORKS-SOR.Rates",
+        "nav_url": ""
+    },
+    {
+        "id": 159,
+        "url": "/mdms-v2/v2/_update/WORKS-SOR.Rates",
+        "nav_url": ""
+    }
+]

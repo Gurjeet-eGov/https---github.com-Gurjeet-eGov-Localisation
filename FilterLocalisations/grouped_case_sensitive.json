@@ -1,182 +1,54 @@
 {
-    "rainmaker-bpa": [
-        {
-            "code": "BPA_APPLICANT_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-bpa",
-            "locale": "en_IN"
-        },
-        {
-            "code": "BPA_OWNER_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-bpa",
-            "locale": "en_IN"
-        }
-    ],
     "rainmaker-common": [
         {
-            "code": "BPA_APPLICANT_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
+            "code": "Invalid Email",
+            "message": "ਅਵੈਧ ਈਮੇਲ",
             "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "CORE_COMMON_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "ES_COMMON_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "NOC_APPLICANT_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PDF_STATIC_LABEL_CONSOLIDATED_TLAPP_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PT_FORM3_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
-        },
-        {
-            "code": "RELATIONSHIP_IS_REQUIRED",
-            "message": "Relationship is required",
-            "module": "rainmaker-common",
-            "locale": "en_IN"
+            "locale": "pn_IN"
         }
     ],
-    "rainmaker-fsm": [
+    "default": [
         {
-            "code": "ES_FSM_REGISTRY_NEW_RELATIONSHIP",
-            "message": "Relationship",
-            "module": "rainmaker-fsm",
-            "locale": "en_IN"
-        }
-    ],
-    "rainmaker-hr": [
-        {
-            "code": "HR_RELATIONSHIP_LABEL",
-            "message": "Relationship",
-            "module": "rainmaker-hr",
-            "locale": "en_IN"
+            "code": "core.error.valid.email",
+            "message": "ਆਪਣੇ ਠੀਕ ਈ ਆਈਡੀ ਦਿਓ!",
+            "module": "default",
+            "locale": "pn_IN"
         },
         {
-            "code": "HR_RELATIONSHIP_PLACEHOLDER",
-            "message": "Select Relationship",
-            "module": "rainmaker-hr",
-            "locale": "en_IN"
-        }
-    ],
-    "rainmaker-noc": [
-        {
-            "code": "NOC_APPLICANT_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-noc",
-            "locale": "en_IN"
-        }
-    ],
-    "rainmaker-ws": [
-        {
-            "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-ws",
-            "locale": "en_IN"
+            "code": "core.lbl.email",
+            "message": "ਈਮੇਲ ਪਤਾ (ਵਿਕਲਪਿਕ)",
+            "module": "default",
+            "locale": "pn_IN"
         },
         {
-            "code": "WS_CONN_HOLDER_OWN_DETAIL_RELATION_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-ws",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WS_CONN_HOLDER_OWN_DETAIL_RELATION_PLACEHOLDER",
-            "message": "Select Relationship",
-            "module": "rainmaker-ws",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WS_OWN_DETAIL_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-ws",
-            "locale": "en_IN"
-        },
-        {
-            "code": "WS_OWN_DETAIL_RELATION_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-ws",
-            "locale": "en_IN"
-        }
-    ],
-    "rainmaker-pt": [
-        {
-            "code": "PT_COMMON_APPLICANT_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-pt",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PT_COMMON_APPLICANT_RELATIONSHIP_PLACEHOLDER",
-            "message": "Select Relationship",
-            "module": "rainmaker-pt",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PT_FORM3_RELATIONSHIP",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-pt",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PT_MUTATION_TRANSFEREE_APPLICANT_RELATIONSHIP_LABEL",
-            "message": "Relationship with Guardian",
-            "module": "rainmaker-pt",
-            "locale": "en_IN"
-        },
-        {
-            "code": "PT_MUTATION_TRANSFEREE_APPLICANT_RELATIONSHIP_LABEL_PLACEHOLDER",
-            "message": "Select Relationship with Guardian",
-            "module": "rainmaker-pt",
-            "locale": "en_IN"
+            "code": "core.lbl.email.compulsory",
+            "message": "ਮਿੱਤਰ ਨੂੰ ਈ ਮੇਲ ID ਨੂੰ",
+            "module": "default",
+            "locale": "pn_IN"
         }
     ],
     "rainmaker-pgr": [
         {
-            "code": "PT_FORM3_RELATIONSHIP",
-            "message": "Relationship to Owner",
+            "code": "employee.Employee.fields.email",
+            "message": "ਈਮੇਲ Id",
             "module": "rainmaker-pgr",
-            "locale": "en_IN"
+            "locale": "pn_IN"
         }
     ],
-    "rainmaker-tl": [
+    "PGR": [
         {
-            "code": "TL_COMMON_RELATIONSHIP_LABEL",
-            "message": "Relationship to Owner",
-            "module": "rainmaker-tl",
-            "locale": "en_IN"
-        },
+            "code": "pgr.lbl.validemailid",
+            "message": "ਪ੍ਰਮਾਣਿਕ ​​ਈਮੇਲ ID ਦਿਓ",
+            "module": "PGR",
+            "locale": "pn_IN"
+        }
+    ],
+    "rainmaker-pt": [
         {
-            "code": "TL_RELATIONSHIP_WITH_GUARDIAN_LABEL",
-            "message": "Relationship with Guardian",
-            "module": "rainmaker-tl",
-            "locale": "en_IN"
+            "code": "reports.pt.emailid",
+            "message": "ਮਿੱਤਰ ਨੂੰ ਈ ਮੇਲ ID ਨੂੰ",
+            "module": "rainmaker-pt",
+            "locale": "pn_IN"
         }
     ]
 }

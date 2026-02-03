@@ -1,0 +1,27 @@
+[
+    {
+        "id": 2,
+        "url": "/egov-hrms/employees/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 3,
+        "url": "/egov-hrms/employees/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 5,
+        "url": "url",
+        "nav_url": "/works-ui/employee/hrms/inbox"
+    },
+    {
+        "id": 8,
+        "url": "/egov-hrms/employees/_count",
+        "nav_url": ""
+    },
+    {
+        "id": 13,
+        "url": "url",
+        "nav_url": "/works-ui/employee/hrms/create"
+    }
+]

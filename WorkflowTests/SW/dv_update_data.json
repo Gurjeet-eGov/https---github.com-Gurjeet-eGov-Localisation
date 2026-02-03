@@ -1,0 +1,24 @@
+{
+  "SewerageConnection": {
+    "applicationStatus": "PENDING_FOR_DOCUMENT_VERIFICATION",
+    "additionalDetails": {
+      "locality": "SUN02",
+      "ownerName": "Donald",
+      "appCreatedDate": 1764848030622
+    },
+    "processInstance": {
+      "businessService": "NewSW1",
+      "action": "VERIFY_AND_FORWARD",
+      "moduleName": "sw-services"
+    },
+    "noOfWaterClosets": 0,
+    "noOfToilets": 0,
+    "serviceType": "SEWERAGE",
+    "action": "VERIFY_AND_FORWARD",
+    "comment": "",
+    "assignee": [],
+    "assignes": [],
+    "wfDocuments": null
+  },
+  "RequestInfo": {}
+}

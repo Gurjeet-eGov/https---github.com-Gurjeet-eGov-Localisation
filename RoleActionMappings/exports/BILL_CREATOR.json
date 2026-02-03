@@ -1,0 +1,92 @@
+[
+    {
+        "id": 128,
+        "url": "/ifms-adapter/pi/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 130,
+        "url": "/ifms-adapter/funds/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 171,
+        "url": "/mukta-ifix-adapter/v1/pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 108,
+        "url": "/expense-calculator/v1/_estimate",
+        "nav_url": ""
+    },
+    {
+        "id": 172,
+        "url": "/mukta-ifix-adapter/v1/pi/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 173,
+        "url": "/mukta-ifix-adapter/v1/disburse/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 111,
+        "url": "/wms/expense/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 112,
+        "url": "/expense-calculator/purchase/v1/_createbill",
+        "nav_url": ""
+    },
+    {
+        "id": 113,
+        "url": "/expense-calculator/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 174,
+        "url": "/wms/mukta-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 117,
+        "url": "/expense-calculator/purchase/v1/_updatebill",
+        "nav_url": ""
+    },
+    {
+        "id": 55,
+        "url": "url",
+        "nav_url": "/works-ui/employee/contracts/search-contract?status=ACCEPTED"
+    },
+    {
+        "id": 122,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/billinbox"
+    },
+    {
+        "id": 123,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/search-bill"
+    },
+    {
+        "id": 124,
+        "url": "",
+        "nav_url": "/works-ui/employee/contracts/search-contract?status=ACCEPTED"
+    },
+    {
+        "id": 125,
+        "url": "/expense/bill/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 126,
+        "url": "/wms/ifms-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 127,
+        "url": "/ifms-adapter/pi/v1/_search",
+        "nav_url": ""
+    }
+]

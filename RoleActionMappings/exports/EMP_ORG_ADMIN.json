@@ -1,0 +1,12 @@
+[
+    {
+        "id": 40,
+        "url": "/attendance/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 50,
+        "url": "/muster-roll/v1/_estimate",
+        "nav_url": ""
+    }
+]

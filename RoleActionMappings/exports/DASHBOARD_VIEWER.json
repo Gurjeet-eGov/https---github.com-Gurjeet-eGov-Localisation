@@ -1,0 +1,12 @@
+[
+    {
+        "id": 195,
+        "url": "url",
+        "nav_url": "/kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/c8d7e730-2252-11ef-98df-3bbfa2125b2b?_g=(filters:!(),time:(from:now-1y,to:now))"
+    },
+    {
+        "id": 196,
+        "url": "url",
+        "nav_url": "/kibana-v8/login?next=%2Fkibana-v8%2Fapp%2Fdashboards#/view/261cb0b0-fbde-11ee-b08d-8b505ceea182?_g=[\u2026]use:!t,value:60000),time:(from:now-1y,to:now))"
+    }
+]

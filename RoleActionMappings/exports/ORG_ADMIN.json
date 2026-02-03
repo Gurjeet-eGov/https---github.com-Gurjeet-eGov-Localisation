@@ -1,0 +1,167 @@
+[
+    {
+        "id": 21,
+        "url": "/egov-workflow-v2/egov-wf/process/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 22,
+        "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 36,
+        "url": "/muster-roll/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 37,
+        "url": "/muster-roll/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 38,
+        "url": "/muster-roll/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 40,
+        "url": "/attendance/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 169,
+        "url": "/mukta-services/musterRollValidations/_validate",
+        "nav_url": ""
+    },
+    {
+        "id": 42,
+        "url": "/attendance/log/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 44,
+        "url": "/attendance/log/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 45,
+        "url": "/attendance/attendee/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 46,
+        "url": "/attendance/attendee/v1/_delete",
+        "nav_url": ""
+    },
+    {
+        "id": 174,
+        "url": "/wms/mukta-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 50,
+        "url": "/muster-roll/v1/_estimate",
+        "nav_url": ""
+    },
+    {
+        "id": 187,
+        "url": "/egov-pdf/download/analysisStatement/analysis-statement",
+        "nav_url": ""
+    },
+    {
+        "id": 66,
+        "url": "/contract/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 67,
+        "url": "/contract/v1/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 68,
+        "url": "/contract/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 69,
+        "url": "/individual/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 71,
+        "url": "/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 202,
+        "url": "/boundary-service/boundary-relationships/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 81,
+        "url": "/user/_logout",
+        "nav_url": ""
+    },
+    {
+        "id": 212,
+        "url": "/mukta-services/bankaccount/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 213,
+        "url": "/mukta-services/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 214,
+        "url": "/mukta-services/org-services/organisation/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 91,
+        "url": "/org-services/organisation/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 92,
+        "url": "/bankaccount-service/bankaccount/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 94,
+        "url": "/bankaccount-service/bankaccount/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 98,
+        "url": "/wms/individual/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 104,
+        "url": "/egov-pdf/download/musterRoll/muster-roll",
+        "nav_url": ""
+    },
+    {
+        "id": 106,
+        "url": "url",
+        "nav_url": "/works-ui/employee/masters/create-wageseeker"
+    },
+    {
+        "id": 110,
+        "url": "/egov-pdf/download/workOrder/work-order",
+        "nav_url": ""
+    },
+    {
+        "id": 113,
+        "url": "/expense-calculator/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 126,
+        "url": "/wms/ifms-pi/_search",
+        "nav_url": ""
+    }
+]

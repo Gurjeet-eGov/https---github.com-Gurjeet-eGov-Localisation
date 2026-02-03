@@ -1,0 +1,32 @@
+[
+    {
+        "id": 37,
+        "url": "/muster-roll/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 104,
+        "url": "/egov-pdf/download/musterRoll/muster-roll",
+        "nav_url": ""
+    },
+    {
+        "id": 76,
+        "url": "/wms/muster/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 108,
+        "url": "/expense-calculator/v1/_estimate",
+        "nav_url": ""
+    },
+    {
+        "id": 90,
+        "url": "url",
+        "nav_url": "/works-ui/employee/attendencemgmt/search-attendance"
+    },
+    {
+        "id": 59,
+        "url": "url",
+        "nav_url": "/works-ui/employee/attendencemgmt/inbox"
+    }
+]

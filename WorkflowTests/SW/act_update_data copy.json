@@ -1,0 +1,23 @@
+{
+  "SewerageConnection": {
+    "applicationStatus": "PENDING_FOR_CONNECTION_ACTIVATION",
+    "connectionExecutionDate": 1762021799000,
+    "additionalDetails": {
+      "estimationLetterDate": 1764848424324,
+      "estimationFileStoreId": "d252186d-0548-4ee8-bac6-bb3b9f4f5ff0",
+      "locality": "SUN02",
+      "ownerName": "Donald"
+    },
+    "processInstance": {
+      "action": "ACTIVATE_CONNECTION",
+      "comment": "",
+      "documents": []
+    },
+    "noOfWaterClosets": 4,
+    "noOfToilets": 4,
+    "serviceType": "SEWERAGE",
+    "action": "ACTIVATE_CONNECTION",
+    "wfDocuments": []
+  },
+  "RequestInfo": {}
+}

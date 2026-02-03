@@ -1,0 +1,446 @@
+[
+    {
+        "code": "DIGIT_I_ACCEPT",
+        "message": "मुझे स्वीकार है",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DIGIT_I_DO_NOT_ACCEPT",
+        "message": "मैं स्वीकार नहीं करता",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DIGIT_TABLE_OF_CONTENTS",
+        "message": "विषयसूची",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER",
+        "message": "सैंडबॉक्स के लिए गोपनीयता नीति",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_10_SUB_10",
+        "message": "गोपनीयता नीति संस्करण",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_10_SUB_10_DESC_1",
+        "message": "आप इस गोपनीयता नीति का नवीनतम संस्करण पढ़ रहे हैं।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_10_SUB_10_DESC_2",
+        "message": "यह इस गोपनीयता नीति का संस्करण #1 है.",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_11_SUB_11",
+        "message": "प्रश्न और शिकायतें",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_11_SUB_11_DESC_1",
+        "message": "किसी भी प्रश्न या शिकायत के लिए, कृपया digi.sandbox@egoverns.org पर संपर्क करें",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_12_SUB_12",
+        "message": "अनुलग्नक: डेटा संग्रह, उपयोग और साझाकरण का विवरण",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_12_SUB_12_DESC_1",
+        "message": "लोक शिकायत निवारण (शिकायतें)",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_12_SUB_12_DESC_2",
+        "message": "एचआरएमएस (कर्मचारी प्रबंधन)",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1",
+        "message": "परिचय",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_1",
+        "message": "यह सैंडबॉक्स के लिए गोपनीयता नीति है",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_2",
+        "message": "सैंडबॉक्स एक स्व-सेवा वातावरण है जिसका उपयोग DIGIT उत्पादों का अनुभव, कॉन्फ़िगर और डेमो करने के लिए किया जाता है।यह जनता के लिए है, और वैध ईमेल वाला कोई भी व्यक्ति सैंडबॉक्स खाता बनाने के लिए पात्र है।सैंडबॉक्स का निर्माण ईगवर्नेंस फाउंडेशन द्वारा किया गया है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_3",
+        "message": "सैंडबॉक्स V1 में शिकायतें शामिल हैं, जो सार्वजनिक शिकायत निवारण के लिए उपयोग किया जाने वाला एक DIGIT उत्पाद है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_4",
+        "message": "आप इस गोपनीयता नीति को देख रहे हैं क्योंकि आप DIGIT उत्पादों का उपयोग करने के लिए या तो सैंडबॉक्स या कर्मचारी पोर्टल का उपयोग करने जा रहे हैं।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_5",
+        "message": "जब आप सैंडबॉक्स का उपयोग करते हैं, तो आपका डेटा - व्यक्तिगत रूप से पहचान योग्य जानकारी (पीआईआई) सहित - एकत्र, संग्रहीत, संसाधित और उपयोग किया जा सकता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_6",
+        "message": "यह गोपनीयता नीति ऐसे डेटा संग्रह, भंडारण, प्रसंस्करण और उपयोग के आधार का वर्णन करती है, और यह कैसे किया जाएगा इसके बारे में अधिक विवरण प्रदान करती है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_1_SUB_1_DESC_7",
+        "message": "यह गोपनीयता नीति ऐसे डेटा के संबंध में आपके अधिकारों का भी वर्णन करती है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2",
+        "message": "परिभाषाएं",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_1",
+        "message": "इस गोपनीयता नीति में:",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_2",
+        "message": "एक।\"आप\" का तात्पर्य आपको, इस नीति के पाठक को, और मोटे तौर पर सैंडबॉक्स के किसी भी उपयोगकर्ता को है",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_3",
+        "message": "बी।\"डेटा\" या \"आपका डेटा\" आपके बारे में ऐसे डेटा को संदर्भित करता है जिसे सैंडबॉक्स के आपके उपयोग के दौरान एकत्र, संग्रहीत, संसाधित, उपयोग और/या साझा किया जा सकता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_3_SUBDESC_1",
+        "message": "मैं।कृपया ध्यान दें कि आपका नाम, ईमेल और आधिकारिक संपर्क जानकारी (फोन नंबर, ईमेल आईडी, डाक पता) को पीआईआई माना जाता है।हम आपसे जहां भी संभव हो डेमो उद्देश्यों के लिए सैंडबॉक्स उत्पादों में काल्पनिक डेटा का उपयोग करने का आग्रह करते हैं",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_3_SUBDESC_2",
+        "message": "द्वितीय.आपका राष्ट्रीय आईडी नंबर या अन्य आईडी दस्तावेज़ नंबर, जबकि स्वयं पीआईआई नहीं है, को पीआईआई माना जाएगा।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_4",
+        "message": "सी।\"व्यक्तिगत रूप से पहचान योग्य जानकारी\" या \"पीआईआई\" आपके बारे में ऐसे डेटा को संदर्भित करता है जो उस डेटा को देखने वाले व्यक्तियों को आपकी पहचान करने और/या आपसे संपर्क करने में सक्षम बनाता है, जैसे कि आपका नाम, माता-पिता/अभिभावक का नाम, व्यक्तिगत फोन नंबर, व्यक्तिगत ईमेल आईडी, व्यक्तिगत डाक/आवासीय पता, आपकी तस्वीरें, आपके आईडी दस्तावेजों की तस्वीरें/स्कैन की गई प्रतियां, और बायोमेट्रिक जानकारी जैसे कि आपका फिंगरप्रिंट या रेटिना छाप।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_6",
+        "message": "डी।“सैंडबॉक्स में, आपको जो पीआईआई प्रदान करना होगा उसमें आपका नाम, ईमेल और मोबाइल नंबर शामिल होगा",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_3_SUB_3",
+        "message": "डेटा संग्रह, भंडारण, प्रसंस्करण, उपयोग और साझा करने का आधार",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_3_SUB_3_DESC_1",
+        "message": "जब आप सैंडबॉक्स का उपयोग करते हैं, तो सैंडबॉक्स और डिजिटल उत्पादों के कामकाज को सक्षम करने के लिए आपका डेटा (पीआईआई सहित) एकत्र, संग्रहीत, संसाधित और उपयोग किया जा सकता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_3_SUB_3_DESC_2",
+        "message": "ऐसे डेटा संग्रह, भंडारण, प्रसंस्करण, उपयोग और साझाकरण का आधार यह है कि सैंडबॉक्स और उसके उत्पादों को पूर्ण कार्यक्षमता प्रदान करने के लिए इस डेटा की आवश्यकता होती है।प्रत्येक चरण में केवल न्यूनतम आवश्यक डेटा ही एकत्र किया जाता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4",
+        "message": "डेटा संग्रहण",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1",
+        "message": "जब आप सैंडबॉक्स तक पहुंचते हैं, तो आपका डेटा (पीआईआई सहित) निम्नलिखित तरीकों से एकत्र किया जा सकता है:",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_1",
+        "message": "खाता बनाते समय आप अपना ईमेल पता और संगठन का नाम प्रदान करते हैं",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_2",
+        "message": "नागरिक पोर्टल पर लॉग इन करते समय आप अपना मोबाइल नंबर प्रदान करें",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_3",
+        "message": "कर्मचारी (उपयोगकर्ता) बनाते समय आप अपना ईमेल पता प्रदान करते हैं",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_4",
+        "message": "प्रोफ़ाइल संपादित करते समय आप अपना स्थान विवरण और नाम प्रदान करें",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_5",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_6",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_1_SUBDESC_7",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_4_SUB_4_DESC_2",
+        "message": "सैंडबॉक्स डिफ़ॉल्ट रूप से उद्देश्य सीमा और डेटा न्यूनतमकरण के सिद्धांतों का पालन करता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5",
+        "message": "आधार सामग्री भंडारण",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5_DESC_1",
+        "message": "डिफ़ॉल्ट रूप से, सैंडबॉक्स यह सुनिश्चित करने के लिए निम्नलिखित प्रथाओं को अपनाता है कि आपका पीआईआई सुरक्षित रूप से संग्रहीत है:",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5_DESC_1_SUBDESC_1",
+        "message": "सुरक्षित डिजिटल स्टोरेज: DIGIT प्लेटफ़ॉर्म को डिफ़ॉल्ट सुरक्षा सेटिंग्स के साथ डिज़ाइन किया गया है जो मजबूत सुरक्षा प्रदान करता है।हालाँकि व्यवस्थापक इन सेटिंग्स को विशिष्ट आवश्यकताओं के अनुरूप समायोजित कर सकते हैं, आउट-ऑफ़-द-बॉक्स कॉन्फ़िगरेशन सुरक्षित है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5_DESC_1_SUBDESC_2",
+        "message": "बाकी पर एन्क्रिप्शन: DIGIT प्लेटफ़ॉर्म एन्क्रिप्शन सेवा सैंडबॉक्स द्वारा संग्रहीत सभी संवेदनशील डेटा के एन्क्रिप्शन को सक्षम करती है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5_DESC_1_SUBDESC_3",
+        "message": "पारगमन में एन्क्रिप्शन: सभी डेटा HTTPS (TLS एन्क्रिप्शन) का उपयोग करके प्रसारित किया जाता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5_DESC_1_SUBDESC_4",
+        "message": "हस्ताक्षरित ऑडिट लॉग: डेटा में किए गए सभी परिवर्तन एक हस्ताक्षरित ऑडिट लॉग में दर्ज किए जाते हैं, जिससे गैर-अस्वीकार्यता सुनिश्चित होती है - यानी यह ट्रैक करना हमेशा संभव होता है कि किसने कोई बदलाव किया है, और वह उपयोगकर्ता इस बात से इनकार नहीं कर सकता कि उन्होंने वह बदलाव किया है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_5_SUB_5_DESC_1_SUBDESC_5",
+        "message": "उपयोगकर्ता रजिस्ट्री: समाधान नाम आपके सभी पीआईआई को एक एकल, सुरक्षित रजिस्ट्री में संग्रहीत करता है, जिसे उपयोगकर्ता रजिस्ट्री के रूप में जाना जाता है।उपयोगकर्ता रजिस्ट्री तक पहुंच सीमित/नियंत्रित है - विवरण के लिए \"डेटा प्रोसेसिंग और उपयोग\" अनुभाग देखें।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_6_SUB_1",
+        "message": "डेटा प्रोसेसिंग और उपयोग",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_6_SUB_6_DESC_1",
+        "message": "खाते या उत्पाद से संबंधित उद्देश्यों के लिए उपयोग के अलावा, प्रदान किए गए ईमेल पते और संगठन का नाम विश्लेषण के लिए और सैंडबॉक्स उपयोगकर्ताओं की आंतरिक प्रोफाइलिंग के लिए उपयोग किया जा सकता है।केवल प्रदान किए गए संगठन के नाम का उपयोग बाहरी उद्देश्यों के लिए किया जा सकता है, जिसमें विपणन दस्तावेज़ और वेबसाइटें शामिल हैं, लेकिन इन्हीं तक सीमित नहीं हैं",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_6_SUB_6_DESC_2",
+        "message": "सैंडबॉक्स डिफ़ॉल्ट रूप से न्यूनतम विशेषाधिकार और उद्देश्य सीमा के सिद्धांतों का पालन करता है।केवल ऐसे व्यक्तियों/उपयोगकर्ताओं को ही अपना काम करने के लिए आपका डेटा (पीआईआई सहित) देखने की आवश्यकता होगी, उन्हें इस तक पहुंच प्राप्त होगी।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_6_SUB_6_DESC_3",
+        "message": "eGov फाउंडेशन व्यापक पहुंच, अनुपस्थित विशिष्ट उद्देश्य वाली \"सुपर यूजर\" भूमिकाओं के निर्माण को प्रोत्साहित नहीं करता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_6_SUB_6_DESC_4",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_7_SUB_1",
+        "message": "डेटा शेयरिंग",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_7_SUB_7_DESC_1",
+        "message": "आपके डेटा, अर्थात् संगठन के नाम का उपयोग विश्लेषण के उद्देश्य से किया जा सकता है, या किसी भी मामले में जहां डेटा साझा करने का उद्देश्य एकत्रित या अवैयक्तिकृत डेटा द्वारा पूरा किया जाता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_7_SUB_7_DESC_2",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_7_SUB_7_DESC_3",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_7_SUB_7_DESC_4",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_8_SUB_1",
+        "message": "डेटा प्रतिधारण और विलोपन",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_8_SUB_8_DESC_1",
+        "message": "जिन सैंडबॉक्स खातों में 120 दिनों तक लॉग इन नहीं किया गया है उन्हें निष्क्रिय के रूप में चिह्नित किया जा सकता है और 30 दिनों के बाद हटा दिया जा सकता है।खाते से संबंधित सभी डेटा खो जाएगा और खाता हटाए जाने की स्थिति में उसे पुनः प्राप्त नहीं किया जा सकेगा।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_8_SUB_8_DESC_2",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_8_SUB_8_DESC_3",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_8_SUB_8_DESC_4",
+        "message": " ",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9",
+        "message": "इस डेटा के संबंध में आपके अधिकार",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_1",
+        "message": "इस गोपनीयता नीति द्वारा कवर किए गए डेटा (पीआईआई सहित) के संबंध में आपके पास निम्नलिखित अधिकार हैं:",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_2",
+        "message": "एक।आपको यह जानने का अधिकार है कि कौन सा डेटा एकत्र, संग्रहीत, संसाधित, उपयोग और साझा किया जा रहा है।इस गोपनीयता नीति ने आपको प्रासंगिक जानकारी प्रदान की है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_3",
+        "message": "बी।आपको अपना डेटा देखने और किसी भी त्रुटि के मामले में डेटा में सुधार का अनुरोध करने का अधिकार है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_3_SUBDESC_1",
+        "message": "मैं।सैंडबॉक्स प्रशासक सुधार की प्रक्रिया निर्धारित करेंगे।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_3_SUBDESC_2",
+        "message": "द्वितीय.इस जानकारी तक पहुँचने के लिए, कृपया digi.sandbox@egoverns.org से संपर्क करें",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_4",
+        "message": "सी।आपको यह जानने का अधिकार है कि आपका डेटा किसके साथ साझा किया गया है/साझा किया जा रहा है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_4_SUBDESC_1",
+        "message": "मैं।इस जानकारी तक पहुँचने के लिए, कृपया digi.sandbox@egoverns.org से संपर्क करें।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_5",
+        "message": "डी।यदि आपका डेटा किसी ऐसे व्यक्ति या संगठन के साथ साझा किया जाना है जो पहले से ही इस नीति के \"डेटा शेयरिंग\" अनुभाग में वर्णित नहीं है, तो सैंडबॉक्स प्रशासक आपसे संपर्क करेंगे और ऐसे साझाकरण के लिए आपकी सहमति मांगेंगे।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_5_SUBDESC_1",
+        "message": "मैं।आपको ऐसी सहमति से इनकार करने का अधिकार है, ऐसी स्थिति में, आपका डेटा ऐसे अतिरिक्त व्यक्ति या संगठन के साथ साझा नहीं किया जा सकता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PRIVACY_HEADER_9_SUB_9_DESC_5_SUBDESC_2",
+        "message": "ii.यदि आपके डेटा को ऐसे अतिरिक्त व्यक्ति या संगठन के साथ साझा करना कानून या किसी अदालत/न्यायिक निकाय के आदेश द्वारा अनिवार्य है तो यह प्रावधान लागू नहीं हो सकता है।",
+        "module": "digit-privacy-policy",
+        "locale": "en_IN"
+    }
+]

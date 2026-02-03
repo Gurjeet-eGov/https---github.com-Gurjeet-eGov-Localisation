@@ -1,0 +1,47 @@
+[
+    {
+        "id": 108,
+        "url": "/expense-calculator/v1/_estimate",
+        "nav_url": ""
+    },
+    {
+        "id": 174,
+        "url": "/wms/mukta-pi/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 111,
+        "url": "/wms/expense/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 113,
+        "url": "/expense-calculator/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 117,
+        "url": "/expense-calculator/purchase/v1/_updatebill",
+        "nav_url": ""
+    },
+    {
+        "id": 122,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/billinbox"
+    },
+    {
+        "id": 123,
+        "url": "url",
+        "nav_url": "/works-ui/employee/expenditure/search-bill"
+    },
+    {
+        "id": 125,
+        "url": "/expense/bill/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 126,
+        "url": "/wms/ifms-pi/_search",
+        "nav_url": ""
+    }
+]

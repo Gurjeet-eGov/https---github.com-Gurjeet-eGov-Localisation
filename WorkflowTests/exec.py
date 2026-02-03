@@ -1,4 +1,4 @@
-import utils, TL, test
+import utils, TL, TL_Workflow
 from datetime import datetime, timedelta
 
 c=0
@@ -8,7 +8,7 @@ for epoch in utils.randomize_epoch(1711909800000, 1730399400000, 50):
     c= c+1
     # data = TL.NewTL_mod("createdTime", epoch)
     # tenants ca.emeryville, ca.berkeley, ca.alameda
-    data = test.NewTL_mod_tenant("", epoch, "ke.nakuru")
+    data = TL_Workflow.NewTL_mod_tenant("", epoch, "ke.nakuru")
     print(c, "TL: ", data, " : createdTime: ", datetime.fromtimestamp(epoch / 1000))
     
 

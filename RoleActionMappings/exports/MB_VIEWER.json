@@ -1,0 +1,32 @@
+[
+    {
+        "id": 134,
+        "url": "/measurement-service/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 135,
+        "url": "/wms/measurement-service/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 136,
+        "url": "/mukta-services/measurement/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 186,
+        "url": "/statements/v1/utilization/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 188,
+        "url": "/egov-pdf/download/utilizationStatement/utilization-statement",
+        "nav_url": ""
+    },
+    {
+        "id": 189,
+        "url": "/statements/v1/utilization/_search",
+        "nav_url": ""
+    }
+]

@@ -1,0 +1,83 @@
+{
+  "SewerageConnection": {
+    "applicationStatus": "PENDING_FOR_DOCUMENT_VERIFICATION",
+    "documents": [
+      {
+        "documentType": "OWNER.IDENTITYPROOF.AADHAAR",
+        "fileStoreId": "76dcca4b-079f-43f1-a4e1-2582c6138306",
+        "i18nKey": "OWNER.IDENTITYPROOF.AADHAAR",
+        "status": "ACTIVE"
+      },
+      {
+        "documentType": "OWNER.ADDRESSPROOF.VOTERID",
+        "fileStoreId": "8b7df119-7540-431c-802d-abcbd65a4aac",
+        "i18nKey": "OWNER.ADDRESSPROOF.VOTERID",
+        "status": "ACTIVE"
+      },
+      {
+        "documentType": "ELECTRICITY_BILL",
+        "fileStoreId": "5f84e124-ab84-4c31-8403-f61d4b7ecffc",
+        "i18nKey": "ELECTRICITY_BILL",
+        "status": "ACTIVE"
+      },
+      {
+        "documentType": "PLUMBER_REPORT_DRAWING",
+        "fileStoreId": "9309574f-cc27-4b92-a141-b7492eb85a51",
+        "i18nKey": "PLUMBER_REPORT_DRAWING",
+        "status": "ACTIVE"
+      },
+      {
+        "id": "2c6eeb7a-dddb-4405-a2ce-c3adc14abf6d",
+        "documentType": "OWNER.USAGEPROOF.ELECTRICITYBILL",
+        "fileStoreId": "c093c1d6-3e44-4604-9e3e-7427607eeb26",
+        "documentUid": "c093c1d6-3e44-4604-9e3e-7427607eeb26",
+        "auditDetails": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "6d95d4d8-60b6-4e76-b163-816095dd1daa",
+        "documentType": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
+        "fileStoreId": "1134d0b1-59ba-408d-a809-2a9c1fbe6ba9",
+        "documentUid": "1134d0b1-59ba-408d-a809-2a9c1fbe6ba9",
+        "auditDetails": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "f6eff7db-5e6e-43bc-bcd5-7569356d15fb",
+        "documentType": "OWNER.IDENTITYPROOF.AADHAAR",
+        "fileStoreId": "f1e89326-96ef-4359-8040-f41c5dd0f663",
+        "documentUid": "f1e89326-96ef-4359-8040-f41c5dd0f663",
+        "auditDetails": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "eae99279-ea3a-469c-ae50-1200fedc306b",
+        "documentType": "OWNER.REGISTRATIONPROOF.SALEDEED",
+        "fileStoreId": "e9a7671a-c1e9-4cbb-8937-a7be64ee5614",
+        "documentUid": "e9a7671a-c1e9-4cbb-8937-a7be64ee5614",
+        "auditDetails": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "5d378695-818f-457b-b813-75aa0ce35a98",
+        "documentType": "OWNER.CONSTRUCTIONPROOF.BPACERTIFICATE",
+        "fileStoreId": "90fcf1f6-49b5-4864-a599-53351e0cf3f0",
+        "documentUid": "90fcf1f6-49b5-4864-a599-53351e0cf3f0",
+        "auditDetails": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "f1b81fd5-b447-48ab-96f1-df525617275b",
+        "documentType": "OWNER.IDENTITYPROOF.AADHAAR",
+        "fileStoreId": "f1e89326-96ef-4359-8040-f41c5dd0f663",
+        "documentUid": "f1e89326-96ef-4359-8040-f41c5dd0f663",
+        "auditDetails": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "processInstance": {
+      "action": "SUBMIT_APPLICATION"
+    }
+  },
+  "RequestInfo": {}
+}

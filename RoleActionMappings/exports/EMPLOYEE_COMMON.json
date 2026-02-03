@@ -1,0 +1,92 @@
+[
+    {
+        "id": 65,
+        "url": "/inbox/v2/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 1,
+        "url": "url",
+        "nav_url": "/works-ui/employee/"
+    },
+    {
+        "id": 4,
+        "url": "/egov-hrms/employees/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 197,
+        "url": "/boundary-service/boundary-hierarchy-definition/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 198,
+        "url": "/boundary-service/boundary-hierarchy-definition/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 199,
+        "url": "/boundary-service/boundary/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 200,
+        "url": "/boundary-service/boundary/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 201,
+        "url": "/boundary-service/boundary-relationships/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 202,
+        "url": "/boundary-service/boundary-relationships/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 107,
+        "url": "/user/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 81,
+        "url": "/user/_logout",
+        "nav_url": ""
+    },
+    {
+        "id": 212,
+        "url": "/mukta-services/bankaccount/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 213,
+        "url": "/mukta-services/individual/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 21,
+        "url": "/egov-workflow-v2/egov-wf/process/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 23,
+        "url": "/user/profile/_update",
+        "nav_url": ""
+    },
+    {
+        "id": 22,
+        "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 214,
+        "url": "/mukta-services/org-services/organisation/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 26,
+        "url": "/user/password/_update",
+        "nav_url": ""
+    }
+]

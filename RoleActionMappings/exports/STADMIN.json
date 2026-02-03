@@ -1,102 +1,12 @@
 [
     {
-        "id": 2317,
-        "url": "/filestore/v1/files",
+        "id": 80,
+        "url": "/dashboard-analytics/dashboard/getDashboardConfig/mukta",
         "nav_url": ""
     },
     {
-        "id": 2319,
-        "url": "/dashboard-analytics/dashboard/getDashboardConfig/mCollect",
-        "nav_url": ""
-    },
-    {
-        "id": 2323,
-        "url": "/national-dashboard/masterdata/_ingest",
-        "nav_url": ""
-    },
-    {
-        "id": 1948,
-        "url": "/dashboard-analytics/dashboard/getDashboardConfig/overview",
-        "nav_url": ""
-    },
-    {
-        "id": 1949,
-        "url": "url",
-        "nav_url": "integration/dss/overview"
-    },
-    {
-        "id": 2335,
-        "url": "url",
-        "nav_url": "/digit-ui/employee/dss/dashboard/tradelicense"
-    },
-    {
-        "id": 2339,
-        "url": "url",
-        "nav_url": "/digit-ui/employee/dss/dashboard/pgr"
-    },
-    {
-        "id": 1958,
-        "url": "card",
-        "nav_url": "integration/dss/home"
-    },
-    {
-        "id": 1964,
-        "url": "/dashboard-ingest/ingest/upload",
-        "nav_url": ""
-    },
-    {
-        "id": 1970,
-        "url": "/dashboard-ingest/ingest/paymentsindex-v1/v2",
-        "nav_url": ""
-    },
-    {
-        "id": 1977,
-        "url": "/dashboard-ingest/ingest/migrate/paymentsindex-v1/v2",
-        "nav_url": ""
-    },
-    {
-        "id": 698,
-        "url": "/user/profile/_update",
-        "nav_url": ""
-    },
-    {
-        "id": 699,
-        "url": "/user/password/_update",
-        "nav_url": ""
-    },
-    {
-        "id": 701,
-        "url": "/user/_logout",
-        "nav_url": ""
-    },
-    {
-        "id": 1886,
-        "url": "url",
-        "nav_url": "integration/dss/home"
-    },
-    {
-        "id": 2015,
-        "url": "/report/pgr/ULBReport/metadata/_get",
-        "nav_url": ""
-    },
-    {
-        "id": 1889,
-        "url": "/dashboard-analytics/dashboard/getDashboardConfig/home",
-        "nav_url": ""
-    },
-    {
-        "id": 1890,
+        "id": 129,
         "url": "/dashboard-analytics/dashboard/getChartV2",
-        "nav_url": ""
-    },
-    {
-        "id": 1893,
-        "url": "/dashboard-analytics/dashboard/getDashboardConfig/tradelicense",
-        "nav_url": ""
-    },
-    {
-        "id": 1894,
-        "url": "/dashboard-analytics/dashboard/getDashboardConfig/pgr",
         "nav_url": ""
     }
 ]

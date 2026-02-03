@@ -1,0 +1,32 @@
+[
+    {
+        "code": "email.login.otp.body",
+        "message": "प्रिय उपयोगकर्ता,<br><br>साइन-अप पूरा करने या अपने सैंडबॉक्स खाते में लॉगिन करने के लिए, कृपया नीचे दिया गया ओटीपी दर्ज करें:<br><br><b style='font-size: 24px;रंग: #000;'>%s</b><br><br>यदि आपने यह कार्रवाई शुरू नहीं की है, तो कृपया <a href='mailto:digit.sandbox@egoverns.org'>digit.sandbox@eगवर्नमेंट्स.org</a><br><br>सादर,<br>सैंडबॉक्स टीम से संपर्क करें",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "email.login.otp.sub",
+        "message": "सैंडबॉक्स साइन-अप/लॉगिन ओटीपी",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "sms.login.otp.msg",
+        "message": "प्रिय नागरिक, आपका लॉगिन ओटीपी %s है\n\nEGOVS",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "sms.pwd.reset.otp.msg",
+        "message": "प्रिय नागरिक, पासवर्ड पुनर्प्राप्त करने के लिए आपका ओटीपी %s है।",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "sms.register.otp.msg",
+        "message": "प्रिय नागरिक, आपका लॉगिन ओटीपी %s है\n\nEGOVS",
+        "module": "egov-user",
+        "locale": "en_IN"
+    }
+]

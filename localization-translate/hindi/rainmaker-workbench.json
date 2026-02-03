@@ -1,0 +1,902 @@
+[
+    {
+        "code": "ACTION_TEST_MANAGE_DEPARTMENT_MASTER",
+        "message": "प्रबंध विभाग मास्टर",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_MANAGE_EMPLOYEETYPE_MASTER",
+        "message": "कर्मचारी मास्टर का प्रबंधन करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADD_NEW_ROW",
+        "message": "नई पंक्ति जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CLEAR_LOC_TABLE",
+        "message": "साफ़ तालिका",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_CORE_COLLAPSE",
+        "message": "गिर जाना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_CORE_EXPAND",
+        "message": "बढ़ाना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DESIGNATION_CODE",
+        "message": "कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DESIGNATION_DESCRIPTION",
+        "message": "विवरण",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DESIGNATION_NAME",
+        "message": "नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GENDERTYPE_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GENDERTYPE_CODE",
+        "message": "लिंग प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CONSTRAINTVIOLATIONEXCEPTION",
+        "message": "संदेश में असुरक्षित HTML सामग्री है",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CREATE_BOUNDARY_HIERARCHY_TYPE",
+        "message": "सीमा पदानुक्रम बनाएँ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ACTION_DISABLE_MASTER",
+        "message": "मास्टर को अक्षम करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ACTION_EDIT_MASTER",
+        "message": "मास्टर संपादित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ACTION_ENABLE_MASTER",
+        "message": "मास्टर सक्षम करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_ACTION",
+        "message": "कार्रवाई",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DUPLICATE_RECORD",
+        "message": "डुप्लिकेट रिकॉर्ड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_DEACTIVATIONREASON_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_DEACTIVATIONREASON_CODE",
+        "message": "कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_EMPLOYEEDEPARTMENT_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_EMPLOYEEDEPARTMENT_CODE",
+        "message": "कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EGOV_HRMS_SPECALIZATION_CODE",
+        "message": "कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_ENTER_DATE_RANGE",
+        "message": "दिनांक सीमा दर्ज करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_NA",
+        "message": "ना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HCM_CREATE_BOUNDARY_HIERARCHY",
+        "message": "सीमा पदानुक्रम बनाएँ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HCM_CREATE_BOUNDARY_HIERARCHY_DESCRIPTION",
+        "message": "अपनी सीमा पदानुक्रम बनाएं",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HCM_LEVEL",
+        "message": "स्तर",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HCM_UPLOAD_BOUNDARY",
+        "message": "सीमा अपलोड करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LOCALISATION_ADD",
+        "message": "स्थानीयकरण जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LOCALISATION_SEARCH",
+        "message": "स्थानीयकरण प्रबंधित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MANAGE_MASTER_DATA",
+        "message": "मास्टर डेटा प्रबंधित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MDMS_ADD_V2",
+        "message": "मास्टर डेटा जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MDMS_EDIT",
+        "message": "मास्टर डेटा संपादित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MDMS_SEARCH_V2",
+        "message": "मास्टर डेटा खोजें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MDMS_VIEW",
+        "message": "मास्टर डेटा देखें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "P G R. Service Defs",
+        "message": "पीजीआर सर्विस डिफ्स",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_KEYWORDS",
+        "message": "टैग",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_MENUPATH",
+        "message": "प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER_PGR_SERVICEDEFS_SERVICECODE",
+        "message": "उप प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTERTYPE_BOUNDARY",
+        "message": "सीमा",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTERTYPE_COMMON",
+        "message": "सामान्य",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTERTYPE_MODULE",
+        "message": "मॉड्यूल",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_ADMIN",
+        "message": "सीमा",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_COMMON_MASTERS_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_COMMON_MASTERS_DESIGNATION",
+        "message": "पद का नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_COMMON_MASTERS_GENDERTYPE",
+        "message": "लिंग प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_DEACTIVATEREASON",
+        "message": "निष्क्रियकरण के कारण",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_DEACTIVATIONREASON",
+        "message": "निष्क्रियकरण के कारण",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_EMPLOYEEDEPARTMENT",
+        "message": "कर्मचारी विभाग",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_EMPLOYEESTATUS",
+        "message": "रोज़गार की स्थिति",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_EMPLOYEETYPE",
+        "message": "रोजगार के प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_EMPLOYMENTDEPARTMENT",
+        "message": "रोजगार विभाग",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_EMPLOYMENTSTATUS",
+        "message": "रोज़गार की स्थिति",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_EMPLOYMENTTYPE",
+        "message": "रोजगार के प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_SPECALIZATION",
+        "message": "विशेषज्ञता",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_EGOV_HRMS_SPECIALIZATION",
+        "message": "विशेषज्ञता",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_DEPARTMENT_ACTIVE",
+        "message": "प्रारंभ में डेटा जोड़ते समय सत्य पर सेट करें, और फिर आवश्यकतानुसार मास्टर को सक्षम/अक्षम करें पर क्लिक करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_DEPARTMENT_CODE",
+        "message": "विभाग को अद्वितीय कोड निर्दिष्ट करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_DEPARTMENT_NAME",
+        "message": "विभाग कोड की पहचान करने के लिए नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_GENDERTYPE_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_COMMON_MASTERS_GENDERTYPE_CODE",
+        "message": "लिंग प्रकार कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_DEACTIVATIONREASON_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_DEACTIVATIONREASON_CODE",
+        "message": "कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEEDEPARTMENT_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_EGOV_HRMS_EMPLOYEEDEPARTMENT_CODE",
+        "message": "कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UNIQUE_IDENTIFIER_EMPTY_ERR",
+        "message": "अद्वितीय फ़ील्ड खाली नहीं हो सकते.",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UPLOAD_BOUNDARY",
+        "message": "सीमा अपलोड करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ADD",
+        "message": "जोड़ना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ADD_LEVEL",
+        "message": "स्तर जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ADD_LOCALISATION",
+        "message": "नया जोड़ो",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ADD_MDMS",
+        "message": "मास्टर डेटा जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ADD_MDMS_ADD_ACTION",
+        "message": "डेटा जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ADD_MDMS_UPDATE_ACTION",
+        "message": "अद्यतन",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_BOOLEAN_VALUE_FALSE",
+        "message": "असत्य",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_BOOLEAN_VALUE_TRUE",
+        "message": "सत्य",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_BULK_BROWSE_FILES",
+        "message": "फ़ाइलों को ब्राउज़ करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_BULK_UPLOAD_HEADER",
+        "message": "थोक अपलोड मास्टर डेटा",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_BULK_UPLOAD_SUBMIT",
+        "message": "पूर्ण टेम्पलेट अपलोड करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_CANCEL",
+        "message": "रद्द करना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_COMMON_NO",
+        "message": "नहीं",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_COMMON_YES",
+        "message": "हाँ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_CONFIRM",
+        "message": "पुष्टि करना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_CONFIRM_UPLOAD",
+        "message": "पुष्टि करना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_CREATE_HIERARCHY",
+        "message": "पदानुक्रम बनाएँ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_DELETE_ACTION",
+        "message": "मिटाना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_DOWLOAD_TEMPLATE",
+        "message": "टेम्पलेट डाउनलोड करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_DOWNLOAD_TEMPLATE",
+        "message": "टेम्पलेट डाउनलोड करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_DRAG_DROP",
+        "message": "खींचें और छोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_EDIT_MDMS",
+        "message": "मास्टर डेटा संपादित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_ENUM",
+        "message": "कृपया एनम मान दर्ज करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_FORMAT",
+        "message": "कृपया सही प्रारूप दर्ज करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_MAXLENGTH",
+        "message": "मान अधिकतम लंबाई से अधिक है",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_MDMS_DATA",
+        "message": "त्रुटि: त्रुटि",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_MDMS_DATA DUPLICATE_RECORD",
+        "message": "डुप्लिकेट रिकॉर्ड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_MINITEMS",
+        "message": "कृपया मिनिमम आइटम दर्ज करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_MINLENGTH",
+        "message": "प्रदत्त मान बहुत छोटा है",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_PATTERN",
+        "message": "अमान्य, पैटर्न मेल खाना चाहिए",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ERROR_TYPE",
+        "message": "अमान्य प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_FIELD",
+        "message": "मैदान",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_FIELD_VALUE",
+        "message": "कीमत",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_HIERARCHY_DETAILS",
+        "message": "पदानुक्रम विवरण",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_HIERARCHY_NAME",
+        "message": "पदानुक्रम नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_HIERARCHY_TYPE",
+        "message": "पदानुक्रम प्रकार",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_ISACTIVE",
+        "message": "सक्रिय है",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOCALISATION_SEARCH_HEADER",
+        "message": "स्थानीयकरण डेटा",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_ADD",
+        "message": "स्थानीयकरण जोड़ें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_BULK_UPLOAD_XLS",
+        "message": "थोक अपलोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_CODE",
+        "message": "कुंजी कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_DEFAULT_INFO_MESSAGE",
+        "message": "संदेशों को डिफ़ॉल्ट लोकेल में भी डाला जाएगा",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_EDIT_LOCALISATION",
+        "message": "स्थानीयकरण अद्यतन करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_EDIT_MODAL_CANCEL",
+        "message": "रद्द करना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_EDIT_MODAL_SUBMIT",
+        "message": "जमा करना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_EMPTY_KEY_VALUE_VALIDATION_ERR",
+        "message": "कीकोड/टेक्स्ट खाली नहीं होना चाहिए",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_ENTER_VALID_MESSAGE",
+        "message": "कृपया मान्य पाठ दर्ज करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_HEADER_CODE",
+        "message": "कुंजी कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_HEADER_DEFAULT",
+        "message": "डिफ़ॉल्ट मान",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_HEADER_MESSAGE",
+        "message": "मूलपाठ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_HEADER_MODULENAME",
+        "message": "मोड्यूल का नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_KEYCODE",
+        "message": "कुंजी कोड",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_LANG",
+        "message": "भाषा",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_LOCALE",
+        "message": "स्थान",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_MESSAGE",
+        "message": "मूलपाठ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_MESSAGE_VALUE",
+        "message": "मूलपाठ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_MODULE",
+        "message": "मॉड्यूल",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_SELECT_LANG",
+        "message": "भाषा चुने",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_SELECT_MODULE",
+        "message": "मॉड्यूल का चयन करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_UPDATE_FAIL",
+        "message": "स्थानीयकरण अद्यतन विफल",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक अद्यतन किया गया",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_UPSERT_FAIL",
+        "message": "स्थानीयकरण उन्नयन विफल",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_UPSERT_SUCCESS",
+        "message": "स्थानीयकरण सफलतापूर्वक प्रदर्शित हुआ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_LOC_WARNING_LOCALE_MUST_BE_PRESENT",
+        "message": "भाषा मौजूद होनी चाहिए",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MANAGE_MASTER_DATA",
+        "message": "मास्टर डेटा प्रबंधित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MASTER_NAME",
+        "message": "मास्टर नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_COMMON_MASTER_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_MASTER_COMMON_MASTER",
+        "message": "सामान्य स्वामी",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_SEARCH_VALIDATION_FIELD_VALUE_PAIR",
+        "message": "कृपया फ़ील्ड और मान दोनों दर्ज करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MDMS_TRADE_FIELDS",
+        "message": "खेत",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_MODULE_NAME",
+        "message": "मोड्यूल का नाम",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_SEARCH_MDMS",
+        "message": "मास्टर डेटा प्रबंधित करें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_SHOW_JSON",
+        "message": "JSON दिखाएँ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_SUCCESS_DIS_MDMS_MSG",
+        "message": "विशिष्ट पहचानकर्ता के साथ डेटा सफलतापूर्वक अक्षम किया गया",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_SUCCESS_ENA_MDMS_MSG",
+        "message": "विशिष्ट पहचानकर्ता के साथ डेटा सफलतापूर्वक सक्षम किया गया",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_SUCCESS_MDMS_MSG",
+        "message": "सफलता: विशिष्ट पहचानकर्ता के साथ डेटा सफलतापूर्वक जोड़ा गया",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_SUCCESS_UPD_MDMS_MSG",
+        "message": "आईडी के साथ डेटा सफलतापूर्वक अपडेट किया गया",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_UNABLE_TO_FIND_HIERARCHY_TYPE",
+        "message": "पदानुक्रम ढूंढने में असमर्थ",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_UNIQUE_IDENTIFIER",
+        "message": "विशिष्ट पहचानकर्ता",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WBH_VIEW_MDMS",
+        "message": "मास्टर डेटा देखें",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WORKS_ACTIONS",
+        "message": "कार्यवाही करना",
+        "module": "rainmaker-workbench",
+        "locale": "en_IN"
+    }
+]

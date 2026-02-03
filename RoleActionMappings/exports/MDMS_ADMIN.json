@@ -1,0 +1,27 @@
+[
+    {
+        "id": 160,
+        "url": "/mdms-v2/schema/v1/_create",
+        "nav_url": ""
+    },
+    {
+        "id": 161,
+        "url": "/mdms-v2/schema/v1/_search",
+        "nav_url": ""
+    },
+    {
+        "id": 210,
+        "url": "url",
+        "nav_url": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=WORKS&masterName=EstimateTemplate"
+    },
+    {
+        "id": 190,
+        "url": "/mdms-v2/v2/_create/WORKS.ProjectType",
+        "nav_url": ""
+    },
+    {
+        "id": 191,
+        "url": "/mdms-v2/v2/_update/WORKS.ProjectType",
+        "nav_url": ""
+    }
+]

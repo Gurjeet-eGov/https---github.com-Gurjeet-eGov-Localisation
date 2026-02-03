@@ -1,0 +1,698 @@
+[
+    {
+        "code": "ADMIN",
+        "message": "सीमा",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "APPLICATION_MANAGEMENT_CRUMB",
+        "message": "अनुप्रयोग प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "APPLICATON_MODULE_CRUMB_HCM",
+        "message": "एचसीएम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "APPLICATON_MODULE_CRUMB_HRMS",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "APPLICATON_MODULE_CRUMB_PGR",
+        "message": "शिकायतों",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BANNER_UPLOAD",
+        "message": "उत्पाद बैनर छवि अद्यतन करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BOTH_FILESTOREIDS_ARE_UNDEFINED",
+        "message": "कम से कम एक फ़ाइल अपलोड करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT",
+        "message": "शिकायत प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_ASSIGNING_COMPLAINT",
+        "message": "एक शिकायत सौंपना",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_DASHBOARD_REPORTS",
+        "message": "डैशबोर्ड और रिपोर्ट",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_DESCRIPTION",
+        "message": "डिजिटल-सार्वजनिक शिकायत निवारण (पीजीआर) नागरिकों द्वारा कहीं भी, कभी भी शिकायतें प्रस्तुत करने के लिए एक स्व-सेवा वेब और मोबाइल-आधारित, उपयोग में आसान और कॉन्फ़िगर करने योग्य उत्पाद है।नागरिक संबंधी शिकायतों के त्वरित और कुशल समाधान के लिए, DIGIT-PGR नागरिकों को वास्तविक समय में मुद्दों की रिपोर्ट करने में सक्षम बनाता है और नगरपालिका कर्मचारियों को मुद्दों की आसान पहचान करने में सक्षम बनाता है और उन्हें बिना किसी देरी के सुधारात्मक कार्रवाई शुरू करने में मदद करता है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_LODGING_FILE",
+        "message": "शिकायत दर्ज करना",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_MANAGE_COMPLAINTS",
+        "message": "शिकायतें प्रबंधित करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_MASTER_DESCRIPTION",
+        "message": "शिकायत प्रबंधन मॉड्यूल को सक्रिय करने के लिए निम्नलिखित मास्टर्स को स्थापित करना आवश्यक है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_REGISTRATION_LOGIN_CREATION",
+        "message": "पंजीकरण, लॉगिन और उपयोगकर्ता प्रोफ़ाइल का निर्माण",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_RESOLVING_COMPLAINT",
+        "message": "एक शिकायत का समाधान",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_SETUP_MASTER_DESCRIPTION",
+        "message": "मास्टर डेटा DIGIT उत्पादों के व्यवहार पर करीबी नियंत्रण हासिल करने का एक साधन है, और आमतौर पर उत्पाद के उपयोग से पहले कॉन्फ़िगर किया जाता है।मास्टर्स या तो उत्पाद विशिष्ट हो सकते हैं (उदा. शिकायत प्रकार) या कई उत्पादों के बीच सामान्य (उदा. सीमाएँ)।सैंडबॉक्स उपयोगकर्ताओं को वर्कबेंच जीयूआई के माध्यम से मास्टर डेटा को अनुकूलित करने में सक्षम बनाता है। सैंडबॉक्स में एक संवर्द्धन के रूप में, मास्टर डेटा डिफ़ॉल्ट मानों के साथ पूर्व-कॉन्फ़िगर किया जाता है, जिसका अर्थ है कि आप तुरंत DIGIT उत्पादों का उपयोग शुरू कर सकते हैं।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMPLAINT_MANAGEMENT_TRACK_COMPLAINTS",
+        "message": "शिकायतों को ट्रैक करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CONFIG_UPLOAD_ERROR_MESSAGE",
+        "message": "कॉन्फ़िगरेशन अपलोड करने में विफल",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CONFIG_UPLOAD_SUCCESSFUL_TOAST_MESSAGE",
+        "message": "कॉन्फ़िगरेशन सफलतापूर्वक अपडेट किया गया",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEFAULT_MASTER_SETUP_ERROR",
+        "message": "डिफ़ॉल्ट सेटअप के दौरान त्रुटि उत्पन्न हुई",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEFAULT_MASTER_SETUP_SUCCESS",
+        "message": "डिफ़ॉल्ट मास्टर ने सफलतापूर्वक सेटअप कर लिया है",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEFAULT_MASTER_SETUP_SUCCESS_ALERT",
+        "message": "बधाई हो!",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEFAULT_MASTER_SETUP_SUCCESS_DESC",
+        "message": "शिकायतों के लिए मास्टर डेटा डिफ़ॉल्ट मानों के साथ सेट किया गया है।शिकायतों का समाधान करने के लिए होम स्क्रीन पर जाएँ।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEFAULT_MASTER_SETUP_SUCCESS_TEXT",
+        "message": "आप अपनी आवश्यकताओं के अनुरूप मास्टर डेटा को अनुकूलित करने के लिए किसी भी समय यहां वापस आ सकते हैं।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEFAULT_MASTER_SUCCESS_BUTTON_LABEL",
+        "message": "होम स्क्रीन पर जाएं",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDIT_MASTER",
+        "message": "मास्टर संपादित करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_SEARCH",
+        "message": "स्पष्ट",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH",
+        "message": "खोज",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FALSE",
+        "message": "असत्य",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FEATURES",
+        "message": "प्रमुख विशेषताऐं",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HOME",
+        "message": "घर",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMSInbox",
+        "message": "कर्मचारी खोजें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_Create_Employee",
+        "message": "कर्मचारी बनाएँ",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_DELETE_EMPLOYEE",
+        "message": "कर्मचारी हटाएँ",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_DESCRIPTION",
+        "message": "कर्मचारी प्रबंधन सैंडबॉक्स खाता स्वामी को सैंडबॉक्स पर सूचीबद्ध प्रत्येक DIGIT उत्पादों तक पहुंच को नियंत्रित करने के लिए एक डिजिटल इंटरफ़ेस प्रदान करता है। DIGIT उत्पादों की वास्तविक जीवन तैनाती में, सरकारी कर्मचारियों को उनके कार्य के दायरे के आधार पर अलग-अलग उपयोगकर्ता भूमिकाएँ सौंपी जाती हैं।कर्मचारी प्रबंधन मॉड्यूल सैंडबॉक्स उपयोगकर्ताओं को इन विभिन्न भूमिकाओं के दृष्टिकोण से उत्पादों का अनुभव करने में सक्षम बनाता है।सैंडबॉक्स उपयोगकर्ता तब बनाए गए कर्मचारी के क्रेडेंशियल्स का उपयोग करके सैंडबॉक्स खाते में लॉगिन कर सकता है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_EDIT_EMPLOYEE",
+        "message": "कर्मचारी संपादित करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_MODIFY_EMPLOYEE",
+        "message": "कर्मचारी को संशोधित करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_REGISTRATION_LOGIN_CREATION",
+        "message": "एचआरएमएस कर्मचारी निर्माण",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_SETUP_MASTER_DESCRIPTION",
+        "message": "मास्टर डेटा DIGIT उत्पादों के व्यवहार पर करीबी नियंत्रण हासिल करने का एक साधन है, और आमतौर पर उत्पाद के उपयोग से पहले कॉन्फ़िगर किया जाता है।मास्टर्स या तो उत्पाद विशिष्ट हो सकते हैं (उदा. शिकायत प्रकार) या कई उत्पादों के बीच सामान्य (उदा. सीमाएँ)।सैंडबॉक्स उपयोगकर्ताओं को वर्कबेंच जीयूआई के माध्यम से मास्टर डेटा को अनुकूलित करने में सक्षम बनाता है। सैंडबॉक्स में एक संवर्द्धन के रूप में, मास्टर डेटा डिफ़ॉल्ट मानों के साथ पूर्व-कॉन्फ़िगर किया जाता है, जिसका अर्थ है कि आप तुरंत DIGIT उत्पादों का उपयोग शुरू कर सकते हैं।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HRMS_VIEW_EMPLOYEE",
+        "message": "कर्मचारी देखें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LOGO_UPLOAD_FAILED",
+        "message": "लोगो अपलोड विफल रहा",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LOGO_UPLOAD_LABEL",
+        "message": "उत्पाद लोगो अद्यतन करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MANNUAL_MASTER_SETUP_ERROR",
+        "message": "मैन्युअल सेटअप के दौरान त्रुटि उत्पन्न हुई",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MANNUAL_MASTER_SETUP_SUCCESS",
+        "message": "मैनुअल मास्टर सफलतापूर्वक स्थापित हो गया है",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "RAINMAKER-PGR.ServiceDefs",
+        "message": "शिकायत के प्रकार",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_ACTIONS",
+        "message": "कार्रवाई",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_APPLICATION_HOME_HEADER",
+        "message": "अनुप्रयोग प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_APPLICATION_MODULE_HCM",
+        "message": "एचसीएम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_APPLICATION_MODULE_HRMS",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_APPLICATION_MODULE_PGR",
+        "message": "शिकायतों",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_COLUMN_MASTER_NAME",
+        "message": "मास्टर नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_COLUMN_MODULE_NAME",
+        "message": "मोड्यूल का नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CONFIG_UPLOAD_DONE",
+        "message": "अपलोड करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CREATE_TENANT_ACTIVE_LABEL",
+        "message": "सक्रिय",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CREATE_TENANT_EMAIL_LABEL",
+        "message": "ईमेल आईडी",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CREATE_TENANT_HEADER",
+        "message": "उप किरायेदार बनाएँ",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CREATE_TENANT_NAME_LABEL",
+        "message": "नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_CREATE_TENANT_SUBMIT_BUTTON",
+        "message": "जमा करना",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_DEFAULT_MASTER_LOAD",
+        "message": "ऑटो कॉन्फ़िगरेशन के साथ आगे बढ़ें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MANNUAL_MASTER_LOAD",
+        "message": "मैन्युअल सेटअप के साथ आगे बढ़ें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTERTYPE_BOUNDARY",
+        "message": "सीमा",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTERTYPE_COMMON",
+        "message": "सामान्य",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTERTYPE_MODULE",
+        "message": "मॉड्यूल",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_DESCRIPTION",
+        "message": "विवरण",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_NAME",
+        "message": "मास्टर नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_ADMIN",
+        "message": "उन सीमाओं को परिभाषित करने के लिए उपयोग किया जाता है जिनके भीतर अनुप्रयोगों में डेटा एकत्र किया जाता है।यह मास्टर डेटा संग्रह और रिपोर्टिंग की सटीकता को बढ़ाने में मदद करता है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_RAINMAKER-PGR.ServiceDefs",
+        "message": "शिकायतों के प्रकार और उप-प्रकार निर्धारित करता है जिनके खिलाफ उपयोगकर्ता शिकायत दर्ज कर सकते हैं।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_common-masters.Department",
+        "message": "उपयोगकर्ताओं/कर्मचारियों को विभागों की सूची",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_common-masters.Designation",
+        "message": "सिस्टम में कर्मचारियों के लिए उपलब्ध पदनामों की सूची।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_common-masters.GenderType",
+        "message": "एप्लिकेशन में प्रयुक्त विभिन्न लिंग प्रकारों को परिभाषित करता है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.DeactivateReason",
+        "message": "एचआरएमएस मॉड्यूल में किसी कर्मचारी की प्रोफ़ाइल को निष्क्रिय करने के कारणों को परिभाषित करता है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.DeactivationReason",
+        "message": "कर्मचारी को निष्क्रिय करने के कारण",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.EmployeeDepartment",
+        "message": "उन विभागों की सूची जिन्हें किसी कर्मचारी को सौंपा जा सकता है",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.EmployeeStatus",
+        "message": "संभावित रोजगार स्थिति की सूची",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.EmployeeType",
+        "message": "संभावित रोजगार शर्तों की सूची",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.EmploymentDepartment",
+        "message": "एचआरएमएस मॉड्यूल में उन विभागों की सूची बनाएं जिनके साथ कर्मचारी जुड़े हो सकते हैं।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.EmploymentStatus",
+        "message": "किसी कर्मचारी के लिए रोजगार की वर्तमान स्थिति को परिभाषित करता है।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.EmploymentType",
+        "message": "रोजगार के प्रकारों को परिभाषित करता है जैसे पूर्णकालिक, अंशकालिक या अनुबंध।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_SETUP_DESC_egov-hrms.Specalization",
+        "message": "एचआरएमएस मॉड्यूल में कर्मचारियों के लिए उपलब्ध विशेषज्ञताओं की सूची।",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MASTER_TYPE",
+        "message": "प्रकार",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_MODULE_NAME",
+        "message": "मोड्यूल का नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SETUP_MASTER_MODAL_HEADER",
+        "message": "डिफ़ॉल्ट मानों के साथ मास्टर डेटा को स्वतः कॉन्फ़िगर करें?",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_SETUP_MASTER_MODAL_TEXT",
+        "message": "कृपया ध्यान दें कि सभी मौजूदा मास्टर डेटा कॉन्फ़िगरेशन को डिफ़ॉल्ट मानों के साथ ओवरराइड किया जाएगा",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_COLUMN_CODE",
+        "message": "कोड",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_COLUMN_EMAIL",
+        "message": "ईमेल",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_COLUMN_NAME",
+        "message": "नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_CREATE_SUCCESS_TOAST",
+        "message": "उप किरायेदार सफलतापूर्वक बनाया गया",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_SEARCH_CODE_LABEL",
+        "message": "कोड",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_SEARCH_HEADER",
+        "message": "किरायेदार खोज",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TENANT_SEARCH_NAME_LABEL",
+        "message": "नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TITLE_HCM",
+        "message": "एचसीएम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TITLE_HRMS",
+        "message": "कर्मचारी प्रबंधन",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_TITLE_PGR",
+        "message": "शिकायतों",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SANDBOX_VIEW",
+        "message": "देखना",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCHEMA_ADMIN",
+        "message": "सीमा",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SETUP_MASTER",
+        "message": "सेटअप मास्टर",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SETUP_NOW",
+        "message": "अभी सेटअप करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRUE",
+        "message": "सत्य",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UPLOAD_LABEL_BANNER_CONFIGS",
+        "message": "अपने उत्पादों को अनुकूलित करें",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "boundary",
+        "message": "सीमा",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "common",
+        "message": "सामान्य",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "common-masters.Department",
+        "message": "विभाग",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "common-masters.Designation",
+        "message": "पद का नाम",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "common-masters.GenderType",
+        "message": "लिंग प्रकार",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.DeactivateReason",
+        "message": "निष्क्रियकरण कारण",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.DeactivationReason",
+        "message": "निष्क्रियकरण कारण",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.EmployeeDepartment",
+        "message": "कर्मचारी विभाग",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.EmployeeStatus",
+        "message": "कर्मचारी स्थिति",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.EmployeeType",
+        "message": "कर्मचारी का प्रकार",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.EmploymentDepartment",
+        "message": "रोजगार विभाग",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.EmploymentStatus",
+        "message": "रोज़गार की स्थिति",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.EmploymentType",
+        "message": "रोजगार के प्रकार",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "egov-hrms.Specalization",
+        "message": "विशेषज्ञता",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    },
+    {
+        "code": "module",
+        "message": "विशिष्ट",
+        "module": "digit-sandbox",
+        "locale": "en_IN"
+    }
+]

@@ -92,8 +92,10 @@ class Core:
                                 headers = header, 
                                 data = payload)
         utils.log_response(response)
-        RequestInfo = utils.generate_RequestInfo(response.json()["access_token"], 
-                                                 response.json()["UserRequest"])
+        # Some identity servers return 'access_token', others return 'refresh_token'
+        resp_json = response.json()
+        token = resp_json.get("access_token") or resp_json.get("refresh_token")
+        RequestInfo = utils.generate_RequestInfo(token, resp_json.get("UserRequest"))
         return RequestInfo
 
     def logout(self, RequestInfo):
